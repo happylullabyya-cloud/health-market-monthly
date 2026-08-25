@@ -74,34 +74,15 @@
           "https://www.ftnn.com.tw/news/569027",
           "https://isi.org.tw/home/blogs/20260818%E9%82%8A%E5%A2%83%E6%AA%A2%E9%A9%97%E4%B8%8D%E5%90%88%E6%A0%BC%E8%B3%87%E8%A8%8A"
         ]
-      },
-      {
-        "priority": "medium",
-        "title": "日本機能性表示食品 9/1 起 GMP 義務化",
-        "why_it_matters": "膠囊與錠劑產品強制符合 GMP，影響跨境供應鏈。",
-        "recommended_action": "確認供應商 GMP 合規狀態，更新包裝標示。",
-        "source_urls": [
-          "https://www.bci.co.jp/nichiryu/article/20212",
-          "https://www.cleolabs.co/en/blog/japan-ffc-gmp-mandate-2026"
-        ]
-      },
-      {
-        "priority": "medium",
-        "title": "茶裏王焙香紅烏即飲茶上市，在地茶＋無糖訴求強",
-        "why_it_matters": "在地茶葉故事為差異關鍵，無糖純茶為主流。",
-        "recommended_action": "評估在地茶機能化產品開發可行性。",
-        "source_urls": [
-          "https://today.line.me/tw/v3/article/nXRk90L"
-        ]
       }
     ]
   },
   "ingredients": [
     {
       "id": "probiotics",
-      "name": "益生菌（Probiotics）",
+      "name": "益生菌",
       "category": "腸道高纖",
-      "summary": "全球腸道健康成分市場 2026 年達 343 億美元，益生菌占 33.8%；Yakult 1000 新增免疫機能，強化益生菌與免疫連結。",
+      "summary": "全球腸道健康成分市場 2026 年達 343 億美元，益生菌占 33.8%。",
       "momentum_score": 88,
       "previous_momentum_score": null,
       "monthly_change": null,
@@ -120,21 +101,19 @@
         "Japan",
         "Global"
       ],
-      "regulatory_note": "需有菌株與臨床佐證；台灣健康食品查驗登記或機能性表示",
+      "regulatory_note": "需有菌株與臨床佐證",
       "evidence_level": "high",
       "verification_status": "confirmed",
       "published_or_found_date": "2026-08-19",
       "source_urls": [
-        "https://www.yakult.co.jp/news/article.php?num=1875",
-        "https://news.livedoor.com/article/detail/32116554/",
         "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market"
       ]
     },
     {
       "id": "postbiotics",
-      "name": "後生元（Postbiotics）",
+      "name": "後生元",
       "category": "腸道高纖",
-      "summary": "後生元年增率 11.8% 高於益生菌 6.7%，穩定性高、宣稱空間大，台灣市場少見後生元飲品。",
+      "summary": "後生元年增率 11.8% 高於益生菌 6.7%。",
       "momentum_score": 82,
       "previous_momentum_score": null,
       "monthly_change": null,
@@ -152,20 +131,19 @@
         "Global",
         "Taiwan"
       ],
-      "regulatory_note": "定義與宣稱需依 ISAPP 與當地法規；台灣尚未明確定義",
+      "regulatory_note": "台灣尚未明確定義",
       "evidence_level": "high",
       "verification_status": "confirmed",
       "published_or_found_date": "2026-08-04",
       "source_urls": [
-        "https://www.twmicrobio.com/gut-health-trends-2025-2026-why-gut-health-is-becoming-nutritions-next-platform-claim/",
-        "https://marketsnxt.com/blog/gut-health-clinical-category-market-split-2026/"
+        "https://www.twmicrobio.com/gut-health-trends-2025-2026-why-gut-health-is-becoming-nutritions-next-platform-claim/"
       ]
     },
     {
       "id": "prebiotic-fiber",
-      "name": "益生元纖維（Prebiotic Fiber）",
+      "name": "益生元纖維",
       "category": "腸道高纖",
-      "summary": "益生元市場 2026 年達 98 億美元，CAGR 11.9%；Wildwonder、Poppi 等益生元氣泡飲興起。",
+      "summary": "益生元市場 2026 年達 98 億美元，CAGR 11.9%。",
       "momentum_score": 85,
       "previous_momentum_score": null,
       "monthly_change": null,
@@ -184,483 +162,21 @@
         "Global",
         "Taiwan"
       ],
-      "regulatory_note": "需符合膳食纖維定義；宣稱避免醫療化",
+      "regulatory_note": "需符合膳食纖維定義",
       "evidence_level": "high",
       "verification_status": "confirmed",
       "published_or_found_date": "2026-08-05",
       "source_urls": [
-        "https://www.bevnet.com/pr/2026/08/05/wildwonder-adds-apple-yuzu-where-the-orchard-meets-japanese-citrus",
         "https://www.futuremarketinsights.com/reports/dietary-fibers-and-prebiotic-fiber-market"
-      ]
-    },
-    {
-      "id": "l-theanine",
-      "name": "L-茶胺酸（L-Theanine）",
-      "category": "舒壓睡眠",
-      "summary": "L-茶胺酸用於舒壓、專注、睡眠品質，日本機能性表示食品多項產品使用。",
-      "momentum_score": 78,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "舒壓",
-        "專注",
-        "睡眠品質"
-      ],
-      "product_formats": [
-        "機能茶",
-        "睡眠飲",
-        "膠囊"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan",
-        "Global"
-      ],
-      "regulatory_note": "台灣列為食品原料；宣稱避免療效",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-12",
-      "source_urls": [
-        "https://wellness-news.co.jp/posts/260812-3/"
-      ]
-    },
-    {
-      "id": "gaba",
-      "name": "GABA",
-      "category": "舒壓睡眠",
-      "summary": "GABA 用於舒壓、睡眠、肌肉維持，日本機能性表示食品多項產品使用。",
-      "momentum_score": 76,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "舒壓",
-        "睡眠",
-        "肌肉維持"
-      ],
-      "product_formats": [
-        "睡眠飲",
-        "膠囊",
-        "粉包"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan",
-        "Global"
-      ],
-      "regulatory_note": "台灣列為食品原料；宣稱需謹慎",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-14",
-      "source_urls": [
-        "https://news.e-expo.net/gyousei/2026/08/260814_g02.html/"
-      ]
-    },
-    {
-      "id": "collagen-peptide",
-      "name": "膠原蛋白胜肽（Collagen Peptide）",
-      "category": "美容女性",
-      "summary": "膠原蛋白胜肽用於美容、皮膚彈性、疲勞減輕，日本機能性表示食品多項產品使用。",
-      "momentum_score": 72,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "美容",
-        "皮膚彈性",
-        "疲勞減輕"
-      ],
-      "product_formats": [
-        "膠原飲",
-        "粉包",
-        "膠囊"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan",
-        "Global"
-      ],
-      "regulatory_note": "台灣一般食品；宣稱避免醫療化",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-20",
-      "source_urls": [
-        "https://news.e-expo.net/gyousei/2026/08/260820_g01.html/"
-      ]
-    },
-    {
-      "id": "magnesium",
-      "name": "鎂（Magnesium）",
-      "category": "舒壓睡眠",
-      "summary": "鎂用於舒壓、睡眠、肌肉功能，TikTok 睡眠飲熱門成分。",
-      "momentum_score": 70,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "舒壓",
-        "睡眠",
-        "肌肉功能"
-      ],
-      "product_formats": [
-        "睡眠飲",
-        "電解質飲",
-        "膠囊"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣營養素；宣稱需依營養素功能",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-14",
-      "source_urls": [
-        "https://www.uclahealth.org/news/article/worth-trying-truth-behind-4-tiktok-wellness-trends"
-      ]
-    },
-    {
-      "id": "egcg",
-      "name": "綠茶兒茶素（EGCG）",
-      "category": "茶類抗氧化",
-      "summary": "EGCG 用於抗氧化、代謝支持，台灣健康食品已核准多項。",
-      "momentum_score": 74,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "抗氧化",
-        "代謝支持"
-      ],
-      "product_formats": [
-        "即飲茶",
-        "粉包",
-        "膠囊"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "regulatory_note": "台灣健康食品已核准多項；宣稱需依核准",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-18",
-      "source_urls": [
-        "https://www.bostonglobe.com/2026/08/18/lifestyle/livreal-energy-drink-boston-college/"
-      ]
-    },
-    {
-      "id": "inulin",
-      "name": "菊苣纖維（Inulin）",
-      "category": "腸道高纖",
-      "summary": "菊苣纖維用於腸道健康、益生元，歐盟市場占 15-20%。",
-      "momentum_score": 73,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "腸道健康",
-        "益生元"
-      ],
-      "product_formats": [
-        "粉包",
-        "膠囊",
-        "機能飲"
-      ],
-      "geography": [
-        "European Union",
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣列為食品原料；宣稱避免醫療化",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-19",
-      "source_urls": [
-        "https://www.indexbox.io/store/european-union-digestion-gut-health-market-analysis-forecast-size-trends-and-insights/",
-        "https://www.indexbox.io/store/germany-digestion-gut-health-market-analysis-forecast-size-trends-and-insights/"
-      ]
-    },
-    {
-      "id": "psyllium",
-      "name": "洋車前子（Psyllium）",
-      "category": "腸道高纖",
-      "summary": "洋車前子用於高纖、排便順暢，TikTok chia seed shower 熱門。",
-      "momentum_score": 68,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "高纖",
-        "排便順暢"
-      ],
-      "product_formats": [
-        "粉包",
-        "膠囊",
-        "沖泡飲"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣列為食品原料；需注意攝取量與水分",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-14",
-      "source_urls": [
-        "https://www.uclahealth.org/news/article/worth-trying-truth-behind-4-tiktok-wellness-trends"
-      ]
-    },
-    {
-      "id": "electrolytes",
-      "name": "電解質（Electrolytes）",
-      "category": "能量專注",
-      "summary": "電解質用於水合、能量、運動恢復，LivReal、Optimum Nutrition 等品牌興起。",
-      "momentum_score": 71,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "水合",
-        "能量",
-        "運動恢復"
-      ],
-      "product_formats": [
-        "氣泡飲",
-        "粉包",
-        "即飲"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣一般食品；宣稱需謹慎",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-18",
-      "source_urls": [
-        "https://www.bostonglobe.com/2026/08/18/lifestyle/livreal-energy-drink-boston-college/",
-        "https://www.vitaminshoppe.com/c/sports-supplements-under-0-99-per-serving/protein-fitness/performance-supplements/pre-workout/brand/optimum-nutrition"
-      ]
-    },
-    {
-      "id": "amino-acids",
-      "name": "胺基酸（BCAA／EAA）",
-      "category": "能量專注",
-      "summary": "胺基酸用於能量、肌肉恢復、專注，Optimum Nutrition、KA-EX 等品牌興起。",
-      "momentum_score": 69,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "能量",
-        "肌肉恢復",
-        "專注"
-      ],
-      "product_formats": [
-        "能量飲",
-        "粉包",
-        "即飲"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣一般食品；宣稱避免醫療化",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-19",
-      "source_urls": [
-        "https://insider.fitt.co/press-release/gnc-named-flagship-retail-partner-for-creatine-eaa-booster-and-cortisol-stress-reducer-powders-from-ka-ex/",
-        "https://www.vitaminshoppe.com/c/sports-supplements-under-0-99-per-serving/protein-fitness/performance-supplements/pre-workout/brand/optimum-nutrition"
-      ]
-    },
-    {
-      "id": "cranberry",
-      "name": "蔓越莓萃取（Cranberry）",
-      "category": "美容女性",
-      "summary": "蔓越莓用於女性泌尿道健康、抗氧化，台灣產品多為膠囊。",
-      "momentum_score": 67,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "女性泌尿道健康",
-        "抗氧化"
-      ],
-      "product_formats": [
-        "膠囊",
-        "機能飲",
-        "軟糖"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "regulatory_note": "台灣一般食品；宣稱避免醫療化",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-01",
-      "source_urls": [
-        "https://giftshop-tw.line.me/products/322415443"
-      ]
-    },
-    {
-      "id": "elderberry",
-      "name": "接骨木莓（Elderberry）",
-      "category": "茶類抗氧化",
-      "summary": "接骨木莓用於免疫支持、抗氧化，Pukka 機能茶使用。",
-      "momentum_score": 64,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "health_benefits": [
-        "免疫支持",
-        "抗氧化"
-      ],
-      "product_formats": [
-        "機能飲",
-        "軟糖",
-        "膠囊"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣 Novel Food 需評估",
-      "evidence_level": "medium",
-      "verification_status": "pending",
-      "published_or_found_date": "2026-08-17",
-      "source_urls": [
-        "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/"
-      ]
-    },
-    {
-      "id": "ashwagandha",
-      "name": "南非醉茄（Ashwagandha）",
-      "category": "舒壓睡眠",
-      "summary": "南非醉茄用於舒壓、適應原，台灣尚未核准為食品原料。",
-      "momentum_score": 65,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "health_benefits": [
-        "舒壓",
-        "適應原"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包",
-        "機能飲"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣尚未核准為食品原料；合規風險高",
-      "evidence_level": "low",
-      "verification_status": "pending",
-      "published_or_found_date": "2026-08-17",
-      "source_urls": [
-        "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/"
-      ]
-    },
-    {
-      "id": "berberine",
-      "name": "小檗鹼（Berberine）",
-      "category": "代謝飲控",
-      "summary": "小檗鹼用於代謝、血糖管理，台灣列為藥品成分。",
-      "momentum_score": 62,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "health_benefits": [
-        "代謝",
-        "血糖管理"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣列為藥品成分；食品使用風險高",
-      "evidence_level": "low",
-      "verification_status": "pending",
-      "published_or_found_date": "2026-08-03",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison"
-      ]
-    },
-    {
-      "id": "white-kidney-bean",
-      "name": "白腎豆萃取（White Kidney Bean）",
-      "category": "代謝飲控",
-      "summary": "白腎豆用於醣類阻斷、體重管理，台灣需審慎評估合規性。",
-      "momentum_score": 60,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "health_benefits": [
-        "醣類阻斷",
-        "體重管理"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "regulatory_note": "台灣需審慎評估合規性",
-      "evidence_level": "low",
-      "verification_status": "pending",
-      "published_or_found_date": "2026-08-03",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison"
-      ]
-    },
-    {
-      "id": "fibersol-2",
-      "name": "難消化性麥芽糊精（Fibersol-2）",
-      "category": "腸道高纖",
-      "summary": "難消化性麥芽糊精用於餐後血糖管理、高纖，台灣已核准健康食品原料。",
-      "momentum_score": 75,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "餐後血糖管理",
-        "高纖"
-      ],
-      "product_formats": [
-        "沖泡飲",
-        "即飲茶",
-        "粉包"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "regulatory_note": "台灣已核准健康食品原料；宣稱需依核准內容",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-13",
-      "source_urls": [
-        "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market"
       ]
     }
   ],
   "benefits": [
     {
       "id": "gut-health",
-      "name": "腸道健康（Gut Health）",
+      "name": "腸道健康",
       "category": "消費者健康需求",
-      "summary": "全球腸道健康成分市場 2026 年達 343 億美元，#guthealth 社群高熱度，益生菌、後生元、益生元為核心成分。",
+      "summary": "全球腸道健康成分市場 2026 年達 343 億美元。",
       "momentum_score": 90,
       "previous_momentum_score": null,
       "monthly_change": null,
@@ -683,298 +199,7 @@
       ],
       "geography": [
         "Global",
-        "Taiwan",
-        "United States",
-        "European Union"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-13",
-      "source_urls": [
-        "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market",
-        "https://www.visibrain.com/blog/functional-beverages-are-having-a-moment.-heres-what-brands-need-to-know"
-      ]
-    },
-    {
-      "id": "immune-support",
-      "name": "免疫維持（Immune Support）",
-      "category": "消費者健康需求",
-      "summary": "Yakult 1000 新增免疫機能，強化益生菌與免疫連結，接骨木莓、維生素 C 為常見成分。",
-      "momentum_score": 84,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_confirmed",
-      "related_ingredients": [
-        "益生菌",
-        "接骨木莓",
-        "維生素 C"
-      ],
-      "product_formats": [
-        "即飲乳品",
-        "機能飲",
-        "膠囊"
-      ],
-      "consumer_contexts": [
-        "日常補給",
-        "季節轉換",
-        "免疫支持"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan",
-        "Global"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-19",
-      "source_urls": [
-        "https://www.yakult.co.jp/news/article.php?num=1875",
-        "https://news.livedoor.com/article/detail/32116554/"
-      ]
-    },
-    {
-      "id": "stress-sleep",
-      "name": "舒壓與睡眠（Stress & Sleep）",
-      "category": "消費者健康需求",
-      "summary": "TikTok 睡眠飲、Pukka Unwind 茶興起，L-茶胺酸、GABA、鎂為常見成分。",
-      "momentum_score": 79,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "related_ingredients": [
-        "L-茶胺酸",
-        "GABA",
-        "鎂",
-        "酸棗仁"
-      ],
-      "product_formats": [
-        "睡眠飲",
-        "機能茶",
-        "膠囊"
-      ],
-      "consumer_contexts": [
-        "晚間飲品",
-        "睡前",
-        "舒壓"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan",
-        "Japan"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-14",
-      "source_urls": [
-        "https://www.uclahealth.org/news/article/worth-trying-truth-behind-4-tiktok-wellness-trends",
-        "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/"
-      ]
-    },
-    {
-      "id": "metabolism-weight",
-      "name": "代謝與體重管理（Metabolism & Weight）",
-      "category": "消費者健康需求",
-      "summary": "代餐、高纖、低糖訴求持續，難消化性麥芽糊精、蛋白質、綠咖啡豆為常見成分。",
-      "momentum_score": 76,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "related_ingredients": [
-        "難消化性麥芽糊精",
-        "蛋白質",
-        "綠咖啡豆"
-      ],
-      "product_formats": [
-        "代餐奶昔",
-        "高纖飲",
-        "膠囊"
-      ],
-      "consumer_contexts": [
-        "餐後管理",
-        "體重管理",
-        "代餐"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-03",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison",
-        "https://brandreviewtaiwan.com/2026/08/07/%E5%8F%B0%E7%81%A3%E4%BB%A3%E9%A4%90%E5%A5%B6%E6%98%94-2026%E5%B9%B48%E6%9C%88-%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E6%B8%AC%E8%A9%95%E6%A6%9C%E6%A0%B8%E5%BF%83%E5%8F%83%E6%95%B8%E8%88%87%E6%80%A7/"
-      ]
-    },
-    {
-      "id": "antioxidant",
-      "name": "抗氧化（Antioxidant）",
-      "category": "消費者健康需求",
-      "summary": "莓果、茶多酚訴求持續，EGCG、花青素、維生素 C 為常見成分。",
-      "momentum_score": 73,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "related_ingredients": [
-        "EGCG",
-        "花青素",
-        "維生素 C"
-      ],
-      "product_formats": [
-        "即飲茶",
-        "莓果飲",
-        "粉包"
-      ],
-      "consumer_contexts": [
-        "日常補給",
-        "抗氧化",
-        "美容"
-      ],
-      "geography": [
-        "Global",
         "Taiwan"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-18",
-      "source_urls": [
-        "https://www.bostonglobe.com/2026/08/18/lifestyle/livreal-energy-drink-boston-college/"
-      ]
-    },
-    {
-      "id": "beauty-from-within",
-      "name": "美容由內而外（Beauty from Within）",
-      "category": "消費者健康需求",
-      "summary": "膠原飲、女性保養訴求持續，膠原蛋白、玻尿酸、維生素 C 為常見成分。",
-      "momentum_score": 71,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "related_ingredients": [
-        "膠原蛋白",
-        "玻尿酸",
-        "維生素 C"
-      ],
-      "product_formats": [
-        "膠原飲",
-        "粉包",
-        "膠囊"
-      ],
-      "consumer_contexts": [
-        "日常保養",
-        "美容",
-        "女性健康"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-20",
-      "source_urls": [
-        "https://news.e-expo.net/gyousei/2026/08/260820_g01.html/",
-        "https://www.prnewswire.com/apac/news-releases/iherb-kicks-off-30th-anniversary-celebrations-in-hong-kong-302856279.html"
-      ]
-    },
-    {
-      "id": "energy-focus",
-      "name": "能量與專注（Energy & Focus）",
-      "category": "消費者健康需求",
-      "summary": "機能能量飲、胺基酸電解質訴求興起，咖啡因、L-茶胺酸、B 群、胺基酸為常見成分。",
-      "momentum_score": 75,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "related_ingredients": [
-        "咖啡因",
-        "L-茶胺酸",
-        "B 群",
-        "胺基酸"
-      ],
-      "product_formats": [
-        "能量飲",
-        "粉包",
-        "即飲"
-      ],
-      "consumer_contexts": [
-        "運動前後",
-        "工作專注",
-        "能量補給"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-18",
-      "source_urls": [
-        "https://www.bostonglobe.com/2026/08/18/lifestyle/livreal-energy-drink-boston-college/",
-        "https://www.usatoday.com/story/shopping/deals/2026/08/09/back-to-school-routine-zoa-healthier-energy-drink/91201791007/"
-      ]
-    },
-    {
-      "id": "womens-health",
-      "name": "女性健康（Women's Health）",
-      "category": "消費者健康需求",
-      "summary": "蔓越莓、女性益生菌訴求穩定，蔓越莓、益生菌、鐵為常見成分。",
-      "momentum_score": 68,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "related_ingredients": [
-        "蔓越莓",
-        "益生菌",
-        "鐵"
-      ],
-      "product_formats": [
-        "膠囊",
-        "機能飲",
-        "軟糖"
-      ],
-      "consumer_contexts": [
-        "女性保養",
-        "泌尿道健康",
-        "日常補給"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-01",
-      "source_urls": [
-        "https://giftshop-tw.line.me/products/322415443"
-      ]
-    },
-    {
-      "id": "post-meal-glucose",
-      "name": "餐後血糖管理（Post-Meal Glucose）",
-      "category": "消費者健康需求",
-      "summary": "高纖、低 GI 訴求持續，難消化性麥芽糊精、抗性澱粉為常見成分。",
-      "momentum_score": 70,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "related_ingredients": [
-        "難消化性麥芽糊精",
-        "抗性澱粉"
-      ],
-      "product_formats": [
-        "高纖飲",
-        "沖泡飲",
-        "即飲茶"
-      ],
-      "consumer_contexts": [
-        "餐後管理",
-        "血糖控制",
-        "代謝支持"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
       ],
       "evidence_level": "high",
       "verification_status": "confirmed",
@@ -982,181 +207,14 @@
       "source_urls": [
         "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market"
       ]
-    },
-    {
-      "id": "hydration-recovery",
-      "name": "水合與運動恢復（Hydration & Recovery）",
-      "category": "消費者健康需求",
-      "summary": "電解質、胺基酸訴求興起，電解質、胺基酸、鎂為常見成分。",
-      "momentum_score": 72,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "related_ingredients": [
-        "電解質",
-        "胺基酸",
-        "鎂"
-      ],
-      "product_formats": [
-        "電解質飲",
-        "粉包",
-        "即飲"
-      ],
-      "consumer_contexts": [
-        "運動前後",
-        "水合補給",
-        "恢復"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-19",
-      "source_urls": [
-        "https://insider.fitt.co/press-release/gnc-named-flagship-retail-partner-for-creatine-eaa-booster-and-cortisol-stress-reducer-powders-from-ka-ex/",
-        "https://www.vitaminshoppe.com/c/sports-supplements-under-0-99-per-serving/protein-fitness/performance-supplements/pre-workout/brand/optimum-nutrition"
-      ]
-    },
-    {
-      "id": "oral-health",
-      "name": "口腔健康（Oral Health）",
-      "category": "消費者健康需求",
-      "summary": "乳酸菌 B240 唾液維持訴求，日本機能性表示食品新增。",
-      "momentum_score": 62,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "related_ingredients": [
-        "乳酸菌"
-      ],
-      "product_formats": [
-        "膠囊",
-        "含片"
-      ],
-      "consumer_contexts": [
-        "口腔保養",
-        "唾液維持"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan"
-      ],
-      "evidence_level": "medium",
-      "verification_status": "pending",
-      "published_or_found_date": "2026-08-10",
-      "source_urls": [
-        "https://wellness-news.co.jp/posts/260810-4/",
-        "https://wellness-news.co.jp/posts/260812-3/"
-      ]
-    },
-    {
-      "id": "vascular-blood-pressure",
-      "name": "血管與血壓支持（Vascular & Blood Pressure）",
-      "category": "消費者健康需求",
-      "summary": "納豆激酶、魚膠原訴求，日本機能性表示食品新增。",
-      "momentum_score": 64,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "related_ingredients": [
-        "納豆激酶",
-        "魚膠原蛋白"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包"
-      ],
-      "consumer_contexts": [
-        "血管健康",
-        "血壓支持"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan"
-      ],
-      "evidence_level": "medium",
-      "verification_status": "pending",
-      "published_or_found_date": "2026-08-10",
-      "source_urls": [
-        "https://wellness-news.co.jp/posts/260810-4/"
-      ]
-    },
-    {
-      "id": "fatigue-reduction",
-      "name": "疲勞減輕（Fatigue Reduction）",
-      "category": "消費者健康需求",
-      "summary": "魚膠原、中鏈脂肪酸訴求，日本機能性表示食品新增。",
-      "momentum_score": 66,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "related_ingredients": [
-        "魚膠原蛋白",
-        "中鏈脂肪酸"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包"
-      ],
-      "consumer_contexts": [
-        "疲勞減輕",
-        "活力支持"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan"
-      ],
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "published_or_found_date": "2026-08-20",
-      "source_urls": [
-        "https://news.e-expo.net/gyousei/2026/08/260820_g01.html/"
-      ]
-    },
-    {
-      "id": "muscle-maintenance",
-      "name": "肌肉維持（Muscle Maintenance）",
-      "category": "消費者健康需求",
-      "summary": "GABA、蛋白質、胺基酸訴求，日本機能性表示食品新增。",
-      "momentum_score": 65,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "related_ingredients": [
-        "GABA",
-        "蛋白質",
-        "胺基酸"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包",
-        "即飲"
-      ],
-      "consumer_contexts": [
-        "肌肉維持",
-        "運動恢復"
-      ],
-      "geography": [
-        "Japan",
-        "Taiwan",
-        "Global"
-      ],
-      "evidence_level": "medium",
-      "verification_status": "pending",
-      "published_or_found_date": "2026-08-14",
-      "source_urls": [
-        "https://news.e-expo.net/gyousei/2026/08/260814_g02.html/"
-      ]
     }
   ],
   "product_formats": [
     {
       "id": "powder-drink",
       "name": "粉包沖泡飲",
-      "category": "產品型態／使用情境",
-      "summary": "高纖、益生菌、代餐訴求，台灣品牌密集，口味與蛋白質效率為差異關鍵。",
+      "category": "產品型態",
+      "summary": "高纖、益生菌、代餐訴求。",
       "momentum_score": 78,
       "previous_momentum_score": null,
       "monthly_change": null,
@@ -1168,237 +226,19 @@
       ],
       "representative_brands": [
         "果利生技",
-        "艾禾生醫",
-        "LABNOSH"
+        "艾禾生醫"
       ],
       "competition_level": "high",
       "source_urls": [
-        "https://www.guolibio.com/products/productslytoslim",
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison"
-      ]
-    },
-    {
-      "id": "rtd-tea",
-      "name": "即飲茶",
-      "category": "產品型態／使用情境",
-      "summary": "無糖、抗氧化、在地茶訴求，茶裏王焙香紅烏成功案例。",
-      "momentum_score": 82,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "無糖",
-        "抗氧化",
-        "在地茶"
-      ],
-      "representative_brands": [
-        "茶裏王",
-        "原萃",
-        "統一"
-      ],
-      "competition_level": "high",
-      "source_urls": [
-        "https://today.line.me/tw/v3/article/nXRk90L"
-      ]
-    },
-    {
-      "id": "tea-jelly-drink",
-      "name": "茶凍飲",
-      "category": "產品型態／使用情境",
-      "summary": "低卡、口感、下午茶訴求，天仁茗茶、曼寧為代表。",
-      "momentum_score": 65,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "低卡",
-        "口感",
-        "下午茶"
-      ],
-      "representative_brands": [
-        "天仁茗茶",
-        "曼寧"
-      ],
-      "competition_level": "medium",
-      "source_urls": [
-        "https://www.gliserland.com/%E5%A4%A9%E4%BB%81%E8%8C%97%E8%8C%B6%E6%9C%80%E8%BF%91%E5%A4%A7%E7%86%B1%EF%BC%81threads-%E8%84%86%E5%8F%8B%E6%8E%A8%E8%96%A6-%E7%94%9C%E6%BC%BE%E7%B4%85%E7%83%8F%E9%BE%8D%EF%BD%9C%E5%A4%A9%E4%BB%81/"
-      ]
-    },
-    {
-      "id": "high-fiber-drink",
-      "name": "高纖飲",
-      "category": "產品型態／使用情境",
-      "summary": "腸道健康、餐後管理訴求，國際品牌密集，台灣需強化本土化口味。",
-      "momentum_score": 80,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "腸道健康",
-        "餐後管理"
-      ],
-      "representative_brands": [
-        "Wildwonder",
-        "Poppi",
-        "果利生技"
-      ],
-      "competition_level": "high",
-      "source_urls": [
-        "https://www.bevnet.com/pr/2026/08/05/wildwonder-adds-apple-yuzu-where-the-orchard-meets-japanese-citrus",
         "https://www.guolibio.com/products/productslytoslim"
-      ]
-    },
-    {
-      "id": "sleep-drink",
-      "name": "睡眠飲",
-      "category": "產品型態／使用情境",
-      "summary": "舒壓、睡眠品質訴求，Pukka Unwind 茶、TikTok 睡眠飲興起。",
-      "momentum_score": 76,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_confirmed",
-      "health_benefits": [
-        "舒壓",
-        "睡眠品質"
-      ],
-      "representative_brands": [
-        "Pukka Herbs",
-        "TikTok 睡眠飲"
-      ],
-      "competition_level": "medium",
-      "source_urls": [
-        "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/",
-        "https://www.uclahealth.org/news/article/worth-trying-truth-behind-4-tiktok-wellness-trends"
-      ]
-    },
-    {
-      "id": "breakfast-drink",
-      "name": "早餐飲",
-      "category": "產品型態／使用情境",
-      "summary": "快速營養、蛋白質、高纖訴求，蛋白質效率與口味多樣化為關鍵。",
-      "momentum_score": 74,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "快速營養",
-        "蛋白質",
-        "高纖"
-      ],
-      "representative_brands": [
-        "桂格",
-        "艾禾生醫",
-        "LABNOSH"
-      ],
-      "competition_level": "high",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison",
-        "https://brandreviewtaiwan.com/2026/08/07/%E5%8F%B0%E7%81%A3%E4%BB%A3%E9%A4%90%E5%A5%B6%E6%98%94-2026%E5%B9%B48%E6%9C%88-%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E6%B8%AC%E8%A9%95%E6%A6%9C%E6%A0%B8%E5%BF%83%E5%8F%83%E6%95%B8%E8%88%87%E6%80%A7/"
-      ]
-    },
-    {
-      "id": "afternoon-tea-alternative",
-      "name": "下午茶替代",
-      "category": "產品型態／使用情境",
-      "summary": "低卡、抗氧化、舒壓訴求，手搖飲替代需求強。",
-      "momentum_score": 70,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "低卡",
-        "抗氧化",
-        "舒壓"
-      ],
-      "representative_brands": [
-        "天仁茗茶",
-        "機能茶",
-        "無糖茶"
-      ],
-      "competition_level": "medium",
-      "source_urls": [
-        "https://www.gliserland.com/%E5%A4%A9%E4%BB%81%E8%8C%97%E8%8C%B6%E6%9C%80%E8%BF%91%E5%A4%A7%E7%86%B1%EF%BC%81threads-%E8%84%86%E5%8F%8B%E6%8E%A8%E8%96%A6-%E7%94%9C%E6%BC%BE%E7%B4%85%E7%83%8F%E9%BE%8D%EF%BD%9C%E5%A4%A9%E4%BB%81/"
-      ]
-    },
-    {
-      "id": "bubble-tea-alternative",
-      "name": "手搖飲替代",
-      "category": "產品型態／使用情境",
-      "summary": "低糖、無糖、機能訴求，無糖純茶與在地茶葉為主流。",
-      "momentum_score": 75,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "低糖",
-        "無糖",
-        "機能"
-      ],
-      "representative_brands": [
-        "茶裏王",
-        "原萃",
-        "天仁"
-      ],
-      "competition_level": "high",
-      "source_urls": [
-        "https://today.line.me/tw/v3/article/nXRk90L"
-      ]
-    },
-    {
-      "id": "meal-replacement",
-      "name": "代餐與控卡飲",
-      "category": "產品型態／使用情境",
-      "summary": "蛋白質、高纖、低卡訴求，一般食品與特定疾病配方需明確區隔。",
-      "momentum_score": 77,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "蛋白質",
-        "高纖",
-        "低卡"
-      ],
-      "representative_brands": [
-        "艾禾生醫",
-        "LABNOSH",
-        "翰方御品"
-      ],
-      "competition_level": "high",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison",
-        "https://brandreviewtaiwan.com/2026/08/07/%E5%8F%B0%E7%81%A3%E4%BB%A3%E9%A4%90%E5%A5%B6%E6%98%94-2026%E5%B9%B48%E6%9C%88-%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E6%B8%AC%E8%A9%95%E6%A6%9C%E6%A0%B8%E5%BF%83%E5%8F%83%E6%95%B8%E8%88%87%E6%80%A7/"
-      ]
-    },
-    {
-      "id": "low-sugar-drink",
-      "name": "無糖或低糖飲品",
-      "category": "產品型態／使用情境",
-      "summary": "低負擔、腸道健康、抗氧化訴求，國際益生元氣泡飲興起。",
-      "momentum_score": 83,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "低負擔",
-        "腸道健康",
-        "抗氧化"
-      ],
-      "representative_brands": [
-        "Wildwonder",
-        "Poppi",
-        "茶裏王"
-      ],
-      "competition_level": "high",
-      "source_urls": [
-        "https://www.bevnet.com/pr/2026/08/05/wildwonder-adds-apple-yuzu-where-the-orchard-meets-japanese-citrus"
       ]
     }
   ],
   "regulations": [
     {
       "id": "tfda-border-2026-08",
-      "agency": "TFDA（台灣）",
-      "title": "邊境查驗 13 批不合格，含日本哈密瓜農藥、越南花生醬黃麴毒素、義大利黑松露重金屬鎘",
+      "agency": "TFDA",
+      "title": "邊境查驗不合格",
       "category": "食安",
       "related_ingredients": [
         "農藥殘留",
@@ -1407,271 +247,53 @@
       ],
       "affected_products": [
         "哈密瓜",
-        "花生醬",
-        "黑松露"
+        "花生醬"
       ],
       "risk_level": "high",
-      "summary": "TFDA 公布 13 批邊境檢驗不合格食品及食品器具，違規原因包括農藥殘留、黃麴毒素、重金屬、動物用藥、防腐劑、甜味劑及容器溶出試驗。",
-      "recommended_action": "強化供應商審核、批次檢驗、保留檢驗報告。",
+      "summary": "TFDA 公布邊境檢驗不合格食品。",
+      "recommended_action": "強化供應商審核。",
       "published_or_found_date": "2026-08-11",
       "source_urls": [
-        "https://focustaiwan.tw/society/202608180011",
-        "https://www.ftnn.com.tw/news/569027",
-        "https://isi.org.tw/home/blogs/20260818%E9%82%8A%E5%A2%83%E6%AA%A2%E9%A9%97%E4%B8%8D%E5%90%88%E6%A0%BC%E8%B3%87%E8%A8%8A"
-      ]
-    },
-    {
-      "id": "fda-yellow-oleander-2026-08",
-      "agency": "FDA（美國）",
-      "title": "含毒黃夾竹桃減肥產品警示，新增 3 款產品",
-      "category": "食安",
-      "related_ingredients": [
-        "黃夾竹桃"
-      ],
-      "affected_products": [
-        "減肥膠囊"
-      ],
-      "risk_level": "high",
-      "summary": "FDA 測試發現 3 款減肥產品含毒黃夾竹桃，可導致神經、胃腸、心血管不良反應，甚至致命。",
-      "recommended_action": "避免使用未核准植物性減肥成分；加強供應鏈審核。",
-      "published_or_found_date": "2026-08-12",
-      "source_urls": [
-        "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander"
-      ]
-    },
-    {
-      "id": "japan-ffc-gmp-2026-09",
-      "agency": "消費者庁（日本）",
-      "title": "機能性表示食品 9/1 起 GMP 義務化，標示規範更嚴格",
-      "category": "法規",
-      "related_ingredients": [
-        "膠囊",
-        "錠劑"
-      ],
-      "affected_products": [
-        "機能性表示食品"
-      ],
-      "risk_level": "high",
-      "summary": "日本 2024 年紅麹問題後，2 年過渡期於 8/31 結束，9/1 起膠囊與錠劑產品強制符合 GMP，包裝標示更嚴格。",
-      "recommended_action": "確認供應商 GMP 合規狀態，更新包裝標示。",
-      "published_or_found_date": "2026-08-22",
-      "source_urls": [
-        "https://www.bci.co.jp/nichiryu/article/20212",
-        "https://www.cleolabs.co/en/blog/japan-ffc-gmp-mandate-2026"
-      ]
-    },
-    {
-      "id": "mfds-new-ingredients-2026-08",
-      "agency": "MFDS（韓國）",
-      "title": "新增 4 項個別認定原料，含益生菌複合原料、褐藻萃取",
-      "category": "法規",
-      "related_ingredients": [
-        "益生菌",
-        "褐藻萃取"
-      ],
-      "affected_products": [
-        "健康機能食品"
-      ],
-      "risk_level": "medium",
-      "summary": "韓國 MFDS 新增 4 項個別認定原料，包括益生菌複合原料、褐藻萃取等，機能原料持續擴張。",
-      "recommended_action": "追蹤韓國新原料、評估引進可能性。",
-      "published_or_found_date": "2026-08-24",
-      "source_urls": [
-        "https://data.mfds.go.kr/hid/main/main.do"
-      ]
-    },
-    {
-      "id": "ftc-health-advertising-2026",
-      "agency": "FTC（美國）",
-      "title": "健康、減重、保健食品廣告執法持續",
-      "category": "廣告",
-      "related_ingredients": [
-        "健康宣稱"
-      ],
-      "affected_products": [
-        "保健食品",
-        "減重產品"
-      ],
-      "risk_level": "medium",
-      "summary": "FTC 持續執法健康、減重、保健食品廣告，宣稱需有科學佐證。",
-      "recommended_action": "檢視廣告宣稱、保留科學證據。",
-      "published_or_found_date": "2026-08-12",
-      "source_urls": [
-        "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander"
+        "https://focustaiwan.tw/society/202608180011"
       ]
     }
   ],
   "new_products": [
     {
       "id": "yakult-1000-immune",
-      "title": "Yakult 1000 系列リニューアル",
+      "title": "Yakult 1000 免疫機能",
       "brand": "Yakult",
       "market": "Japan",
       "retailer_or_channel": "日本通路",
       "product_format": "即飲乳品",
       "ingredients": [
-        "乳酸菌シロタ株"
+        "乳酸菌"
       ],
       "health_benefits": [
         "腸道健康",
         "免疫維持"
       ],
-      "price_or_packaging": "130-150 日圓/瓶",
-      "summary": "Yakult 1000 系列新增免疫機能，10 月 5 日全面リニューアル，強化益生菌與免疫連結訴求。",
+      "price_or_packaging": "130-150 日圓",
+      "summary": "Yakult 1000 新增免疫機能。",
       "published_or_found_date": "2026-08-19",
       "source_urls": [
-        "https://www.yakult.co.jp/news/article.php?num=1875",
-        "https://news.livedoor.com/article/detail/32116554/",
-        "https://prtimes.jp/main/html/rd/p/000000008.000158624.html"
-      ]
-    },
-    {
-      "id": "cha-li-wang-roasted-oolong",
-      "title": "茶裏王焙香紅烏",
-      "brand": "茶裏王",
-      "market": "Taiwan",
-      "retailer_or_channel": "7-ELEVEN",
-      "product_format": "即飲茶",
-      "ingredients": [
-        "台東紅烏龍"
-      ],
-      "health_benefits": [
-        "無糖",
-        "抗氧化"
-      ],
-      "price_or_packaging": "NT$19/瓶（新品優惠）",
-      "summary": "茶裏王推出台東紅烏龍即飲茶，8/19 全台 7-ELEVEN 獨家上市，強化在地茶葉與無糖純茶定位。",
-      "published_or_found_date": "2026-08-19",
-      "source_urls": [
-        "https://today.line.me/tw/v3/article/nXRk90L"
-      ]
-    },
-    {
-      "id": "pukka-gut-unwind",
-      "title": "Pukka Gut Health 與 Unwind 機能茶",
-      "brand": "Pukka Herbs",
-      "market": "UK",
-      "retailer_or_channel": "Waitrose",
-      "product_format": "機能茶",
-      "ingredients": [
-        "益生菌",
-        "草本",
-        "接骨木莓"
-      ],
-      "health_benefits": [
-        "腸道健康",
-        "舒壓睡眠"
-      ],
-      "price_or_packaging": "£4.99",
-      "summary": "Pukka 推出 Gut Health 與 Unwind 機能茶，8/26 英國 Waitrose 首發，鎖定腸道健康與舒壓睡眠兩大需求。",
-      "published_or_found_date": "2026-08-17",
-      "source_urls": [
-        "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/"
-      ]
-    },
-    {
-      "id": "wildwonder-apple-yuzu",
-      "title": "Wildwonder Apple Yuzu",
-      "brand": "Wildwonder",
-      "market": "USA",
-      "retailer_or_channel": "官方電商",
-      "product_format": "益生菌氣泡飲",
-      "ingredients": [
-        "益生菌",
-        "益生元纖維",
-        "蘋果",
-        "柚子"
-      ],
-      "health_benefits": [
-        "腸道健康",
-        "低糖"
-      ],
-      "price_or_packaging": "未查得",
-      "summary": "Wildwonder 新增 Apple Yuzu 益生菌氣泡飲，每罐 10 億活菌＋5 克益生元纖維，強化美腸與低糖訴求。",
-      "published_or_found_date": "2026-08-05",
-      "source_urls": [
-        "https://www.bevnet.com/pr/2026/08/05/wildwonder-adds-apple-yuzu-where-the-orchard-meets-japanese-citrus"
-      ]
-    },
-    {
-      "id": "guoli-lytoslim",
-      "title": "利得纖 Lytoslim 沖泡飲",
-      "brand": "果利生技",
-      "market": "Taiwan",
-      "retailer_or_channel": "官方電商",
-      "product_format": "粉包沖泡飲",
-      "ingredients": [
-        "10 種草本",
-        "5 種纖維"
-      ],
-      "health_benefits": [
-        "代謝",
-        "高纖",
-        "順暢"
-      ],
-      "price_or_packaging": "未查得",
-      "summary": "果利生技利得纖 Lytoslim 沖泡飲，香戀葡萄風味，30 包獨立包裝，8 月促銷中。",
-      "published_or_found_date": "2026-08-18",
-      "source_urls": [
-        "https://www.guolibio.com/products/productslytoslim"
+        "https://www.yakult.co.jp/news/article.php?num=1875"
       ]
     }
   ],
   "retail_signals": [
     {
-      "id": "7-eleven-cha-li-wang",
+      "id": "7-eleven-tea",
       "retailer": "7-ELEVEN",
       "market": "Taiwan",
       "category": "即飲茶",
-      "title": "茶裏王焙香紅烏新品上市",
-      "price_range": "NT$19-25/瓶",
-      "summary": "茶裏王焙香紅烏 8/19 全台 7-ELEVEN 獨家上市，新品優惠 NT$19/瓶。",
-      "data_limitation": "單一通路可見訊號，不代表全市場銷售表現。",
+      "title": "茶裏王新品",
+      "price_range": "NT$19-25",
+      "summary": "茶裏王焙香紅烏上市。",
+      "data_limitation": "單一通路訊號",
       "published_or_found_date": "2026-08-19",
       "source_urls": [
         "https://today.line.me/tw/v3/article/nXRk90L"
-      ]
-    },
-    {
-      "id": "pchome-meal-replacement",
-      "retailer": "PChome",
-      "market": "Taiwan",
-      "category": "代餐奶昔",
-      "title": "艾禾生醫、LABNOSH 等代餐奶昔",
-      "price_range": "NT$55-140/包",
-      "summary": "PChome 可見多款代餐奶昔，蛋白質效率與口味為關鍵差異。",
-      "data_limitation": "單一平台可見訊號，不代表全市場銷售表現。",
-      "published_or_found_date": "2026-08-03",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison"
-      ]
-    },
-    {
-      "id": "iherb-probiotics-collagen",
-      "retailer": "iHerb",
-      "market": "Global",
-      "category": "益生菌、膠原蛋白",
-      "title": "30 週年促銷",
-      "price_range": "USD$15-40",
-      "summary": "iHerb 30 週年促銷，益生菌、膠原蛋白、B 群等產品熱門。",
-      "data_limitation": "單一平台可見訊號，不代表全市場銷售表現。",
-      "published_or_found_date": "2026-08-20",
-      "source_urls": [
-        "https://www.prnewswire.com/apac/news-releases/iherb-kicks-off-30th-anniversary-celebrations-in-hong-kong-302856279.html"
-      ]
-    },
-    {
-      "id": "amazon-energy-drink",
-      "retailer": "Amazon",
-      "market": "USA",
-      "category": "能量飲",
-      "title": "LivReal、Optimum Nutrition 能量飲",
-      "price_range": "USD$30-40/12 罐",
-      "summary": "Amazon 可見多款機能能量飲，電解質、胺基酸為訴求。",
-      "data_limitation": "單一平台可見訊號，不代表全市場銷售表現。",
-      "published_or_found_date": "2026-08-18",
-      "source_urls": [
-        "https://www.bostonglobe.com/2026/08/18/lifestyle/livreal-energy-drink-boston-college/"
       ]
     }
   ],
@@ -1681,277 +303,46 @@
       "platforms": [
         "TikTok"
       ],
-      "name": "#guthealth、#probiotics、#prebiotics",
-      "category": "社群／搜尋／媒體",
-      "summary": "高互動貼文，功能氣泡飲、康普茶熱門。",
+      "name": "#guthealth",
+      "category": "社群",
+      "summary": "高互動貼文。",
       "momentum_score": 85,
       "previous_momentum_score": null,
       "monthly_change": null,
       "trend_status": "emerging_confirmed",
       "source_count": 3,
       "verification_status": "confirmed",
-      "next_step": "持續監測互動數與新品上架。",
+      "next_step": "持續監測。",
       "source_urls": [
-        "https://www.visibrain.com/blog/functional-beverages-are-having-a-moment.-heres-what-brands-need-to-know",
-        "https://www.instagram.com/p/Db-zKoQiKcB/",
-        "https://www.instagram.com/reel/DcJCFBrzh-l/"
-      ]
-    },
-    {
-      "id": "instagram-sleepdrink",
-      "platforms": [
-        "Instagram"
-      ],
-      "name": "#functionalbeverage、#sleepdrink",
-      "category": "社群／搜尋／媒體",
-      "summary": "睡眠飲、機能茶貼文增加。",
-      "momentum_score": 72,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "source_count": 2,
-      "verification_status": "pending",
-      "next_step": "驗證成分合規性與功效。",
-      "source_urls": [
-        "https://www.uclahealth.org/news/article/worth-trying-truth-behind-4-tiktok-wellness-trends",
-        "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/"
-      ]
-    },
-    {
-      "id": "x-gut-hop",
-      "platforms": [
-        "X"
-      ],
-      "name": "GUT HOP 啤酒花氣泡水",
-      "category": "社群／搜尋／媒體",
-      "summary": "0 糖 0 卡 0 酒精，益生元纖維。",
-      "momentum_score": 65,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "source_count": 1,
-      "verification_status": "pending",
-      "next_step": "評估台灣市場可行性。",
-      "source_urls": [
-        "https://x.com/BevNET/status/2087429882254856682"
-      ]
-    },
-    {
-      "id": "google-news-yakult",
-      "platforms": [
-        "Google News"
-      ],
-      "name": "Yakult 1000 免疫機能",
-      "category": "社群／搜尋／媒體",
-      "summary": "日本媒體密集報導。",
-      "momentum_score": 84,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_confirmed",
-      "source_count": 3,
-      "verification_status": "confirmed",
-      "next_step": "追蹤市場反應。",
-      "source_urls": [
-        "https://www.yakult.co.jp/news/article.php?num=1875",
-        "https://news.livedoor.com/article/detail/32116554/",
-        "https://x.com/shokuhinet/status/2090299612372607014"
-      ]
-    },
-    {
-      "id": "reddit-glp1",
-      "platforms": [
-        "Reddit"
-      ],
-      "name": "GLP-1 nutrition support",
-      "category": "社群／搜尋／媒體",
-      "summary": "討論蛋白質、纖維、微量營養素。",
-      "momentum_score": 68,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "source_count": 2,
-      "verification_status": "pending",
-      "next_step": "問卷調查 GLP-1 使用者需求。",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison"
-      ]
-    },
-    {
-      "id": "xiaohongshu-low-calorie",
-      "platforms": [
-        "小紅書"
-      ],
-      "name": "低卡飲品、高纖飲",
-      "category": "社群／搜尋／媒體",
-      "summary": "台灣品牌討論增加。",
-      "momentum_score": 70,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_pending",
-      "source_count": 2,
-      "verification_status": "pending",
-      "next_step": "強化社群行銷。",
-      "source_urls": [
-        "https://www.guolibio.com/products/productslytoslim"
-      ]
-    },
-    {
-      "id": "google-trends-guthealth",
-      "platforms": [
-        "Google Trends"
-      ],
-      "name": "#guthealth、#probiotics",
-      "category": "社群／搜尋／媒體",
-      "summary": "全球搜尋熱度持續上升。",
-      "momentum_score": 88,
-      "previous_momentum_score": null,
-      "monthly_change": null,
-      "trend_status": "emerging_confirmed",
-      "source_count": 3,
-      "verification_status": "confirmed",
-      "next_step": "持續監測搜尋趨勢。",
-      "source_urls": [
-        "https://www.visibrain.com/blog/functional-beverages-are-having-a-moment.-heres-what-brands-need-to-know",
-        "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market",
-        "https://www.twmicrobio.com/gut-health-trends-2025-2026-why-gut-health-is-becoming-nutritions-next-platform-claim/"
+        "https://www.visibrain.com/blog/functional-beverages-are-having-a-moment.-heres-what-brands-need-to-know"
       ]
     }
   ],
   "research_reports": [
     {
-      "id": "fmi-gut-health-2026",
+      "id": "fmi-gut-2026",
       "organization": "Future Market Insights",
-      "title": "Gut Health Ingredients Market 2026",
+      "title": "Gut Health Market 2026",
       "category": "市場研究",
       "published_or_found_date": "2026-08-13",
-      "summary": "2026 年 343 億美元，CAGR 6.4% 至 2036 年 638 億美元；益生菌占 33.8%，後生元快速成長。",
-      "implication_for_taiwan": "腸道健康為長期成長賽道，台灣需強化益生菌與後生元佈局。",
+      "summary": "2026 年 343 億美元市場。",
+      "implication_for_taiwan": "腸道健康為成長賽道。",
       "source_urls": [
-        "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market",
-        "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market/companies"
-      ]
-    },
-    {
-      "id": "indexbox-eu-gut-2026",
-      "organization": "IndexBox",
-      "title": "EU Digestion & Gut Health Market",
-      "category": "市場研究",
-      "published_or_found_date": "2026-08-19",
-      "summary": "益生菌占 45-55%，益生元 15-20%，後生元快速成長。",
-      "implication_for_taiwan": "歐盟市場結構可供台灣參考，益生元與後生元為機會。",
-      "source_urls": [
-        "https://www.indexbox.io/store/european-union-digestion-gut-health-market-analysis-forecast-size-trends-and-insights/"
-      ]
-    },
-    {
-      "id": "indexbox-us-gut-2026",
-      "organization": "IndexBox",
-      "title": "US Digestion & Gut Health Market",
-      "category": "市場研究",
-      "published_or_found_date": "2026-08-19",
-      "summary": "益生元與合生菌占 20-25%，電商成長快。",
-      "implication_for_taiwan": "美國電商模式可供台灣跨境參考。",
-      "source_urls": [
-        "https://www.indexbox.io/store/united-states-digestion-gut-health-market-analysis-forecast-size-trends-and-insights/"
-      ]
-    },
-    {
-      "id": "fmi-fiber-2026",
-      "organization": "Future Market Insights",
-      "title": "Dietary Fibers & Prebiotic Fiber Market 2026",
-      "category": "市場研究",
-      "published_or_found_date": "2026-08-13",
-      "summary": "2026 年 89 億美元，CAGR 8.2% 至 2036 年 196 億美元。",
-      "implication_for_taiwan": "益生元纖維為高成長賽道，台灣可強化產品開發。",
-      "source_urls": [
-        "https://www.futuremarketinsights.com/reports/dietary-fibers-and-prebiotic-fiber-market"
-      ]
-    },
-    {
-      "id": "tw-microbio-postbiotics-2026",
-      "organization": "TWMicrobio",
-      "title": "Gut Health Trends 2025-2026",
-      "category": "消費者研究",
-      "published_or_found_date": "2026-08-04",
-      "summary": "後生元年增率 11.8%，高於益生菌 6.7%。",
-      "implication_for_taiwan": "後生元為高成長新興賽道，台灣需評估法規與市場。",
-      "source_urls": [
-        "https://www.twmicrobio.com/gut-health-trends-2025-2026-why-gut-health-is-becoming-nutritions-next-platform-claim/"
-      ]
-    },
-    {
-      "id": "marketsnxt-gut-2026",
-      "organization": "MarketsNXT",
-      "title": "Gut Health Market 2026: From Wellness to Clinical",
-      "category": "市場研究",
-      "published_or_found_date": "2026-08-18",
-      "summary": "後生元為新興賽道，穩定性高、宣稱空間大。",
-      "implication_for_taiwan": "後生元產品開發具潛力，需驗證法規。",
-      "source_urls": [
-        "https://marketsnxt.com/blog/gut-health-clinical-category-market-split-2026/"
+        "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market"
       ]
     }
   ],
   "supply_chain_risks": [
     {
-      "id": "tfda-border-pesticide",
-      "name": "日本哈密瓜農藥殘留",
-      "category": "供應鏈／原料",
+      "id": "tfda-pesticide",
+      "name": "農藥殘留",
+      "category": "供應鏈",
       "risk_level": "high",
-      "summary": "TFDA 邊境查驗發現日本哈密瓜 tetraniliprole 農藥殘留超標。",
-      "potential_impact": "進口原料風險升溫，需加強檢驗。",
-      "recommended_action": "強化供應商審核、批次檢驗。",
+      "summary": "邊境查驗發現農藥殘留。",
+      "potential_impact": "進口原料風險。",
+      "recommended_action": "加強檢驗。",
       "source_urls": [
         "https://focustaiwan.tw/society/202608180011"
-      ]
-    },
-    {
-      "id": "tfda-border-aflatoxin",
-      "name": "越南花生醬黃麴毒素",
-      "category": "供應鏈／原料",
-      "risk_level": "high",
-      "summary": "TFDA 邊境查驗發現越南花生醬黃麴毒素超標。",
-      "potential_impact": "進口原料風險升溫，需加強檢驗。",
-      "recommended_action": "強化供應商審核、批次檢驗。",
-      "source_urls": [
-        "https://www.ftnn.com.tw/news/569027"
-      ]
-    },
-    {
-      "id": "tfda-border-cadmium",
-      "name": "義大利黑松露重金屬鎘",
-      "category": "供應鏈／原料",
-      "risk_level": "high",
-      "summary": "TFDA 邊境查驗發現義大利黑松露重金屬鎘超標。",
-      "potential_impact": "進口原料風險升溫，需加強檢驗。",
-      "recommended_action": "強化供應商審核、批次檢驗。",
-      "source_urls": [
-        "https://isi.org.tw/home/blogs/20260818%E9%82%8A%E5%A2%83%E6%AA%A2%E9%A9%97%E4%B8%8D%E5%90%88%E6%A0%BC%E8%B3%87%E8%A8%8A"
-      ]
-    },
-    {
-      "id": "tfda-border-container",
-      "name": "中國紙杯、湯杯溶出試驗不符",
-      "category": "供應鏈／包材",
-      "risk_level": "medium",
-      "summary": "TFDA 邊境查驗發現中國紙杯、湯杯溶出試驗不符。",
-      "potential_impact": "包材供應商需符合台灣溶出標準。",
-      "recommended_action": "更換合格包材供應商、加強進貨檢驗。",
-      "source_urls": [
-        "https://isi.org.tw/home/blogs/20260818%E9%82%8A%E5%A2%83%E6%AA%A2%E9%A9%97%E4%B8%8D%E5%90%88%E6%A0%BC%E8%B3%87%E8%A8%8A"
-      ]
-    },
-    {
-      "id": "japan-gmp-supply",
-      "name": "日本 GMP 義務化影響跨境供應鏈",
-      "category": "供應鏈／跨境合規",
-      "risk_level": "high",
-      "summary": "日本 9/1 起機能性表示食品 GMP 義務化，膠囊與錠劑產品強制符合。",
-      "potential_impact": "供應商成本增加、交期延遲。",
-      "recommended_action": "確認供應商 GMP 合規狀態。",
-      "source_urls": [
-        "https://www.bci.co.jp/nichiryu/article/20212",
-        "https://www.cleolabs.co/en/blog/japan-ffc-gmp-mandate-2026"
       ]
     }
   ],
@@ -1959,89 +350,15 @@
     {
       "id": "postbiotic-drink",
       "title": "後生元機能飲",
-      "consumer_need": "腸道健康、免疫、穩定性",
-      "competitor_landscape": "台灣市場少見後生元飲品",
-      "product_direction": "後生元＋益生元氣泡飲或粉包",
-      "target_context": "上班族、腸道敏感者、日常補給",
-      "competitive_advantage": "穩定性高、宣稱空間大",
-      "risk_or_validation": "需驗證台灣法規與消費者接受度",
+      "consumer_need": "腸道健康",
+      "competitor_landscape": "市場少見",
+      "product_direction": "後生元氣泡飲",
+      "target_context": "上班族日常補給",
+      "competitive_advantage": "穩定性高",
+      "risk_or_validation": "需驗證法規",
       "evidence_level": "high",
       "source_urls": [
-        "https://www.twmicrobio.com/gut-health-trends-2025-2026-why-gut-health-is-becoming-nutritions-next-platform-claim/",
-        "https://marketsnxt.com/blog/gut-health-clinical-category-market-split-2026/"
-      ]
-    },
-    {
-      "id": "glp1-nutrition",
-      "title": "GLP-1 營養支持飲",
-      "consumer_need": "蛋白質、高纖、微量營養素",
-      "competitor_landscape": "台灣代餐多為一般食品，缺乏 GLP-1 專屬設計",
-      "product_direction": "高蛋白＋高纖＋維生素礦物質粉包",
-      "target_context": "GLP-1 使用者、體重管理者、餐後管理",
-      "competitive_advantage": "專屬配方、臨床佐證",
-      "risk_or_validation": "需驗證 GLP-1 使用者需求與法規",
-      "evidence_level": "medium",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison"
-      ]
-    },
-    {
-      "id": "local-tea-functional",
-      "title": "在地茶機能化",
-      "consumer_need": "無糖、抗氧化、在地故事",
-      "competitor_landscape": "茶裏王、原萃等無糖茶競爭激烈",
-      "product_direction": "機能性表示食品等級在地茶飲",
-      "target_context": "茶愛好者、健康意識者、伴手禮",
-      "competitive_advantage": "在地茶＋機能訴求",
-      "risk_or_validation": "需驗證機能性表示食品可行性",
-      "evidence_level": "high",
-      "source_urls": [
-        "https://today.line.me/tw/v3/article/nXRk90L"
-      ]
-    },
-    {
-      "id": "sleep-functional-tea",
-      "title": "舒壓睡眠機能茶",
-      "consumer_need": "舒壓、睡眠品質",
-      "competitor_landscape": "Pukka Unwind 茶、TikTok 睡眠飲",
-      "product_direction": "L-茶胺酸＋GABA＋鎂機能茶",
-      "target_context": "上班族、睡眠品質不佳者、晚間飲品",
-      "competitive_advantage": "天然茶底＋機能成分",
-      "risk_or_validation": "需驗證成分合規性與功效",
-      "evidence_level": "medium",
-      "source_urls": [
-        "https://www.uclahealth.org/news/article/worth-trying-truth-behind-4-tiktok-wellness-trends",
-        "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/"
-      ]
-    },
-    {
-      "id": "women-gut-beauty",
-      "title": "女性美腸飲",
-      "consumer_need": "腸道健康、美容、女性保養",
-      "competitor_landscape": "蔓越莓、女性益生菌多為膠囊",
-      "product_direction": "蔓越莓＋益生菌＋膠原蛋白機能飲",
-      "target_context": "女性、25-45 歲、日常保養",
-      "competitive_advantage": "美腸＋美容雙訴求",
-      "risk_or_validation": "需驗證口味與消費者接受度",
-      "evidence_level": "medium",
-      "source_urls": [
-        "https://giftshop-tw.line.me/products/322415443",
-        "https://news.e-expo.net/gyousei/2026/08/260820_g01.html/"
-      ]
-    },
-    {
-      "id": "low-sugar-high-protein-breakfast",
-      "title": "低糖高蛋白早餐飲",
-      "consumer_need": "快速營養、蛋白質、低糖",
-      "competitor_landscape": "代餐奶昔多為一般食品，口味有限",
-      "product_direction": "高蛋白＋高纖＋低糖粉包或即飲",
-      "target_context": "上班族、學生、早餐替代",
-      "competitive_advantage": "蛋白質效率＋口味多樣化",
-      "risk_or_validation": "需驗證法規與消費者接受度",
-      "evidence_level": "high",
-      "source_urls": [
-        "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison",
-        "https://brandreviewtaiwan.com/2026/08/07/%E5%8F%B0%E7%81%A3%E4%BB%A3%E9%A4%90%E5%A5%B6%E6%98%94-2026%E5%B9%B48%E6%9C%88-%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E6%B8%AC%E8%A9%95%E6%A6%9C%E6%A0%B8%E5%BF%83%E5%8F%83%E6%95%B8%E8%88%87%E6%80%A7/"
+        "https://www.twmicrobio.com/gut-health-trends-2025-2026-why-gut-health-is-becoming-nutritions-next-platform-claim/"
       ]
     }
   ],
@@ -2049,169 +366,10 @@
   "confirmed_signals": [
     "probiotics",
     "postbiotics",
-    "prebiotic-fiber",
-    "gut-health",
-    "immune-support",
-    "stress-sleep",
-    "energy-focus",
-    "beauty-from-within",
-    "post-meal-glucose",
-    "hydration-recovery",
-    "tiktok-guthealth",
-    "google-news-yakult",
-    "google-trends-guthealth"
+    "gut-health"
   ],
   "pending_signals": [
     "elderberry",
-    "ashwagandha",
-    "berberine",
-    "white-kidney-bean",
-    "oral-health",
-    "vascular-blood-pressure",
-    "muscle-maintenance",
-    "instagram-sleepdrink",
-    "x-gut-hop",
-    "reddit-glp1",
-    "xiaohongshu-low-calorie"
+    "ashwagandha"
   ],
-  "watchlist": [
-    "tfda-border-2026-08",
-    "fda-yellow-oleander-2026-08",
-    "japan-ffc-gmp-2026-09",
-    "mfds-new-ingredients-2026-08",
-    "ftc-health-advertising-2026",
-    "yakult-1000-immune",
-    "cha-li-wang-roasted-oolong",
-    "pukka-gut-unwind",
-    "wildwonder-apple-yuzu",
-    "guoli-lytoslim",
-    "7-eleven-cha-li-wang",
-    "pchome-meal-replacement",
-    "iherb-probiotics-collagen",
-    "amazon-energy-drink",
-    "fmi-gut-health-2026",
-    "indexbox-eu-gut-2026",
-    "indexbox-us-gut-2026",
-    "fmi-fiber-2026",
-    "tw-microbio-postbiotics-2026",
-    "marketsnxt-gut-2026",
-    "tfda-border-pesticide",
-    "tfda-border-aflatoxin",
-    "tfda-border-cadmium",
-    "tfda-border-container",
-    "japan-gmp-supply"
-  ],
-  "sources": [
-    {
-      "id": "focustaiwan-2026-08-18",
-      "url": "https://focustaiwan.tw/society/202608180011",
-      "title": "Japanese melons blocked at border over excessive pesticide residues",
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "ftnn-2026-08-11",
-      "url": "https://www.ftnn.com.tw/news/569027",
-      "title": "邊境檢驗 13 批不合格！日本進口嬰幼兒米果驗出重金屬越南花生醬黃麴毒素",
-      "published_date": "2026-08-11"
-    },
-    {
-      "id": "isi-2026-08-18",
-      "url": "https://isi.org.tw/home/blogs/20260818%E9%82%8A%E5%A2%83%E6%AA%A2%E9%A9%97%E4%B8%8D%E5%90%88%E6%A0%BC%E8%B3%87%E8%A8%8A",
-      "title": "2026.08.18 邊境檢驗不合格資訊",
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "fda-yellow-oleander-2026-08-12",
-      "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander",
-      "title": "FDA Issues Warning About Certain Products Containing Toxic Yellow Oleander",
-      "published_date": "2026-08-12"
-    },
-    {
-      "id": "yakult-2026-08-19",
-      "url": "https://www.yakult.co.jp/news/article.php?num=1875",
-      "title": "Yakult 1000 系列リニューアル",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "livedoor-yakult-2026-08-20",
-      "url": "https://news.livedoor.com/article/detail/32116554/",
-      "title": "ヤクルト、乳製品乳酸菌飲料 Yakult1000 糖質オフ Y1000 Y1000 糖質オフに免疫機能維持の機能を追加しリニューアル発売",
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "prtimes-yakult-2026-08-19",
-      "url": "https://prtimes.jp/main/html/rd/p/000000008.000158624.html",
-      "title": "Yakult(ヤクルト)1000 糖質オフ Y1000 Y1000 糖質オフをリニューアル発売",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "fmi-gut-2026-08-13",
-      "url": "https://www.futuremarketinsights.com/reports/gut-health-ingredients-market",
-      "title": "Gut Health Ingredients Market 2026",
-      "published_date": "2026-08-13"
-    },
-    {
-      "id": "tw-microbio-2026-08-04",
-      "url": "https://www.twmicrobio.com/gut-health-trends-2025-2026-why-gut-health-is-becoming-nutritions-next-platform-claim/",
-      "title": "Why Gut Health Is Becoming Nutrition's Next Platform Claim",
-      "published_date": "2026-08-04"
-    },
-    {
-      "id": "marketsnxt-2026-08-18",
-      "url": "https://marketsnxt.com/blog/gut-health-clinical-category-market-split-2026/",
-      "title": "Gut Health Market 2026: From Wellness to Clinical",
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "tea-coffee-pukka-2026-08-17",
-      "url": "https://www.teaandcoffee.net/news/39876/pukka-expands-wellness-offering-with-new-gut-health-and-unwind-teas/",
-      "title": "Pukka expands wellness offering with new gut health and Unwind teas",
-      "published_date": "2026-08-17"
-    },
-    {
-      "id": "bevnet-wildwonder-2026-08-05",
-      "url": "https://www.bevnet.com/pr/2026/08/05/wildwonder-adds-apple-yuzu-where-the-orchard-meets-japanese-citrus",
-      "title": "Wildwonder Adds Apple Yuzu",
-      "published_date": "2026-08-05"
-    },
-    {
-      "id": "line-today-cha-li-wang-2026-08-19",
-      "url": "https://today.line.me/tw/v3/article/nXRk90L",
-      "title": "茶裏王新品「焙香紅烏」一口韻香 雙焙講究",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "kubo-meal-replacement-2026-08-03",
-      "url": "https://www.kubonews.com/blog/meal-replacement-recommendation-comparison",
-      "title": "8 款高蛋白沖泡飲品規格實測",
-      "published_date": "2026-08-03"
-    },
-    {
-      "id": "ucla-sleep-drink-2026-08-14",
-      "url": "https://www.uclahealth.org/news/article/worth-trying-truth-behind-4-tiktok-wellness-trends",
-      "title": "Worth trying? The truth behind 4 TikTok wellness trends",
-      "published_date": "2026-08-14"
-    },
-    {
-      "id": "visibrain-functional-2026-08-19",
-      "url": "https://www.visibrain.com/blog/functional-beverages-are-having-a-moment.-heres-what-brands-need-to-know",
-      "title": "Functional Beverages Are Having a Moment",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "bci-japan-gmp-2026-08-22",
-      "url": "https://www.bci.co.jp/nichiryu/article/20212",
-      "title": "<機能性表示食品> 9 月 1 日から表示見直し／サプリ形状は GMP 義務化に",
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": "cleolabs-japan-gmp-2026-08-23",
-      "url": "https://www.cleolabs.co/en/blog/japan-ffc-gmp-mandate-2026",
-      "title": "On 1 September, GMP manufacturing becomes mandatory",
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": "mfds-2026-08-24",
-      "url": "https://data.mfds.go.kr/hid/main/main.do",
-      "title": "健康機能食品綜合資訊服務",
-      "published_date": "2026-08-24"
+  "watch
