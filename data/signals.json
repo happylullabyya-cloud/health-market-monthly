@@ -1,16 +1,16 @@
 {
   "meta": {
-    "report_type": "weekly",
-    "report_label": "每週市場脈動報告",
-    "report_date": "2026-08-24",
+    "report_type": "monthly",
+    "report_label": "每月市場脈動報告",
+    "report_date": "2026-08-25",
     "report_period": {
-      "start": "2026-08-18",
-      "end": "2026-08-24"
+      "start": "2026-08-01",
+      "end": "2026-08-25"
     },
     "previous_report_period": null,
     "timezone": "Asia/Taipei",
-    "generated_at": "2026-08-24T13:29:00+08:00",
-    "last_updated_at": "2026-08-24T13:29:00+08:00",
+    "generated_at": "2026-08-25T15:11:00+08:00",
+    "last_updated_at": "2026-08-25T15:11:00+08:00",
     "scope": "Health, weight management and tea market monitoring",
     "markets": [
       "Taiwan",
@@ -24,523 +24,329 @@
     "data_limitations": "本報告僅使用公開可驗證資料；社群訊號反映公開討論熱度，不代表因果關係、全體消費者行為或市場規模。"
   },
   "kpis": {
-    "total_signals": 28,
-    "ingredient_signals": 15,
-    "benefit_signals": 8,
-    "regulatory_events": 4,
-    "new_products": 6,
-    "social_trends": 4,
-    "research_reports": 4,
-    "opportunity_gaps": 5,
-    "confirmed_emerging_signals": 5,
-    "pending_validation_signals": 8,
-    "high_priority_alerts": 3
+    "total_signals": 34,
+    "ingredient_signals": 17,
+    "benefit_signals": 9,
+    "regulatory_events": 6,
+    "new_products": 5,
+    "social_trends": 6,
+    "research_reports": 8,
+    "opportunity_gaps": 6,
+    "confirmed_emerging_signals": 3,
+    "pending_validation_signals": 5,
+    "high_priority_alerts": 4
   },
   "summary": {
-    "headline": "美國 FDA 推動 GRAS 強制通報，EGCG 減重效果再受關注但警示過量風險，國營事業與跨境電商同步發力健康飲品市場。",
-    "week_over_week_assessment": "首次建立基線，無法進行週變化比較。",
+    "headline": "無糖日常飲用、腸道與代謝功能化升溫；台灣菊糖與血糖健康食品規範更新，同步提高減重產品安全治理需求。",
+    "month_over_month_assessment": "首次建立基線，無法進行月度比較。",
+    "week_over_week_assessment": null,
     "key_takeaways": [
       {
         "priority": "high",
-        "title": "美國 FDA 擬議 GRAS 強制通報規則",
-        "why_it_matters": "功能性食品與膳食補充劑合規門檻大幅提高，影響新興成分使用與國際市場佈局。",
-        "recommended_action": "盤點現有產品成分，與法規顧問確認 GRAS 合規路徑，預留 18 個月緩衝期。",
+        "title": "TFDA更新調節血糖保健功效評估方法",
+        "why_it_matters": "血糖與餐後管理產品的健康食品證據、試驗設計與溝通邏輯需同步更新。",
+        "recommended_action": "盤點血糖、餐後管理與代謝產品的原料、試驗與文案。",
         "source_urls": [
-          "https://www.lw.com/en/insights/fda-proposes-to-mandate-gras-notices-for-food-substances",
-          "https://foodpackagingforum.org/news/us-government-proposes-mandatory-gras-notification-advances-definition-of-ultra-processed-foods",
-          "https://tw.reach24h.com/food/industry-news/gras-hhs-rule"
+          "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699"
         ]
       },
       {
         "priority": "high",
-        "title": "EGCG 減重效果有限且過量有肝毒性風險",
-        "why_it_matters": "消費者對綠茶減重認知普遍，但實際效果 modest，高劑量補充劑有安全疑慮。",
-        "recommended_action": "產品宣稱避免絕對性用語，標示建議攝取量（<800 mg/日），參考 EFSA 警示。",
+        "title": "TFDA訂定特定製程菊糖之使用限制及標示規定",
+        "why_it_matters": "高纖飲、益生菌飲、代餐與粉包配方之原料合規與標示受到直接影響。",
+        "recommended_action": "建立菊糖原料來源、使用量、標示與供應商規格審查表。",
         "source_urls": [
-          "https://tw.news.yahoo.com/%E5%90%83%E9%A3%BD%E5%96%9D%E6%9D%AF%E8%8C%B6%E6%9C%83%E8%AE%8A%E7%98%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%A7%A3%E7%AD%94-043716929.html",
-          "https://news.tvbs.com.tw/life/4011823",
-          "https://mancodecanada.com/ingredients/green-tea/"
+          "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31690",
+          "https://www.fda.gov.tw/eng/law.aspx?cid=16&cr=53851706"
         ]
       },
       {
-        "priority": "medium",
-        "title": "中油跨足養生茶飲市場，國營事業搶攻手搖飲商機",
-        "why_it_matters": "國營事業以通路優勢與信任度切入，可能改變既有茶飲競爭格局。",
-        "recommended_action": "評估與國營事業合作機會，開發高纖、低卡、益生菌茶，強化差異化。",
+        "priority": "high",
+        "title": "FDA持續警示含未標示或毒性成分之減重產品",
+        "why_it_matters": "快速減重訴求具有高摻偽、法規及品牌信任風險。",
+        "recommended_action": "建立禁用宣稱、供應鏈稽核與高風險摻偽檢測流程。",
         "source_urls": [
-          "https://news.nextapple.com/finance/20260821/2C51FDDB116F5F7B945D1BDDAD81E894"
-        ]
-      },
-      {
-        "priority": "medium",
-        "title": "iHerb 30 週年益生菌、膠原蛋白熱銷",
-        "why_it_matters": "跨境電商數據反映腸道健康、由內而外保養需求持續升溫。",
-        "recommended_action": "開發女性專屬、兒童益生菌，強化跨境電商通路佈局。",
-        "source_urls": [
-          "https://news.nextapple.com/press/20260819/2253471E6C20112C3FDF0AEA76C1A87F",
-          "https://money.udn.com/money/story/5637/9701420",
-          "https://howlife.cna.com.tw/life/20260820s006.aspx"
-        ]
-      },
-      {
-        "priority": "medium",
-        "title": "適應原飲品市場 2026 年達 16.1 億美元",
-        "why_it_matters": "壓力管理、情緒平衡需求成長，南非醉茄、紅景天受關注。",
-        "recommended_action": "開發減壓茶、睡眠茶，結合 L-茶胺酸、GABA，並驗證法規可行性。",
-        "source_urls": [
-          "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
+          "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander",
+          "https://www.fda.gov/drugs/medication-health-fraud-notifications/esbelta-chupapanza-flat-belly-may-be-harmful-due-hidden-ingredient"
         ]
       }
     ]
   },
   "ingredients": [
     {
-      "id": "probiotics",
-      "name": "益生菌（Probiotics）",
+      "id": "inulin-prebiotic",
+      "name": "菊糖／益生元",
       "category": "功能性成分",
-      "summary": "iHerb 30 週年熱銷品項，LactoBif 30 益生菌（300 億 CFU）長期穩居銷售榜首，反映腸道健康需求持續升溫。",
-      "momentum_score": 88,
+      "summary": "TFDA於本月公布特定果糖基轉移酶製得菊糖之使用限制及標示規定，為高纖與腸道產品的高優先合規訊號。",
+      "momentum_score": 82,
       "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
       "trend_status": "rising",
       "health_benefits": [
         "腸道健康",
-        "免疫支持",
-        "女性保養"
+        "消化順暢",
+        "餐後管理"
       ],
       "product_formats": [
-        "膠囊",
-        "粉包",
-        "即飲"
+        "高纖飲",
+        "粉包沖泡飲",
+        "益生菌飲"
       ],
       "geography": [
-        "Taiwan",
-        "Global"
+        "Taiwan"
       ],
-      "published_or_found_date": "2026-08-19",
+      "published_or_found_date": "2026-08-12",
       "evidence_level": "high",
       "verification_status": "confirmed",
       "source_urls": [
-        "https://news.nextapple.com/press/20260819/2253471E6C20112C3FDF0AEA76C1A87F",
-        "https://money.udn.com/money/story/5637/9701420",
-        "https://howlife.cna.com.tw/life/20260820s006.aspx"
-      ]
-    },
-    {
-      "id": "egcg",
-      "name": "EGCG／綠茶兒茶素",
-      "category": "功能性成分",
-      "summary": "多篇媒體報導引用研究指出綠茶減重效果 modest（10 週平均 1.61 公斤），EFSA 警示 ≥800 mg/日可能傷肝。",
-      "momentum_score": 85,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "rising",
-      "health_benefits": [
-        "代謝",
-        "體重管理",
-        "抗氧化"
-      ],
-      "product_formats": [
-        "即飲茶",
-        "茶包",
-        "膠囊"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "published_or_found_date": "2026-08-24",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://tw.news.yahoo.com/%E5%90%83%E9%A3%BD%E5%96%9D%E6%9D%AF%E8%8C%B6%E6%9C%83%E8%AE%8A%E7%98%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%A7%A3%E7%AD%94-043716929.html",
-        "https://news.tvbs.com.tw/life/4011823",
-        "https://mancodecanada.com/ingredients/green-tea/"
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31690",
+        "https://www.fda.gov.tw/eng/law.aspx?cid=16&cr=53851706"
       ]
     },
     {
       "id": "dietary-fiber",
-      "name": "膳食纖維（Fibersol-2、難消化性麥芽糊精）",
+      "name": "膳食纖維",
       "category": "功能性成分",
-      "summary": "FIBHER 聯手辻利推出黑芝麻焙茶纖維飲，每包 10.2 克 Fibersol-2，主打腸道蠕動、低卡、美體。",
-      "momentum_score": 82,
+      "summary": "血糖保健功效評估方法更新與菊糖標示規範，使高纖飲、餐後管理及代餐產品的法規與證據優先度上升。",
+      "momentum_score": 78,
       "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
       "trend_status": "rising",
       "health_benefits": [
         "消化順暢",
-        "低卡",
-        "血糖管理"
+        "飽足感",
+        "代謝",
+        "血糖與餐後管理"
       ],
       "product_formats": [
-        "粉包",
-        "即飲",
-        "茶凍"
+        "高纖飲",
+        "代餐飲",
+        "粉包沖泡飲"
       ],
       "geography": [
         "Taiwan",
-        "Japan"
+        "Global"
       ],
-      "published_or_found_date": "2026-08-19",
+      "published_or_found_date": "2026-08-20",
       "evidence_level": "high",
       "verification_status": "confirmed",
       "source_urls": [
-        "https://www.fibher.shop/products/tsujiri-x-fibher-black-sesame-houjicha-fiber"
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699",
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31690"
       ]
     },
     {
-      "id": "collagen-peptides",
-      "name": "膠原蛋白胜肽",
+      "id": "egcg-green-tea-catechins",
+      "name": "EGCG／綠茶兒茶素",
       "category": "功能性成分",
-      "summary": "iHerb 30 週年熱銷品項，CollagenUP 結合水解海洋膠原蛋白肽、透明質酸與維生素 C，主打美麗由內而外。",
-      "momentum_score": 78,
+      "summary": "綠茶代謝研究與日本特茶零售可見度支持其持續市場關注，但食品宣稱需避免外推研究結果。",
+      "momentum_score": 76,
       "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
       "trend_status": "rising",
       "health_benefits": [
-        "美麗由內而外",
-        "皮膚彈性"
+        "抗氧化",
+        "代謝",
+        "體重管理"
       ],
       "product_formats": [
-        "粉包",
-        "即飲",
-        "軟糖"
+        "機能茶",
+        "即飲茶",
+        "粉包沖泡飲"
       ],
       "geography": [
-        "Taiwan",
+        "Japan",
         "Global"
       ],
-      "published_or_found_date": "2026-08-19",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://money.udn.com/money/story/5637/9701420",
-        "https://howlife.cna.com.tw/life/20260820s006.aspx"
-      ]
-    },
-    {
-      "id": "ashwagandha",
-      "name": "南非醉茄（Ashwagandha）",
-      "category": "功能性成分",
-      "summary": "適應原飲品市場成長，南非醉茄常與馬卡搭配作為日常營養補給，主打壓力管理、睡眠、能量。",
-      "momentum_score": 75,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "pending",
-      "health_benefits": [
-        "壓力管理",
-        "睡眠",
-        "能量"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包",
-        "即飲"
-      ],
-      "geography": [
-        "Global",
-        "United States"
-      ],
-      "published_or_found_date": "2026-08-19",
-      "evidence_level": "medium",
-      "verification_status": "pending",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market",
-        "https://vocus.cc/article/6a851da3fd897800014d29c0"
-      ]
-    },
-    {
-      "id": "postbiotics",
-      "name": "後生元（Postbiotics）",
-      "category": "功能性成分",
-      "summary": "ADM 推出功能性復配方案，結合 Fibersol-2 與 PRIOME® GH 長雙歧桿菌後生元，支持腸道及免疫健康。",
-      "momentum_score": 72,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "pending",
-      "health_benefits": [
-        "腸道屏障",
-        "免疫",
-        "減少異味"
-      ],
-      "product_formats": [
-        "粉包",
-        "寵物食品",
-        "即飲"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "published_or_found_date": "2026-08-20",
-      "evidence_level": "medium",
-      "verification_status": "pending",
-      "source_urls": [
-        "https://www.jiemian.com/article/14951580.html"
-      ]
-    },
-    {
-      "id": "rhodiola",
-      "name": "紅景天（Rhodiola）",
-      "category": "功能性成分",
-      "summary": "適應原飲品市場報告提及紅景天作為抗疲勞、壓力適應成分，台灣法規尚未明確。",
-      "momentum_score": 70,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "pending",
-      "health_benefits": [
-        "抗疲勞",
-        "壓力適應",
-        "能量"
-      ],
-      "product_formats": [
-        "膠囊",
-        "茶包",
-        "即飲"
-      ],
-      "geography": [
-        "Global",
-        "United States"
-      ],
-      "published_or_found_date": "2026-08-19",
-      "evidence_level": "medium",
-      "verification_status": "pending",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ]
-    },
-    {
-      "id": "maca",
-      "name": "瑪卡（Maca）",
-      "category": "功能性成分",
-      "summary": "2026 馬卡推薦評比提及南非醉茄常與馬卡搭配，主打能量、滋補、女性保養。",
-      "momentum_score": 68,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "能量",
-        "滋補",
-        "女性保養"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包",
-        "飲品"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "published_or_found_date": "2026-08-19",
+      "published_or_found_date": "2026-08-03",
       "evidence_level": "medium",
       "verification_status": "confirmed",
       "source_urls": [
-        "https://vocus.cc/article/6a851da3fd897800014d29c0"
+        "https://www.nutraingredients.com/Article/2026/07/27/japan-focus/",
+        "https://prices.blog.jp/archives/30427564.html"
       ]
     },
     {
       "id": "l-theanine",
       "name": "L-茶胺酸",
       "category": "功能性成分",
-      "summary": "適應原飲品市場報告提及 L-茶胺酸作為放鬆、睡眠、專注成分，可搭配咖啡因使用。",
-      "momentum_score": 65,
+      "summary": "北美市場報告提及Pure Leaf Mental Focus以咖啡因及L-茶胺酸切入機能即飲茶。",
+      "momentum_score": 74,
       "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
-      "trend_status": "stable",
+      "trend_status": "rising",
       "health_benefits": [
-        "放鬆",
-        "睡眠",
-        "專注"
+        "專注",
+        "壓力管理",
+        "放鬆"
       ],
       "product_formats": [
-        "茶包",
-        "膠囊",
-        "即飲"
+        "即飲茶",
+        "氣泡茶",
+        "睡眠飲"
       ],
       "geography": [
-        "Global",
-        "Taiwan"
+        "United States",
+        "Global"
+      ],
+      "published_or_found_date": "2026-08-25",
+      "evidence_level": "medium",
+      "verification_status": "confirmed",
+      "source_urls": [
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market"
+      ]
+    },
+    {
+      "id": "fermented-rice-bran",
+      "name": "發酵米糠",
+      "category": "功能性成分",
+      "summary": "Suntory Tokusui功能水延伸訊號將發酵米糠來源HMPA與日常體脂管理概念連結。",
+      "momentum_score": 73,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "weekly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "代謝",
+        "體重管理"
+      ],
+      "product_formats": [
+        "機能水",
+        "即飲飲料"
+      ],
+      "geography": [
+        "Japan"
       ],
       "published_or_found_date": "2026-08-19",
       "evidence_level": "medium",
       "verification_status": "confirmed",
       "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
+        "https://www.linkedin.com/posts/wxshuhangmachinery_tokusui-suntorys-new-challenge-to-turn-activity-7495719393193275392-RRY1"
+      ]
+    },
+    {
+      "id": "probiotics",
+      "name": "益生菌",
+      "category": "功能性成分",
+      "summary": "發酵飲與康普茶公開市場研究持續支持益生菌與腸道健康的飲品關聯。",
+      "momentum_score": 72,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "weekly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "腸道健康",
+        "消化順暢",
+        "免疫"
+      ],
+      "product_formats": [
+        "益生菌飲",
+        "發酵飲",
+        "康普茶"
+      ],
+      "geography": [
+        "Global"
+      ],
+      "published_or_found_date": "2026-08-25",
+      "evidence_level": "medium",
+      "verification_status": "confirmed",
+      "source_urls": [
+        "https://www.grandviewresearch.com/industry-analysis/kombucha-market",
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market"
+      ]
+    },
+    {
+      "id": "postbiotics",
+      "name": "後生元",
+      "category": "功能性成分",
+      "summary": "腸道健康與發酵飲品的結構性成長形成後生元研發雷達，但本月缺乏台灣新品直接支持。",
+      "momentum_score": 69,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "weekly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "腸道健康",
+        "免疫"
+      ],
+      "product_formats": [
+        "粉包沖泡飲",
+        "機能飲"
+      ],
+      "geography": [
+        "Global"
+      ],
+      "published_or_found_date": "2026-08-25",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "source_urls": [
+        "https://www.grandviewresearch.com/industry-analysis/kombucha-market",
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market"
+      ]
+    },
+    {
+      "id": "resistant-maltodextrin",
+      "name": "難消化性麥芽糊精／Fibersol-2",
+      "category": "功能性成分",
+      "summary": "餐後與血糖管理評估方法的修正提高高纖產品證據與配方設計的重要性。",
+      "momentum_score": 68,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "weekly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "血糖與餐後管理",
+        "飽足感",
+        "腸道健康"
+      ],
+      "product_formats": [
+        "高纖飲",
+        "粉包沖泡飲",
+        "代餐飲"
+      ],
+      "geography": [
+        "Taiwan"
+      ],
+      "published_or_found_date": "2026-08-20",
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "source_urls": [
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699"
       ]
     },
     {
       "id": "psyllium",
       "name": "洋車前子",
       "category": "功能性成分",
-      "summary": "無糖茶評比提及洋車前子作為排便順暢、飽足感成分，需充足水分攝取。",
-      "momentum_score": 62,
+      "summary": "高纖、飽足與餐後管理的產品設計需求持續，適合粉包與代餐，但需管理飲水及耐受提醒。",
+      "momentum_score": 65,
       "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
-      "trend_status": "stable",
+      "trend_status": "rising",
       "health_benefits": [
-        "排便順暢",
-        "飽足感"
+        "消化順暢",
+        "飽足感",
+        "餐後管理"
       ],
       "product_formats": [
-        "粉包",
-        "膠囊",
+        "粉包沖泡飲",
+        "代餐飲",
         "高纖飲"
       ],
       "geography": [
         "Taiwan",
         "Global"
       ],
-      "published_or_found_date": "2026-08-18",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://vocus.cc/article/6a847e42fd897800012dc86e"
-      ]
-    },
-    {
-      "id": "chia-seed",
-      "name": "奇亞籽",
-      "category": "功能性成分",
-      "summary": "無糖茶評比提及奇亞籽作為膳食纖維、Omega-3、飽足感成分，無特殊法規限制。",
-      "momentum_score": 60,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "膳食纖維",
-        "Omega-3",
-        "飽足"
-      ],
-      "product_formats": [
-        "粉包",
-        "即飲",
-        "穀物棒"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "published_or_found_date": "2026-08-18",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://vocus.cc/article/6a847e42fd897800012dc86e"
-      ]
-    },
-    {
-      "id": "berberine",
-      "name": "小檗鹼（Berberine）",
-      "category": "功能性成分",
-      "summary": "雍大生技慢醣飲主打餐後血糖管理，小檗鹼作為潛在成分，台灣法規尚未明確。",
-      "momentum_score": 58,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "pending",
-      "health_benefits": [
-        "血糖管理",
-        "代謝"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
       "published_or_found_date": "2026-08-20",
-      "evidence_level": "low",
+      "evidence_level": "medium",
       "verification_status": "pending",
       "source_urls": [
-        "https://money.udn.com/money/story/5724/9701839"
-      ]
-    },
-    {
-      "id": "lions-mane",
-      "name": "獅鬃菇（Lion's Mane）",
-      "category": "功能性成分",
-      "summary": "適應原飲品市場報告提及獅鬃菇作為認知功能、神經支持成分，新興成分需安全性評估。",
-      "momentum_score": 55,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "pending",
-      "health_benefits": [
-        "認知功能",
-        "神經支持"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包",
-        "咖啡"
-      ],
-      "geography": [
-        "Global",
-        "United States"
-      ],
-      "published_or_found_date": "2026-08-19",
-      "evidence_level": "low",
-      "verification_status": "pending",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ]
-    },
-    {
-      "id": "cranberry",
-      "name": "蔓越莓",
-      "category": "功能性成分",
-      "summary": "iHerb 益生菌產品提及蔓越莓作為女性泌尿道健康、抗氧化成分。",
-      "momentum_score": 52,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "女性泌尿道健康",
-        "抗氧化"
-      ],
-      "product_formats": [
-        "膠囊",
-        "果汁",
-        "粉包"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "published_or_found_date": "2026-08-18",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://www.sina.cn/media/3181420415"
-      ]
-    },
-    {
-      "id": "elderberry",
-      "name": "接骨木莓（Elderberry）",
-      "category": "功能性成分",
-      "summary": "iHerb 益生菌產品提及接骨木莓作為免疫支持、抗氧化成分。",
-      "momentum_score": 50,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "stable",
-      "health_benefits": [
-        "免疫支持",
-        "抗氧化"
-      ],
-      "product_formats": [
-        "糖漿",
-        "粉包",
-        "膠囊"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "published_or_found_date": "2026-08-18",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://www.sina.cn/media/3181420415"
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699"
       ]
     }
   ],
@@ -549,1063 +355,506 @@
       "id": "gut-health",
       "name": "腸道健康",
       "category": "健康益處",
-      "summary": "益生菌、膳食纖維、後生元需求持續升溫，iHerb 益生菌熱銷，ADM 推出後生元復配方案。",
-      "momentum_score": 90,
+      "summary": "發酵飲、益生菌與益生元纖維形成跨品類支持，草本腸道茶亦出現零售新品。",
+      "momentum_score": 83,
       "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
       "trend_status": "rising",
       "related_ingredients": [
         "益生菌",
-        "膳食纖維",
-        "後生元"
+        "後生元",
+        "菊糖／益生元",
+        "膳食纖維"
       ],
       "product_formats": [
-        "膠囊",
-        "粉包",
-        "即飲"
+        "發酵飲",
+        "益生菌飲",
+        "高纖飲",
+        "草本茶"
       ],
       "geography": [
         "Taiwan",
+        "United States",
+        "European Union",
         "Global"
+      ],
+      "published_or_found_date": "2026-08-17",
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "source_urls": [
+        "https://www.grandviewresearch.com/industry-analysis/kombucha-market",
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market",
+        "https://www.linkedin.com/posts/chris-m-212922178_pukka-expands-wellness-offering-with-new-activity-7495143935699484673-laYK"
+      ]
+    },
+    {
+      "id": "metabolic-health",
+      "name": "代謝／體脂管理",
+      "category": "健康益處",
+      "summary": "日本特茶零售與功能水延伸反映以日常飲用承接體態管理需求的模式。",
+      "momentum_score": 81,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "weekly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "EGCG／綠茶兒茶素",
+        "發酵米糠",
+        "膳食纖維"
+      ],
+      "product_formats": [
+        "機能茶",
+        "機能水",
+        "高纖飲"
+      ],
+      "geography": [
+        "Japan",
+        "Taiwan"
       ],
       "published_or_found_date": "2026-08-19",
-      "evidence_level": "high",
+      "evidence_level": "medium",
       "verification_status": "confirmed",
       "source_urls": [
-        "https://news.nextapple.com/press/20260819/2253471E6C20112C3FDF0AEA76C1A87F",
-        "https://www.jiemian.com/article/14951580.html"
+        "https://prices.blog.jp/archives/30427564.html",
+        "https://www.linkedin.com/posts/wxshuhangmachinery_tokusui-suntorys-new-challenge-to-turn-activity-7495719393193275392-RRY1"
       ]
     },
     {
-      "id": "weight-management",
-      "name": "體重管理／低卡飲控",
+      "id": "blood-glucose-postprandial-management",
+      "name": "血糖與餐後管理",
       "category": "健康益處",
-      "summary": "無糖茶、高纖茶、EGCG 關注度提升，媒體報導綠茶減重效果 modest 但需求持續。",
-      "momentum_score": 85,
+      "summary": "TFDA更新健康食品調節血糖保健功效評估方法，顯著提高此議題在台灣產品法規與證據規劃的重要性。",
+      "momentum_score": 80,
       "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "rising",
-      "related_ingredients": [
-        "EGCG",
-        "膳食纖維",
-        "奇亞籽"
-      ],
-      "product_formats": [
-        "即飲茶",
-        "茶包",
-        "粉包"
-      ],
-      "geography": [
-        "Taiwan",
-        "Global"
-      ],
-      "published_or_found_date": "2026-08-24",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://tw.news.yahoo.com/%E5%90%83%E9%A3%BD%E5%96%9D%E6%9D%AF%E8%8C%B6%E6%9C%83%E8%AE%8A%E7%98%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%A7%A3%E7%AD%94-043716929.html",
-        "https://news.tvbs.com.tw/life/4011823"
-      ]
-    },
-    {
-      "id": "stress-management",
-      "name": "壓力管理／睡眠",
-      "category": "健康益處",
-      "summary": "適應原飲品市場成長，南非醉茄、紅景天、L-茶胺酸需求增加，壓力管理佔 33.84%。",
-      "momentum_score": 78,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "rising",
-      "related_ingredients": [
-        "南非醉茄",
-        "紅景天",
-        "L-茶胺酸"
-      ],
-      "product_formats": [
-        "即飲",
-        "茶包",
-        "膠囊"
-      ],
-      "geography": [
-        "Global",
-        "United States"
-      ],
-      "published_or_found_date": "2026-08-19",
-      "evidence_level": "high",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ]
-    },
-    {
-      "id": "blood-sugar-management",
-      "name": "血糖及餐後管理",
-      "category": "健康益處",
-      "summary": "TFDA 修正血糖評估方法，雍大生技慢醣飲亮相健康展，「慢醣」「低 GI」成為新熱詞。",
-      "momentum_score": 75,
-      "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
       "trend_status": "rising",
       "related_ingredients": [
         "膳食纖維",
-        "桑葉",
-        "小檗鹼"
+        "菊糖／益生元",
+        "難消化性麥芽糊精／Fibersol-2"
       ],
       "product_formats": [
-        "即飲",
-        "粉包",
-        "茶包"
+        "高纖飲",
+        "粉包沖泡飲",
+        "代餐飲"
       ],
       "geography": [
-        "Taiwan",
-        "Global"
+        "Taiwan"
       ],
       "published_or_found_date": "2026-08-20",
       "evidence_level": "high",
       "verification_status": "confirmed",
       "source_urls": [
-        "https://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31699",
-        "https://money.udn.com/money/story/5724/9701839"
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699"
       ]
     },
     {
-      "id": "beauty-from-within",
-      "name": "美麗由內而外",
+      "id": "weight-management-satiety",
+      "name": "低卡飲控／飽足",
       "category": "健康益處",
-      "summary": "iHerb 膠原蛋白、玻尿酸熱銷，FIBHER 添加玻尿酸、蔬果酵素，主打美體訴求。",
-      "momentum_score": 72,
+      "summary": "體態管理需求持續存在，但FDA多項摻偽減重產品警示使安全與合規成為產品設計首要門檻。",
+      "momentum_score": 76,
       "previous_momentum_score": null,
+      "monthly_change": null,
       "weekly_change": null,
       "trend_status": "rising",
       "related_ingredients": [
-        "膠原蛋白",
-        "玻尿酸",
-        "莓果多酚"
+        "膳食纖維",
+        "洋車前子",
+        "EGCG／綠茶兒茶素"
       ],
       "product_formats": [
-        "粉包",
-        "即飲",
-        "軟糖"
+        "高纖飲",
+        "代餐飲",
+        "機能茶"
       ],
       "geography": [
         "Taiwan",
+        "United States",
         "Global"
       ],
-      "published_or_found_date": "2026-08-19",
+      "published_or_found_date": "2026-08-18",
       "evidence_level": "high",
       "verification_status": "confirmed",
       "source_urls": [
-        "https://money.udn.com/money/story/5637/9701420",
-        "https://www.fibher.shop/products/tsujiri-x-fibher-black-sesame-houjicha-fiber"
-      ]
-    },
-    {
-      "id": "immune-support",
-      "name": "免疫支持",
-      "category": "健康益處",
-      "summary": "接骨木莓、蔓越莓、益生菌作為免疫支持成分，iHerb 產品提及相關訴求。",
-      "momentum_score": 68,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "stable",
-      "related_ingredients": [
-        "接骨木莓",
-        "蔓越莓",
-        "益生菌"
-      ],
-      "product_formats": [
-        "膠囊",
-        "糖漿",
-        "粉包"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "published_or_found_date": "2026-08-18",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://www.sina.cn/media/3181420415"
-      ]
-    },
-    {
-      "id": "energy-anti-fatigue",
-      "name": "能量／抗疲勞",
-      "category": "健康益處",
-      "summary": "瑪卡、紅景天、適應原需求增加，能量與 stamina 預計 CAGR 8.51% 至 2031 年。",
-      "momentum_score": 65,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "stable",
-      "related_ingredients": [
-        "瑪卡",
-        "紅景天",
-        "B 群"
-      ],
-      "product_formats": [
-        "膠囊",
-        "粉包",
-        "機能咖啡"
-      ],
-      "geography": [
-        "Global",
-        "United States"
-      ],
-      "published_or_found_date": "2026-08-19",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market",
-        "https://vocus.cc/article/6a851da3fd897800014d29c0"
-      ]
-    },
-    {
-      "id": "antioxidant-anti-aging",
-      "name": "抗氧化／抗老化",
-      "category": "健康益處",
-      "summary": "綠茶、莓果、EGCG 研究持續，抗氧化訴求與美麗由內而外結合。",
-      "momentum_score": 62,
-      "previous_momentum_score": null,
-      "weekly_change": null,
-      "trend_status": "stable",
-      "related_ingredients": [
-        "EGCG",
-        "莓果多酚",
-        "膠原蛋白"
-      ],
-      "product_formats": [
-        "即飲茶",
-        "粉包",
-        "膠囊"
-      ],
-      "geography": [
-        "Global",
-        "Taiwan"
-      ],
-      "published_or_found_date": "2026-08-22",
-      "evidence_level": "medium",
-      "verification_status": "confirmed",
-      "source_urls": [
-        "https://www.familydoctor.cn/news/meitian-he-lvcha-shenti-youshenme-yingxiang-381151.html",
-        "https://www.ebiotrade.com/newsf/2026-8/20260823000954204.htm"
+        "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander",
+        "https://www.fda.gov/drugs/medication-health-fraud-notifications/esbelta-chupapanza-flat-belly-may-be-harmful-due-hidden-ingredient"
       ]
     }
   ],
   "alerts": [
     {
-      "id": "fda-gras-mandatory",
-      "title": "美國 FDA 擬議 GRAS 強制通報規則",
-      "description": "FDA 於 8/11 提出擬議規則，將自願性 GRAS 通報改為強制性，要求廠商在使用新食品成分前必須提交安全性評估。",
+      "id": "fda-yellow-oleander-weight-loss-2026-08",
+      "title": "FDA警示含毒性黃夾竹桃的減重產品",
       "severity": "high",
-      "affected_ingredients": [
-        "所有新食品成分"
+      "summary": "FDA表示多款產品經檢測含黃夾竹桃，部分另含diclofenac或phenolphthalein，可能造成嚴重或致命健康風險。",
+      "published_or_found_date": "2026-08-12",
+      "geography": [
+        "United States",
+        "Global"
       ],
-      "recommended_action": "盤點現有產品成分，與法規顧問確認 GRAS 合規路徑，預留 18 個月緩衝期。",
       "source_urls": [
-        "https://www.lw.com/en/insights/fda-proposes-to-mandate-gras-notices-for-food-substances",
-        "https://foodpackagingforum.org/news/us-government-proposes-mandatory-gras-notification-advances-definition-of-ultra-processed-foods",
-        "https://tw.reach24h.com/food/industry-news/gras-hhs-rule"
-      ],
-      "published_date": "2026-08-11"
+        "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander"
+      ]
     },
     {
-      "id": "efsa-egcg-liver",
-      "title": "EFSA 警示 EGCG ≥800 mg/日可能傷肝",
-      "description": "歐洲食品安全局警示，補充劑中攝取 800 毫克或以上的濃縮型 EGCG 可能與初期肝細胞受損有關。",
-      "severity": "medium",
-      "affected_ingredients": [
-        "EGCG"
+      "id": "fda-esbelta-phenolphthalein-2026-08",
+      "title": "FDA警示Esbelta Chupapanza Flat Belly含未標示phenolphthalein",
+      "severity": "high",
+      "summary": "FDA實驗室分析確認產品含標示未揭露的phenolphthalein。",
+      "published_or_found_date": "2026-08-18",
+      "geography": [
+        "United States",
+        "Global"
       ],
-      "recommended_action": "產品宣稱避免絕對性用語，標示建議攝取量（<800 mg/日）。",
       "source_urls": [
-        "https://news.tvbs.com.tw/life/4011823"
-      ],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "tfda-inulin-labeling",
-      "title": "TFDA 菊糖使用限制與標示新規",
-      "description": "TFDA 針對使用 Bacillus 屬酵素生產的菊糖引入新使用限制與標示要求。",
-      "severity": "medium",
-      "affected_ingredients": [
-        "菊糖"
-      ],
-      "recommended_action": "確認原料來源與標示合規性。",
-      "source_urls": [
-        "https://www.linkedin.com/posts/globalfoodmate_japan-revises-examples-for-managing-the-nature-activity-7495726234656583680-WGiK"
-      ],
-      "published_date": "2026-08-17"
+        "https://www.fda.gov/drugs/medication-health-fraud-notifications/esbelta-chupapanza-flat-belly-may-be-harmful-due-hidden-ingredient"
+      ]
     }
   ],
   "emerging_signals": [
     {
-      "id": "probiotics-hot-sale",
-      "title": "iHerb 益生菌、膠原蛋白熱銷",
-      "description": "iHerb 30 週年揭密 6 款人氣王，LactoBif 30 益生菌、CollagenUP 膠原蛋白長期熱銷。",
-      "evidence_level": "high",
+      "id": "functional-tea-focus",
+      "name": "機能即飲茶的專注定位",
+      "status": "confirmed",
+      "momentum_score": 74,
+      "summary": "市場報告提及Pure Leaf Mental Focus氣泡冰茶，採用咖啡因與L-茶胺酸。",
       "source_urls": [
-        "https://news.nextapple.com/press/20260819/2253471E6C20112C3FDF0AEA76C1A87F",
-        "https://money.udn.com/money/story/5637/9701420",
-        "https://howlife.cna.com.tw/life/20260820s006.aspx"
-      ],
-      "published_date": "2026-08-19"
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market"
+      ]
     },
     {
-      "id": "adaptogenic-beverages-growth",
-      "title": "適應原飲品市場 2026 年達 16.1 億美元",
-      "description": "Mordor Intelligence 報告指出適應原飲品市場持續成長，壓力管理為最大訴求。",
-      "evidence_level": "high",
+      "id": "gut-health-herbal-tea",
+      "name": "腸道與放鬆情境化草本茶",
+      "status": "confirmed",
+      "momentum_score": 72,
+      "summary": "Pukka推出Gut Health與Unwind並規劃進入Waitrose、Sainsbury's與Holland & Barrett。",
       "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ],
-      "published_date": "2026-08-19"
+        "https://www.linkedin.com/posts/chris-m-212922178_pukka-expands-wellness-offering-with-new-activity-7495143935699484673-laYK"
+      ]
     },
     {
-      "id": "cnp-oil-tea",
-      "title": "中油跨足養生茶飲市場",
-      "description": "中油宣佈年底前 100 處加油站販售養生茶飲，推出 5 款產品。",
-      "evidence_level": "high",
+      "id": "portable-functional-jelly",
+      "name": "便攜機能果凍條",
+      "status": "confirmed",
+      "momentum_score": 70,
+      "summary": "BRAND'S在新加坡推出人參蜂蜜機能果凍條並進入多個零售與電商通路。",
       "source_urls": [
-        "https://news.nextapple.com/finance/20260821/2C51FDDB116F5F7B945D1BDDAD81E894"
-      ],
-      "published_date": "2026-08-21"
-    },
-    {
-      "id": "fibher-tsujiri-fiber-tea",
-      "title": "FIBHER 聯手辻利推出黑芝麻焙茶纖維飲",
-      "description": "FIBHER 與日本辻利合作推出高纖維、低卡、美體訴求的焙茶纖維飲。",
-      "evidence_level": "high",
-      "source_urls": [
-        "https://www.fibher.shop/products/tsujiri-x-fibher-black-sesame-houjicha-fiber"
-      ],
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "yongda-slow-sugar-drink",
-      "title": "雍大生技慢醣飲亮相健康展",
-      "description": "雍大生技展出慢醣飲，主打餐後血糖管理、均衡飲食。",
-      "evidence_level": "medium",
-      "source_urls": [
-        "https://money.udn.com/money/story/5724/9701839"
-      ],
-      "published_date": "2026-08-20"
+        "https://asiafoodbeverages.com/brands-reinvents-ginseng-for-modern-lifestyles-with-new-pocket-sized-ginseng-essence-honey-jelly-strip/"
+      ]
     }
   ],
   "pending_signals": [
     {
-      "id": "ashwagandha-taiwan-regulation",
-      "title": "南非醉茄在台灣法規尚未明確",
-      "description": "南非醉茄作為適應原成分，台灣法規尚未明確，需個案評估。",
-      "evidence_level": "low",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ],
-      "published_date": "2026-08-19"
+      "id": "amino-l40",
+      "name": "Amino-L40",
+      "reason": "本月未取得足夠官方、零售或可信媒體公開資料支持。",
+      "source_urls": []
     },
     {
-      "id": "rhodiola-taiwan-regulation",
-      "title": "紅景天在台灣法規尚未明確",
-      "description": "紅景天作為適應原成分，台灣法規尚未明確，需個案評估。",
-      "evidence_level": "low",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ],
-      "published_date": "2026-08-19"
+      "id": "shiso",
+      "name": "小紫蘇",
+      "reason": "本月未取得至少三個獨立公開來源支持其在健康、飲控或茶飲市場的明確成長。",
+      "source_urls": []
     },
     {
-      "id": "berberine-blood-sugar",
-      "title": "小檗鹼血糖管理需求增加但法規待確認",
-      "description": "雍大生技慢醣飲可能使用小檗鹼，台灣法規尚未明確。",
-      "evidence_level": "low",
-      "source_urls": [
-        "https://money.udn.com/money/story/5724/9701839"
-      ],
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "lions-mane-cognitive",
-      "title": "獅鬃菇認知功能訴求新興待驗證",
-      "description": "獅鬃菇作為認知功能、神經支持成分，新興成分需安全性評估。",
-      "evidence_level": "low",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ],
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "postbiotics-gut-health",
-      "title": "後生元腸道健康訴求新興待驗證",
-      "description": "ADM 推出後生元復配方案，支持腸道及免疫健康，新興成分需安全性評估。",
-      "evidence_level": "medium",
-      "source_urls": [
-        "https://www.jiemian.com/article/14951580.html"
-      ],
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "peach-fruit-tea-trend",
-      "title": "蜜桃果茶夏季討論度高",
-      "description": "雀巢推出蜜桃風味茶，社群討論蜜桃系飲品，但多為單一來源。",
-      "evidence_level": "low",
-      "source_urls": [
-        "https://news.nextapple.com/lifestyle/20260819/9A4565EE1BBC1FF6505ADBF8B29E5E63"
-      ],
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "sugar-free-tea-grease-relief",
-      "title": "無糖茶解膩訴求社群熱議",
-      "description": "PTT、Dcard 網友熱議無糖茶解膩，但多為個人體驗。",
-      "evidence_level": "medium",
-      "source_urls": [
-        "https://vocus.cc/article/6a847e42fd897800012dc86e"
-      ],
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "adaptogen-stress-relief-social",
-      "title": "適應原減壓飲品社群分享增加",
-      "description": "TikTok、YouTube 分享南非醉茄、紅景天茶飲，但多為個人體驗。",
-      "evidence_level": "low",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market",
-        "https://vocus.cc/article/6a851da3fd897800014d29c0"
-      ],
-      "published_date": "2026-08-19"
+      "id": "lion-mane-beverage",
+      "name": "獅鬃菇飲品",
+      "reason": "缺少本月台灣新品、零售或主管機關支持資料。",
+      "source_urls": []
     }
   ],
   "regulations": [
     {
-      "id": "fda-gras-mandatory-rule",
-      "agency": "美國 FDA",
-      "event": "擬議 GRAS 強制通報規則",
-      "affected_ingredients": "所有新食品成分、食品接觸物質",
-      "risk_level": "高",
-      "impact": "需提交安全性評估，合規期 18 個月；影響功能性食品、膳食補充劑研發與國際市場佈局。",
-      "recommended_action": "盤點成分清單，與法規顧問確認合規路徑，預留 18 個月緩衝期。",
+      "id": "tfda-glucose-health-food-method-2026-08",
+      "authority": "TFDA",
+      "event": "修正健康食品之調節血糖保健功效評估方法",
+      "risk_level": "high",
+      "summary": "公告修正原健康食品調節血糖功能評估方法名稱及內容，並自即日生效。",
+      "published_or_found_date": "2026-08-20",
       "source_urls": [
-        "https://www.lw.com/en/insights/fda-proposes-to-mandate-gras-notices-for-food-substances",
-        "https://foodpackagingforum.org/news/us-government-proposes-mandatory-gras-notification-advances-definition-of-ultra-processed-foods",
-        "https://tw.reach24h.com/food/industry-news/gras-hhs-rule"
-      ],
-      "published_date": "2026-08-11"
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699"
+      ]
     },
     {
-      "id": "efsa-egcg-warning",
-      "agency": "歐洲 EFSA",
-      "event": "EGCG 補充劑 ≥800 mg/日可能與肝細胞受損相關",
-      "affected_ingredients": "綠茶兒茶素萃取物",
-      "risk_level": "中",
-      "impact": "產品需標示建議攝取量，避免高劑量宣稱，影響 EGCG 產品開發與廣告。",
-      "recommended_action": "調整配方與宣稱，避免觸及警示門檻。",
+      "id": "tfda-inulin-labeling-2026-08",
+      "authority": "TFDA",
+      "event": "訂定特定製程菊糖使用限制及標示規定",
+      "risk_level": "high",
+      "summary": "以果糖基轉移酶製得之食品原料菊糖自公告日起适用使用限制及標示規定。",
+      "published_or_found_date": "2026-08-12",
       "source_urls": [
-        "https://news.tvbs.com.tw/life/4011823"
-      ],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "tfda-blood-sugar-method",
-      "agency": "台灣 TFDA",
-      "event": "修正「健康食品之調節血糖保健功效評估方法」",
-      "affected_ingredients": "血糖管理相關產品",
-      "risk_level": "中",
-      "impact": "影響健康食品認證申請，需符合新評估方法。",
-      "recommended_action": "參考新方法規劃產品開發與認證路徑。",
-      "source_urls": [
-        "https://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31699"
-      ],
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "tfda-inulin-restriction",
-      "agency": "台灣 TFDA",
-      "event": "菊糖使用限制與標示新規",
-      "affected_ingredients": "菊糖（使用 Bacillus 屬酵素生產）",
-      "risk_level": "中",
-      "impact": "需符合新使用限制與標示要求。",
-      "recommended_action": "確認原料來源與標示合規性。",
-      "source_urls": [
-        "https://www.linkedin.com/posts/globalfoodmate_japan-revises-examples-for-managing-the-nature-activity-7495726234656583680-WGiK"
-      ],
-      "published_date": "2026-08-17"
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31690",
+        "https://www.fda.gov.tw/eng/law.aspx?cid=16&cr=53851706"
+      ]
     }
   ],
   "new_products": [
     {
-      "id": "cnp-wellness-tea",
-      "brand": "中油",
-      "product": "養生茶飲（明亮百草甘、氣色菊花茶、美顏洛神蜜、解膩烏梅飲、代謝黑豆冰）",
-      "market": "Taiwan",
-      "format": "即飲（冷／熱）",
-      "function": "明亮、氣色、美顏、解膩、代謝",
-      "key_ingredients": "百草、菊花、洛神、烏梅、黑豆",
-      "price_spec": "55 元／杯",
-      "channel": "加油站",
-      "competitive_insight": "國營事業切入，通路優勢強，價格親民，可能改變既有茶飲競爭格局。",
-      "source_urls": [
-        "https://news.nextapple.com/finance/20260821/2C51FDDB116F5F7B945D1BDDAD81E894"
+      "id": "pukka-gut-health-unwind",
+      "brand": "Pukka Herbs",
+      "product": "Gut Health與Unwind草本茶",
+      "market": "European Union",
+      "format": "草本茶包",
+      "claims": [
+        "腸道健康",
+        "放鬆"
       ],
-      "published_date": "2026-08-21"
-    },
-    {
-      "id": "fibher-tsujiri-fiber-tea",
-      "brand": "FIBHER × 辻利",
-      "product": "黑芝麻焙茶纖維飲",
-      "market": "Taiwan",
-      "format": "粉包沖泡",
-      "function": "腸道蠕動、低卡、美體",
-      "key_ingredients": "Fibersol-2、玻尿酸、蔬果酵素",
-      "price_spec": "未公開",
-      "channel": "官方電商",
-      "competitive_insight": "日系聯名、高纖、美體複方，差異化明顯。",
-      "source_urls": [
-        "https://www.fibher.shop/products/tsujiri-x-fibher-black-sesame-houjicha-fiber"
+      "price_or_size": "建議零售價£4.99",
+      "channels": [
+        "Waitrose",
+        "Sainsbury's",
+        "Holland & Barrett"
       ],
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "nestea-peach-tea",
-      "brand": "雀巢",
-      "product": "蜜桃風味茶",
-      "market": "Taiwan",
-      "format": "粉包沖泡",
-      "function": "清爽果茶、低負擔",
-      "key_ingredients": "蜜桃香精、茶粉",
-      "price_spec": "未公開",
-      "channel": "超商、電商",
-      "competitive_insight": "果茶風味搶攻夏季市場，便利即溶。",
+      "published_or_found_date": "2026-08-17",
       "source_urls": [
-        "https://news.nextapple.com/lifestyle/20260819/9A4565EE1BBC1FF6505ADBF8B29E5E63"
-      ],
-      "published_date": "2026-08-19"
+        "https://www.linkedin.com/posts/chris-m-212922178_pukka-expands-wellness-offering-with-new-activity-7495143935699484673-laYK"
+      ]
     },
     {
-      "id": "yongda-slow-sugar-drink",
-      "brand": "雍大生技",
-      "product": "慢醣飲",
-      "market": "Taiwan",
-      "format": "即飲",
-      "function": "餐後血糖管理、均衡飲食",
-      "key_ingredients": "未公開",
-      "price_spec": "未公開",
-      "channel": "健康展",
-      "competitive_insight": "主打「慢醣」新訴求，瞄準血糖管理族群。",
+      "id": "brands-ginseng-honey-jelly-strip",
+      "brand": "BRAND'S",
+      "product": "Ginseng Essence Honey Jelly Strip",
+      "market": "Global",
+      "format": "機能果凍條",
+      "claims": [
+        "日常能量",
+        "便利補給"
+      ],
+      "price_or_size": "1條S$2.80；5條S$13.50；12條S$28.80",
+      "channels": [
+        "Cold Storage",
+        "FairPrice",
+        "Giant",
+        "Guardian",
+        "Shopee"
+      ],
+      "published_or_found_date": "2026-08-05",
       "source_urls": [
-        "https://money.udn.com/money/story/5724/9701839"
+        "https://asiafoodbeverages.com/brands-reinvents-ginseng-for-modern-lifestyles-with-new-pocket-sized-ginseng-essence-honey-jelly-strip/"
+      ]
+    },
+    {
+      "id": "suntory-pepsico-tea-plus-fruit-tea",
+      "brand": "Suntory PepsiCo Beverage",
+      "product": "Tea+ Fruit Tea荔枝與富士蘋果風味",
+      "market": "Global",
+      "format": "果茶即飲飲料",
+      "claims": [
+        "清爽果茶"
       ],
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "misato-no-update",
-      "brand": "米森",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "zlo-no-update",
-      "brand": "老協珍 ZLO",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "bhks-no-update",
-      "brand": "BHK's",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "dahan-no-update",
-      "brand": "大研生醫",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "quaker-no-update",
-      "brand": "桂格",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "uni-president-no-update",
-      "brand": "統一",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "wei-chuan-no-update",
-      "brand": "味全",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "black-swallow-no-update",
-      "brand": "黑松",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": "suntory-no-update",
-      "brand": "Suntory",
-      "product": "本週未查得重大公開更新",
-      "market": "Taiwan",
-      "format": null,
-      "function": null,
-      "key_ingredients": null,
-      "price_spec": null,
-      "channel": null,
-      "competitive_insight": "暫無新品訊號。",
-      "source_urls": [],
-      "published_date": "2026-08-24"
+      "price_or_size": null,
+      "channels": [
+        "泰國零售通路"
+      ],
+      "published_or_found_date": "2026-08-09",
+      "source_urls": [
+        "https://www.minimeinsights.com/2026/08/09/brand-characters-drive-emotional-resonance-in-suntory-tea-fruit-tea-launch/"
+      ]
     }
   ],
   "social_trends": [
     {
-      "id": "sugar-free-tea-grease-relief",
-      "platform": "PTT、Dcard",
-      "topic": "無糖茶解膩評比",
-      "summary": "網友熱議每朝健康、愛之味分解茶為「大餐救星」，強調解膩、順暢訴求。",
-      "source_count": 2,
-      "verification_status": "confirmed",
-      "momentum": 75,
-      "product_development_insight": "強化「解膩」「順暢」訴求，開發高纖、低卡茶飲。",
+      "id": "functional-tea-public-signal",
+      "platform_or_media": "公開零售與專業媒體",
+      "topic": "功能即飲茶加L-茶胺酸",
+      "verification_status": "待驗證",
+      "momentum_score": 74,
+      "summary": "Pure Leaf Mental Focus提供機能茶的專注定位案例，但尚未取得台灣多來源消費端驗證。",
       "source_urls": [
-        "https://vocus.cc/article/6a847e42fd897800012dc86e"
-      ],
-      "published_date": "2026-08-18"
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market"
+      ]
     },
     {
-      "id": "peach-fruit-tea",
-      "platform": "Instagram、小紅書",
-      "topic": "蜜桃果茶",
-      "summary": "夏季蜜桃系飲品討論度高，手搖飲、瓶裝茶皆熱門，雀巢推出蜜桃風味茶。",
-      "source_count": 2,
-      "verification_status": "pending",
-      "momentum": 65,
-      "product_development_insight": "開發蜜桃、葡萄等果味機能茶，吸引年輕女性。",
+      "id": "tokucha-public-retail-signal",
+      "platform_or_media": "公開零售",
+      "topic": "日本特保茶促銷與日常化飲用",
+      "verification_status": "持續上升",
+      "momentum_score": 76,
+      "summary": "Yahoo! Shopping與Amazon Japan可見特茶相關商品與促銷訊號。",
       "source_urls": [
-        "https://news.nextapple.com/lifestyle/20260819/9A4565EE1BBC1FF6505ADBF8B29E5E63"
-      ],
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "adaptogen-stress-relief",
-      "platform": "TikTok、YouTube",
-      "topic": "適應原減壓飲品",
-      "summary": "南非醉茄、紅景天茶飲分享增加，但多為個人體驗，缺乏科學背書。",
-      "source_count": 2,
-      "verification_status": "pending",
-      "momentum": 60,
-      "product_development_insight": "需更多科學背書，開發低咖啡因、無糖減壓茶。",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market",
-        "https://vocus.cc/article/6a851da3fd897800014d29c0"
-      ],
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "probiotics-hot-sale",
-      "platform": "Facebook、Threads",
-      "topic": "益生菌熱銷",
-      "summary": "iHerb 30 週年益生菌、膠原蛋白討論度高，女性健康意識提升。",
-      "source_count": 3,
-      "verification_status": "confirmed",
-      "momentum": 80,
-      "product_development_insight": "開發女性專屬、兒童益生菌，強化跨境電商佈局。",
-      "source_urls": [
-        "https://news.nextapple.com/press/20260819/2253471E6C20112C3FDF0AEA76C1A87F",
-        "https://money.udn.com/money/story/5637/9701420",
-        "https://howlife.cna.com.tw/life/20260820s006.aspx"
-      ],
-      "published_date": "2026-08-19"
+        "https://shopping.yahoo.co.jp/searchranking/%E7%89%B9%E8%8C%B6+%E3%81%BB%E3%81%86%E3%81%98%E8%8C%B6/5057/?rbrandid=5300&rmore=1",
+        "https://prices.blog.jp/archives/30427564.html"
+      ]
     }
   ],
   "research_reports": [
     {
-      "id": "mordor-adaptogenic-beverages",
-      "institution": "Mordor Intelligence",
-      "report": "Adaptogenic Beverages Market",
-      "published_date": "2026-08-19",
-      "key_findings": "2026 年市場 16.1 億美元，2031 年達 23.3 億美元（CAGR 7.67%）；壓力管理佔 33.84%，能量與 stamina 預計 CAGR 8.51%。",
-      "taiwan_insight": "台灣可開發減壓茶、睡眠茶，結合南非醉茄、L-茶胺酸，並驗證法規可行性。",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market"
-      ]
-    },
-    {
-      "id": "mordor-spirulina-blue",
-      "institution": "Mordor Intelligence",
-      "report": "Spirulina Blue (Phycocyanin) Market",
-      "published_date": "2026-08-18",
-      "key_findings": "2026 年市場 2.17 億美元，2031 年達 3.06 億美元（CAGR 7.09%）；食品飲料佔 73.18%。",
-      "taiwan_insight": "藻藍蛋白可用於機能飲品、美體茶，具天然色素與抗氧化訴求。",
-      "source_urls": [
-        "https://www.mordorintelligence.com/industry-reports/spirulina-blue-market"
-      ]
-    },
-    {
-      "id": "grand-view-patient-engagement",
+      "id": "gvr-us-functional-drinks-2026",
       "institution": "Grand View Research",
-      "report": "Patient Engagement Market",
-      "published_date": "2026-08-23",
-      "key_findings": "2026 年市場 106 億美元，2030 年達 231 億美元（CAGR 21%）；數位健康、個人化營養建議成長。",
-      "taiwan_insight": "數位健康、個人化營養建議可與茶飲、補充品結合，開發訂閱制、AI 推薦服務。",
+      "report": "US Functional Drinks Market Size & Outlook, 2026-2033",
+      "published_date": "2026-02-01",
+      "summary": "美國功能飲品市場預期2026至2033年CAGR為8%，2033年預測收入為970.892億美元。",
+      "limitations": "為市場研究機構估算與預測，非台灣市場實際銷售統計。",
       "source_urls": [
-        "https://www.healthcare.digital/single-post/the-frontier-of-patient-communication-market-dynamics-technical-architectures-and-agentic-healthca"
+        "https://www.grandviewresearch.com/horizon/outlook/functional-drinks-market/united-states"
       ]
     },
     {
-      "id": "mordor-peptide-synthesis",
+      "id": "mordor-functional-beverage-2026",
       "institution": "Mordor Intelligence",
-      "report": "Peptide Synthesis Market",
-      "published_date": "2026-08-18",
-      "key_findings": "2026 年市場 19 億美元，2031 年達 25.9 億美元（CAGR 6.39%）；膠原蛋白胜肽、機能性胜肽需求增加。",
-      "taiwan_insight": "膠原蛋白胜肽、機能性胜肽可用於美體、抗老化飲品，開發高附加價值產品。",
+      "report": "North America Functional Beverage Market",
+      "published_date": "2026-08-25",
+      "summary": "北美功能飲品市場2026年估615.6億美元，發酵飲料為預測最快成長類型。",
+      "limitations": "使用專有估算模型，且涵蓋北美而非台灣。",
       "source_urls": [
-        "https://www.moomoo.com/hant/news/post/74873868/peptide-synthesis-market-usd-2-59-billion-by-2031-driven"
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market"
+      ]
+    },
+    {
+      "id": "mordor-green-tea-2026",
+      "institution": "Mordor Intelligence",
+      "report": "Green Tea Market Size, Share & 2031 Growth Trends Report",
+      "published_date": "2026-03-28",
+      "summary": "全球綠茶市場2026年估223.4億美元，預估2031年達331.9億美元。",
+      "limitations": "為全球市場預測，不能推論台灣單一品牌或品類銷售。",
+      "source_urls": [
+        "https://www.mordorintelligence.com/industry-reports/green-tea-market"
+      ]
+    },
+    {
+      "id": "mordor-fruit-tea-2026",
+      "institution": "Mordor Intelligence",
+      "report": "Fruit Tea Market Size, Share & 2031 Growth Trends Report",
+      "published_date": "2026-05-27",
+      "summary": "果茶市場2026年估17.4億美元，預估2026至2031年CAGR為5.65%。",
+      "limitations": "市場定義與通路涵蓋依研究機構模型而異。",
+      "source_urls": [
+        "https://www.mordorintelligence.com/industry-reports/fruit-tea-market"
       ]
     }
   ],
   "opportunities": [
     {
-      "id": "post-meal-blood-sugar-tea",
-      "opportunity": "餐後血糖管理茶",
-      "consumer_demand": "外食族、高醣飲食者希望控制餐後血糖",
-      "current_competition": "多為膠囊、粉包，即飲茶較少",
-      "why_now": "TFDA 修正血糖評估方法，消費者意識提升",
-      "suggested_product": "開發含桑葉、膳食纖維、小檗鹼的即飲茶或茶包",
-      "risks_validation": "需確認成分法規、臨床驗證",
-      "evidence_urls": [
-        "https://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31699",
-        "https://money.udn.com/money/story/5724/9701839"
+      "id": "sugar-free-high-fiber-tea",
+      "name": "無糖高纖茶飲",
+      "consumer_need": "低卡飲控、飽足與餐後管理",
+      "recommended_direction": "無糖烏龍或綠茶搭配合法纖維，以日常飲用而非快速減重定位。",
+      "risk_or_validation": "確認纖維來源、使用量、標示、口感、腸胃耐受與宣稱邊界。",
+      "source_urls": [
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699",
+        "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31690"
       ]
     },
     {
-      "id": "stress-relief-sleep-tea",
-      "opportunity": "減壓睡眠茶（無咖啡因）",
-      "consumer_demand": "上班族、學生壓力大，但擔心咖啡因影響睡眠",
-      "current_competition": "多為膠囊、粉包，茶類產品少",
-      "why_now": "適應原飲品市場成長，L-茶胺酸需求增加",
-      "suggested_product": "開發無咖啡因、含南非醉茄、紅景天、L-茶胺酸的茶包",
-      "risks_validation": "需確認適應原法規、安全性",
-      "evidence_urls": [
-        "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market",
-        "https://vocus.cc/article/6a851da3fd897800014d29c0"
+      "id": "gut-health-tea",
+      "name": "腸道日常茶",
+      "consumer_need": "消化順暢與低負擔日常保養",
+      "recommended_direction": "草本茶或沖泡飲搭配益生元纖維，採情境型溝通。",
+      "risk_or_validation": "不可進行疾病治療宣稱；須測試風味、耐受及市場價格帶。",
+      "source_urls": [
+        "https://www.linkedin.com/posts/chris-m-212922178_pukka-expands-wellness-offering-with-new-activity-7495143935699484673-laYK",
+        "https://www.grandviewresearch.com/industry-analysis/kombucha-market"
       ]
     },
     {
-      "id": "female-probiotic-tea",
-      "opportunity": "女性專屬益生菌茶",
-      "consumer_demand": "女性關注私密健康、腸道健康，但現有產品多為膠囊",
-      "current_competition": "益生菌多為膠囊、粉包，茶類極少",
-      "why_now": "iHerb 益生菌熱銷，女性健康意識提升",
-      "suggested_product": "開發含益生菌、蔓越莓、膠原蛋白的即飲茶或茶包",
-      "risks_validation": "需確認益生菌存活率、法規",
-      "evidence_urls": [
-        "https://www.sina.cn/media/3181420415",
-        "https://news.nextapple.com/press/20260819/2253471E6C20112C3FDF0AEA76C1A87F"
-      ]
-    },
-    {
-      "id": "high-fiber-beauty-tea",
-      "opportunity": "高纖美體茶（玻尿酸＋膠原）",
-      "consumer_demand": "年輕女性希望「喝的美麗」，同時控制體重",
-      "current_competition": "FIBHER 有黑芝麻焙茶纖維飲，但選擇仍少",
-      "why_now": "膠原蛋白、玻尿酸熱銷，高纖訴求普及",
-      "suggested_product": "開發含 Fibersol-2、膠原蛋白、玻尿酸的果味茶",
-      "risks_validation": "需確認成分相容性、口感",
-      "evidence_urls": [
-        "https://www.fibher.shop/products/tsujiri-x-fibher-black-sesame-houjicha-fiber",
-        "https://money.udn.com/money/story/5637/9701420"
-      ]
-    },
-    {
-      "id": "state-owned-wellness-tea",
-      "opportunity": "國營通路機能茶",
-      "consumer_demand": "消費者信任國營事業，但現有產品功能訴求較弱",
-      "current_competition": "中油養生茶 5 款，但機能成分不明",
-      "why_now": "國營事業通路優勢強，消費者信任度高",
-      "suggested_product": "與中油、台電合作開發高纖、低卡、益生菌茶",
-      "risks_validation": "需確認合作模式、成本結構",
-      "evidence_urls": [
-        "https://news.nextapple.com/finance/20260821/2C51FDDB116F5F7B945D1BDDAD81E894"
+      "id": "afternoon-focus-tea",
+      "name": "下午專注低糖茶",
+      "consumer_need": "工作時專注與避免高糖能量飲",
+      "recommended_direction": "低糖或無糖茶搭配受控咖啡因與L-茶胺酸。",
+      "risk_or_validation": "確認咖啡因、成分使用與食品宣稱合規，並進行概念與盲飲測試。",
+      "source_urls": [
+        "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market"
       ]
     }
   ],
   "watchlist": [
-    "米森",
-    "老協珍 ZLO",
-    "BHK's",
-    "FIBHER",
-    "大研生醫",
-    "桂格",
-    "統一",
-    "味全",
-    "黑松",
-    "Suntory",
-    "益生菌",
-    "EGCG",
-    "Fibersol-2",
-    "南非醉茄",
-    "紅景天",
-    "小檗鹼",
-    "獅鬃菇",
-    "L-茶胺酸",
-    "膠原蛋白",
-    "玻尿酸",
-    "即飲茶",
-    "茶包",
-    "粉包",
-    "高纖飲",
-    "益生菌飲",
-    "機能咖啡",
-    "睡眠茶",
-    "血糖管理茶",
-    "美國 GRAS 強制通報",
-    "TFDA 血糖評估方法",
-    "EFSA EGCG 警示",
-    "菊糖標示新規",
-    "無糖茶 解膩",
-    "蜜桃 果茶",
-    "適應原 減壓",
-    "益生菌 女性",
-    "慢醣 血糖",
-    "#無糖茶",
-    "#益生菌",
-    "#適應原",
-    "#血糖管理",
-    "#美體茶",
-    "#減壓茶",
-    "#高纖飲",
-    "#EGCG",
-    "iHerb",
-    "Amazon",
-    "Costco",
-    "Watsons",
-    "Cosmed",
-    "momo",
-    "PChome",
-    "全聯",
-    "家樂福",
-    "加油站販售茶飲",
-    "健康展新品",
-    "跨境電商促銷",
-    "日系品牌聯名"
+    {
+      "type": "brand",
+      "name": "米森",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "老協珍 ZLO",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "BHK’s",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "FIBHER",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "大研生醫",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "桂格",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "統一",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "味全",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "黑松",
+      "status": "本月未查得重大公開更新。",
+      "source_urls": []
+    },
+    {
+      "type": "brand",
+      "name": "Suntory",
+      "status": "可見特茶零售與促銷訊號，持續追蹤特保茶與功能水。",
+      "source_urls": [
+        "https://shopping.yahoo.co.jp/searchranking/%E7%89%B9%E8%8C%B6+%E3%81%BB%E3%81%86%E3%81%98%E8%8C%B6/5057/?rbrandid=5300&rmore=1",
+        "https://prices.blog.jp/archives/30427564.html"
+      ]
+    }
   ],
   "sources": [
     {
-      "id": "source-1",
-      "url": "https://www.lw.com/en/insights/fda-proposes-to-mandate-gras-notices-for-food-substances",
-      "title": "FDA Proposes to Mandate GRAS Notices for Food Substances",
-      "published_date": "2026-08-18"
+      "name": "TFDA健康食品調節血糖保健功效評估方法",
+      "url": "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31699",
+      "source_type": "regulatory"
     },
     {
-      "id": "source-2",
-      "url": "https://foodpackagingforum.org/news/us-government-proposes-mandatory-gras-notification-advances-definition-of-ultra-processed-foods",
-      "title": "US government proposes mandatory GRAS notification",
-      "published_date": "2026-08-20"
+      "name": "TFDA菊糖使用限制及標示規定",
+      "url": "https://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31690",
+      "source_type": "regulatory"
     },
     {
-      "id": "source-3",
-      "url": "https://tw.reach24h.com/food/industry-news/gras-hhs-rule",
-      "title": "美國GRAS最新動態：HHS發佈修法方向，GRAS強制通報進入意見徵求",
-      "published_date": "2026-08-18"
+      "name": "FDA黃夾竹桃減重產品警示",
+      "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander",
+      "source_type": "regulatory"
     },
     {
-      "id": "source-4",
-      "url": "https://tw.news.yahoo.com/%E5%90%83%E9%A3%BD%E5%96%9D%E6%9D%AF%E8%8C%B6%E6%9C%83%E8%AE%8A%E7%98%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%A7%A3%E7%AD%94-043716929.html",
-      "title": "吃飽喝杯茶會變瘦？營養師解答",
-      "published_date": "2026-08-24"
+      "name": "FDA Esbelta Chupapanza Flat Belly警示",
+      "url": "https://www.fda.gov/drugs/medication-health-fraud-notifications/esbelta-chupapanza-flat-belly-may-be-harmful-due-hidden-ingredient",
+      "source_type": "regulatory"
     },
     {
-      "id": "source-5",
-      "url": "https://news.tvbs.com.tw/life/4011823",
-      "title": "飯後喝茶「解油膩」消脂？營養師揭真相：灌濃茶恐傷肝、心悸",
-      "published_date": "2026-08-24"
+      "name": "Grand View Research功能飲品市場",
+      "url": "https://www.grandviewresearch.com/horizon/outlook/functional-drinks-market/united-states",
+      "source_type": "market_research"
     },
     {
-      "id": "source-6",
-      "url": "https://mancodecanada.com/ingredients/green-tea/",
-      "title": "Green Tea and EGCG: Research, Dosage and Safety",
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": "source-7",
-      "url": "https://news.nextapple.com/finance/20260821/2C51FDDB116F5F7B945D1BDDAD81E894",
-      "title": "三大國營搶1300億冰經濟！中油賣養生茶",
-      "published_date": "2026-08-21"
-    },
-    {
-      "id": "source-8",
-      "url": "https://news.nextapple.com/press/20260819/2253471E6C20112C3FDF0AEA76C1A87F",
-      "title": "iHerb 30週年慶開跑！6大人氣王曝光",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "source-9",
-      "url": "https://money.udn.com/money/story/5637/9701420",
-      "title": "iHerb 30週年慶揭密6款人氣王",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "source-10",
-      "url": "https://howlife.cna.com.tw/life/20260820s006.aspx",
-      "title": "iHerb 30週年慶揭密6款人氣王",
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "source-11",
-      "url": "https://www.mordorintelligence.com/industry-reports/adaptogenic-beverages-market",
-      "title": "Adaptogenic Beverages Market Size, Share & 2031 Growth Trends",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "source-12",
-      "url": "https://www.fibher.shop/products/tsujiri-x-fibher-black-sesame-houjicha-fiber",
-      "title": "辻利 × FIBHER 黑芝麻焙茶纖維飲",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "source-13",
-      "url": "https://news.nextapple.com/lifestyle/20260819/9A4565EE1BBC1FF6505ADBF8B29E5E63",
-      "title": "雀巢檸檬紅茶今夏回歸 蜜桃風味茶同步上市",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "source-14",
-      "url": "https://money.udn.com/money/story/5724/9701839",
-      "title": "雍大生技慢醣飲2026新世代健康展亮相",
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "source-15",
-      "url": "https://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31699",
-      "title": "公告修正「健康食品之調節血糖功能評估方法」",
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "source-16",
-      "url": "https://vocus.cc/article/6a847e42fd897800012dc86e",
-      "title": "【2026無糖茶推薦】解膩消暑必備！6款Dcard/PTT熱議瓶裝茶評比",
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "source-17",
-      "url": "https://www.sina.cn/media/3181420415",
-      "title": "iHerb官方微博",
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "source-18",
-      "url": "https://www.jiemian.com/article/14951580.html",
-      "title": "ADM携科学营养创新成果亮相2026亚洲宠物展",
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": "source-19",
-      "url": "https://vocus.cc/article/6a851da3fd897800014d29c0",
-      "title": "超猛！【2026馬卡推薦】8大爆款評比",
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": "source-20",
-      "url": "https://www.mordorintelligence.com/industry-reports/spirulina-blue-market",
-      "title": "Spirulina Blue (Phycocyanin) Market Size & Share Analysis",
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "source-21",
-      "url": "https://www.healthcare.digital/single-post/the-frontier-of-patient-communication-market-dynamics-technical-architectures-and-agentic-healthca",
-      "title": "The Frontier of Patient Communication: Market Dynamics",
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": "source-22",
-      "url": "https://www.moomoo.com/hant/news/post/74873868/peptide-synthesis-market-usd-2-59-billion-by-2031-driven",
-      "title": "受治療需求和先進合成技術推動，Mordor Intelligence表示",
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": "source-23",
-      "url": "https://www.familydoctor.cn/news/meitian-he-lvcha-shenti-youshenme-yingxiang-381151.html",
-      "title": "每天喝绿茶对身体有什么影响",
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": "source-24",
-      "url": "https://www.ebiotrade.com/newsf/2026-8/20260823000954204.htm",
-      "title": "表没食子儿茶素没食子酸酯补充对肥胖女性炎症、铁状态及 ...",
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": "source-25",
-      "url": "https://www.linkedin.com/posts/globalfoodmate_japan-revises-examples-for-managing-the-nature-activity-7495726234656583680-WGiK",
-      "title": "Global Foodmate Consulting's Post - LinkedIn",
-      "published_date": "2026-08-19"
+      "name": "Mordor Intelligence北美功能飲品市場",
+      "url": "https://www.mordorintelligence.com/industry-reports/north-america-functional-beverage-market",
+      "source_type": "market_research"
     }
   ]
 }
