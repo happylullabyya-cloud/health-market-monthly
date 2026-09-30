@@ -1,0 +1,877 @@
+{
+  "meta": {
+    "report_type": "monthly",
+    "report_label": "每月市場脈動報告",
+    "report_date": "2026-09-30",
+    "report_period": {
+      "start": "2026-09-01",
+      "end": "2026-09-30"
+    },
+    "previous_report_period": {
+      "start": "2026-08-01",
+      "end": "2026-08-31"
+    },
+    "timezone": "Asia/Taipei",
+    "generated_at": "2026-09-30T17:16:00+08:00",
+    "last_updated_at": "2026-09-30T17:16:00+08:00",
+    "scope": "Monthly market monitoring for health, weight management, tea, functional food and functional beverage markets",
+    "markets": [
+      "Taiwan",
+      "United States",
+      "Japan",
+      "South Korea",
+      "European Union",
+      "Global"
+    ],
+    "methodology_note": "Publicly accessible sources only. Confirmed emerging trends require at least three independent sources, including one official, retail, regulatory, credible media, or research source.",
+    "data_limitations": "本報告僅使用公開可驗證資料；社群訊號反映公開討論熱度，不代表因果關係、全體消費者行為、市場規模或實際總銷量。單一平台銷售、評價、價格或排名僅代表該平台可見訊號。"
+  },
+  "kpis": {
+    "total_signals": 31,
+    "ingredient_signals": 8,
+    "benefit_signals": 8,
+    "product_format_signals": 10,
+    "regulatory_events": 5,
+    "food_safety_events": 3,
+    "new_products": 8,
+    "retail_channel_events": 6,
+    "social_trends": 0,
+    "research_reports": 3,
+    "opportunity_gaps": 6,
+    "confirmed_emerging_signals": 0,
+    "pending_validation_signals": 7,
+    "supply_chain_risks": 3,
+    "priced_competitors": 3,
+    "promotion_or_price_change_events": 4
+  },
+  "summary": {
+    "headline": "本月公開訊號顯示，台灣高纖即飲茶與無糖飲控產品維持市場能見度，國際市場則出現蛋白質、益生元纖維、氣泡飲與抹茶跨品類融合，但多數新興方向仍需更多台灣通路與銷售證據驗證。",
+    "month_over_month_assessment": "首次建立基線，無法進行月度比較。",
+    "key_takeaways": [
+      {
+        "priority": "high",
+        "title": "高纖即飲茶形成試用、主力與囤貨價格階梯",
+        "why_it_matters": "公開電商可見 4 入、24 入及雙箱組合。",
+        "recommended_action": "建立台灣高纖即飲茶價格與促銷追蹤表。",
+        "source_urls": [
+          "https://24h.pchome.com.tw/store/LZPRJL"
+        ]
+      },
+      {
+        "priority": "high",
+        "title": "蛋白質與茶飲融合成為國際待驗證方向",
+        "why_it_matters": "美國出現每罐 20 g 蛋白質的罐裝抹茶拿鐵。",
+        "recommended_action": "進行低糖蛋白抹茶口感與規格測試。",
+        "source_urls": [
+          "https://www.bevindustry.com/articles/topic/5045-news"
+        ]
+      },
+      {
+        "priority": "high",
+        "title": "植物原料鑑別與跨境補充品安全風險升高",
+        "why_it_matters": "FDA 公布植物錯誤鑑別及未標示藥物成分事件。",
+        "recommended_action": "建立高風險原料進口前檢驗制度。",
+        "source_urls": [
+          "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander"
+        ]
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "id": "ingredient-prebiotic-fiber",
+      "name": "益生元纖維",
+      "category": "腸道高纖",
+      "summary": "國際 RTD 茶與氣泡飲新品將益生元纖維與茶、蛋白質及汽水替代情境結合。",
+      "momentum_score": 78,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "腸道健康",
+        "消化"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "機能氣泡飲",
+        "粉包"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需確認纖維來源、添加量、營養標示及可使用宣稱。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-09-25",
+      "source_urls": [
+        "https://www.bevindustry.com/keywords/3409-prebiotics",
+        "https://www.morningstar.com/news/pr-newswire/20260903la38475/protein-pop-launches-protein-pop-balance-a-clear-prebiotic-soda-with-15-grams-of-protein-and-5-grams-of-fiber"
+      ]
+    },
+    {
+      "id": "ingredient-dietary-fiber",
+      "name": "膳食纖維",
+      "category": "腸道高纖",
+      "summary": "台灣即飲纖維茶產品在公開通路具有多規格促銷與箱裝架構。",
+      "momentum_score": 76,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "腸道健康",
+        "順暢",
+        "飲控"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "粉包",
+        "即溶茶"
+      ],
+      "geography": [
+        "Taiwan"
+      ],
+      "regulatory_note": "需確認纖維含量、營養標示及食品宣稱界線。",
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-09-30",
+      "source_urls": [
+        "https://24h.pchome.com.tw/store/LZPRJL",
+        "https://24h.pchome.com.tw/prod/DBAB0D-A900JTH7E"
+      ]
+    },
+    {
+      "id": "ingredient-protein",
+      "name": "蛋白質",
+      "category": "能量專注",
+      "summary": "美國出現蛋白抹茶拿鐵及蛋白質加纖維氣泡飲。",
+      "momentum_score": 73,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "早餐營養",
+        "飽足",
+        "運動後補給"
+      ],
+      "product_formats": [
+        "罐裝抹茶拿鐵",
+        "機能氣泡飲",
+        "代餐飲"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需符合蛋白質營養標示及食品宣稱規範。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-09-22",
+      "source_urls": [
+        "https://www.bevindustry.com/articles/topic/5045-news",
+        "https://www.morningstar.com/news/pr-newswire/20260903la38475/protein-pop-launches-protein-pop-balance-a-clear-prebiotic-soda-with-15-grams-of-protein-and-5-grams-of-fiber"
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "id": "benefit-gut-health",
+      "name": "腸道健康與順暢",
+      "category": "消費者健康需求",
+      "summary": "台灣高纖即飲茶與國際益生元飲品皆提供腸道相關訊號。",
+      "momentum_score": 78,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "膳食纖維",
+        "益生元纖維"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "粉包",
+        "機能氣泡飲"
+      ],
+      "consumer_contexts": [
+        "早餐",
+        "餐後",
+        "日常補水"
+      ],
+      "geography": [
+        "Taiwan",
+        "United States",
+        "Global"
+      ],
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-09-30",
+      "source_urls": [
+        "https://24h.pchome.com.tw/store/LZPRJL",
+        "https://www.bevindustry.com/keywords/3409-prebiotics"
+      ]
+    },
+    {
+      "id": "benefit-low-sugar",
+      "name": "低糖與無糖替代",
+      "category": "消費者健康需求",
+      "summary": "台灣即飲茶與纖維麥茶產品以無糖或低負擔定位切入日常飲用。",
+      "momentum_score": 75,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "茶萃取",
+        "膳食纖維"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "花果茶",
+        "氣泡飲"
+      ],
+      "consumer_contexts": [
+        "下午茶",
+        "手搖飲替代",
+        "日常補水"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-09-30",
+      "source_urls": [
+        "https://24h.pchome.com.tw/prod/DBAB0D-A900JTH7E"
+      ]
+    }
+  ],
+  "product_formats": [
+    {
+      "id": "format-ready-to-drink-tea",
+      "name": "即飲茶",
+      "category": "產品型態／使用情境",
+      "summary": "台灣高纖、無糖及兒茶素即飲茶具有明確電商箱裝與多件促銷訊號。",
+      "momentum_score": 77,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "無糖",
+        "補水",
+        "腸道支持"
+      ],
+      "representative_brands": [
+        "每朝健康",
+        "愛之味"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://24h.pchome.com.tw/category/DBAB02C"
+      ]
+    },
+    {
+      "id": "format-high-fiber-drink",
+      "name": "高纖飲",
+      "category": "產品型態／使用情境",
+      "summary": "高纖飲已形成明確產品子類別。",
+      "momentum_score": 78,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "腸道健康",
+        "順暢",
+        "飲控"
+      ],
+      "representative_brands": [
+        "每朝健康",
+        "愛之味",
+        "FIBER DRINK"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://www.tgrand.com.tw/en/brand/54/"
+      ]
+    },
+    {
+      "id": "format-tea-jelly-drink",
+      "name": "茶凍飲",
+      "category": "產品型態／使用情境",
+      "summary": "台灣手搖新品持續使用茶凍與咀嚼口感作為差異化。",
+      "momentum_score": 61,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "手搖飲替代",
+        "風味體驗"
+      ],
+      "representative_brands": [
+        "萬波"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://www.beauty321.com/post/73236"
+      ]
+    },
+    {
+      "id": "format-low-sugar-drink",
+      "name": "無糖或低糖飲品",
+      "category": "產品型態／使用情境",
+      "summary": "無糖即飲茶與低糖功能飲是台灣大眾市場基礎型態。",
+      "momentum_score": 80,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "飲控",
+        "手搖飲替代",
+        "日常補水"
+      ],
+      "representative_brands": [
+        "每朝健康",
+        "愛之味",
+        "茶裏王"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://24h.pchome.com.tw/category/DBAB02C"
+      ]
+    }
+  ],
+  "regulations": [
+    {
+      "id": "safety-fda-yellow-oleander",
+      "agency": "FDA",
+      "title": "含有毒黃夾竹桃的部分 tejocote 產品安全警示",
+      "category": "食安",
+      "related_ingredients": [
+        "植物原料",
+        "天然纖維"
+      ],
+      "affected_products": [
+        "Easy Forte Natural Fiber"
+      ],
+      "risk_level": "high",
+      "summary": "FDA 發現部分標示為 tejocote 的產品含有有毒黃夾竹桃。",
+      "recommended_action": "對進口植物原料進行物種鑑別、供應商稽核、批次檢驗及留樣。",
+      "published_or_found_date": "2026-09-17",
+      "source_urls": [
+        "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander"
+      ]
+    },
+    {
+      "id": "recall-fda-biq-fel",
+      "agency": "FDA",
+      "title": "biQ-FEL 因含未標示 sildenafil 與 tadalafil 回收",
+      "category": "回收",
+      "related_ingredients": [
+        "未標示藥物成分"
+      ],
+      "affected_products": [
+        "biQ-FEL 500 mL"
+      ],
+      "risk_level": "high",
+      "summary": "FDA 發現液體膳食補充品含未標示 sildenafil 與 tadalafil。",
+      "recommended_action": "高風險跨境補充品進口前進行第三方成分篩檢。",
+      "published_or_found_date": "2026-09-15",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ap-creations-llc-issues-nationwide-recall-biq-fel-due-undeclared-sildenafil-and-tadalafil"
+      ]
+    }
+  ],
+  "new_products": [
+    {
+      "id": "product-matchi-protein-matcha",
+      "title": "Protein Matcha Lattes",
+      "brand": "Matchi",
+      "market": "United States",
+      "retailer_or_channel": "未查得",
+      "product_format": "罐裝蛋白抹茶拿鐵",
+      "ingredients": [
+        "抹茶",
+        "蛋白質"
+      ],
+      "health_benefits": [
+        "早餐營養",
+        "蛋白質補給"
+      ],
+      "price_or_packaging": "每罐 20 g 蛋白質；價格未查得",
+      "summary": "將抹茶與高蛋白 RTD 結合。",
+      "published_or_found_date": "2026-09-22",
+      "source_urls": [
+        "https://www.bevindustry.com/articles/topic/5045-news"
+      ]
+    },
+    {
+      "id": "product-protein-pop-balance",
+      "title": "Protein Pop Balance",
+      "brand": "Protein Pop",
+      "market": "United States",
+      "retailer_or_channel": "品牌官網、Amazon、Target",
+      "product_format": "清爽型機能氣泡飲",
+      "ingredients": [
+        "蛋白質",
+        "益生元",
+        "膳食纖維"
+      ],
+      "health_benefits": [
+        "蛋白質補給",
+        "腸道支持",
+        "汽水替代"
+      ],
+      "price_or_packaging": "15 g 蛋白質、5 g 纖維；價格未查得",
+      "summary": "將蛋白質、纖維與氣泡飲型態整合。",
+      "published_or_found_date": "2026-09-03",
+      "source_urls": [
+        "https://www.morningstar.com/news/pr-newswire/20260903la38475/protein-pop-launches-protein-pop-balance-a-clear-prebiotic-soda-with-15-grams-of-protein-and-5-grams-of-fiber"
+      ]
+    }
+  ],
+  "retail_signals": [
+    {
+      "id": "retail-pchome-meichao-24",
+      "retailer": "PChome",
+      "market": "Taiwan",
+      "category": "高纖即飲茶",
+      "title": "每朝健康雙纖綠茶 650 ml 24 入",
+      "price_range": "655 元促銷；頁面另見 690 元",
+      "summary": "可見箱裝主力規格與折扣訊號。",
+      "data_limitation": "單一平台可見訊號，不代表全市場銷售表現。",
+      "published_or_found_date": "2026-09-30",
+      "source_urls": [
+        "https://24h.pchome.com.tw/store/LZPRJL"
+      ]
+    },
+    {
+      "id": "retail-pchome-aizhiwei",
+      "retailer": "PChome",
+      "market": "Taiwan",
+      "category": "無糖高纖麥茶",
+      "title": "愛之味雙纖麥茶 590 ml 24 入",
+      "price_range": "529 元促銷；頁面另見 840 元",
+      "summary": "每瓶標示 10 g 膳食纖維、無糖及無咖啡因。",
+      "data_limitation": "單一平台可見訊號，不代表全市場銷售表現。",
+      "published_or_found_date": "2026-09-30",
+      "source_urls": [
+        "https://24h.pchome.com.tw/prod/DBAB0D-A900JTH7E"
+      ]
+    }
+  ],
+  "pricing_analysis": {
+    "methodology_note": "價格依公開可見資訊整理，可能不反映實際成交價、通路抽成、運費、稅金、會員折扣、訂閱折扣、回饋金、私下補貼或促銷成本。",
+    "primary_currency": "TWD",
+    "exchange_rate_note": "本月主要使用台灣資料；未進行跨國價格換算。",
+    "last_price_check_date": "2026-09-30",
+    "price_bands": [
+      {
+        "id": "price-band-high-fiber-rtd-tea-taiwan",
+        "category": "高纖即飲茶",
+        "market": "Taiwan",
+        "comparison_unit": "每瓶價格 TWD",
+        "entry_price_range": "約 29.75 元／瓶",
+        "value_price_range": "約 22.04 元／瓶",
+        "mainstream_price_range": "約 22–30 元／瓶",
+        "premium_price_range": "未查得",
+        "observations": "大容量箱裝與多件促銷形成主流價格帶。",
+        "source_urls": [
+          "https://24h.pchome.com.tw/store/LZPRJL",
+          "https://24h.pchome.com.tw/prod/DBAB0D-A900JTH7E"
+        ]
+      }
+    ],
+    "competitor_pricing": [
+      {
+        "id": "pricing-meichao-double-fiber-24",
+        "brand": "每朝健康",
+        "product_name": "雙纖綠茶 650 ml",
+        "market": "Taiwan",
+        "product_category": "高纖即飲茶",
+        "product_format": "即飲茶",
+        "core_benefits": [
+          "膳食纖維",
+          "無糖飲用"
+        ],
+        "key_ingredients": [
+          "茶",
+          "兩種纖維"
+        ],
+        "package_description": "650 ml x 24 瓶",
+        "total_servings": 24,
+        "total_weight_g": null,
+        "total_volume_ml": 15600,
+        "fiber_per_serving_g": null,
+        "active_ingredient_per_serving_g": null,
+        "recommended_servings_per_day": 1,
+        "msrp_or_regular_price": 690,
+        "current_selling_price": 655,
+        "promotion_price": 655,
+        "coupon_or_subscription_discount": "P 幣與平台折扣，金額未查得",
+        "mandatory_shipping_or_fees": null,
+        "estimated_effective_price": 655,
+        "price_per_serving": 27.29,
+        "daily_cost": 27.29,
+        "price_per_100g": null,
+        "price_per_100ml": 4.2,
+        "price_per_g_fiber": null,
+        "price_per_g_active": null,
+        "promotion_depth_percent": 5.07,
+        "price_check_date": "2026-09-30",
+        "channel": "PChome",
+        "price_positioning": "主流價格帶",
+        "inferred_pricing_strategy": "依公開價格、規格、促銷與通路訊號推定：多包組／囤貨價／Hi-Lo",
+        "strategy_rationale": "24 入箱裝搭配折扣與點數，降低單瓶價格並刺激囤貨。",
+        "data_limitation": "單一平台可見售價，不代表全通路實際成交價。",
+        "source_urls": [
+          "https://24h.pchome.com.tw/store/LZPRJL"
+        ]
+      },
+      {
+        "id": "pricing-aizhiwei-double-fiber-barley",
+        "brand": "愛之味",
+        "product_name": "分解茶雙纖麥茶無糖 590 ml",
+        "market": "Taiwan",
+        "product_category": "高纖無糖即飲茶",
+        "product_format": "即飲茶",
+        "core_benefits": [
+          "膳食纖維",
+          "無糖",
+          "無咖啡因"
+        ],
+        "key_ingredients": [
+          "大麥",
+          "兩種膳食纖維"
+        ],
+        "package_description": "590 ml x 24 瓶",
+        "total_servings": 24,
+        "total_weight_g": null,
+        "total_volume_ml": 14160,
+        "fiber_per_serving_g": 10,
+        "active_ingredient_per_serving_g": null,
+        "recommended_servings_per_day": 1,
+        "msrp_or_regular_price": 840,
+        "current_selling_price": 529,
+        "promotion_price": 529,
+        "coupon_or_subscription_discount": null,
+        "mandatory_shipping_or_fees": null,
+        "estimated_effective_price": 529,
+        "price_per_serving": 22.04,
+        "daily_cost": 22.04,
+        "price_per_100g": null,
+        "price_per_100ml": 3.74,
+        "price_per_g_fiber": 2.2,
+        "price_per_g_active": null,
+        "promotion_depth_percent": 36.99,
+        "price_check_date": "2026-09-30",
+        "channel": "PChome",
+        "price_positioning": "平價價格帶",
+        "inferred_pricing_strategy": "依公開價格、規格、促銷與通路訊號推定：深折促銷／價格錨定",
+        "strategy_rationale": "公開頁面同時顯示 840 元與 529 元，促銷差距明顯。",
+        "data_limitation": "單一平台可見售價；頁面價格可能因檔期變動。",
+        "source_urls": [
+          "https://24h.pchome.com.tw/prod/DBAB0D-A900JTH7E"
+        ]
+      }
+    ],
+    "price_pack_architecture": [
+      {
+        "id": "ppa-high-fiber-rtd-tea",
+        "category": "高纖／腸道即飲茶",
+        "market": "Taiwan",
+        "occasion": "早餐／餐後／日常補水",
+        "entry_pack": "4 入組",
+        "entry_price_point": 119,
+        "core_pack": "650 ml x 24 瓶",
+        "core_price_point": 655,
+        "stock_up_pack": "24 入 x 2 箱",
+        "stock_up_price_point": 1149,
+        "premium_pack": "未查得",
+        "premium_price_point": null,
+        "price_ladder_observation": "小組合降低首次購買門檻，箱裝與雙箱降低每瓶價格並提高客單價。",
+        "channel_consideration": "需避免官方、量販與電商促銷價差過大。",
+        "source_urls": [
+          "https://24h.pchome.com.tw/store/LZPRJL"
+        ]
+      }
+    ],
+    "category_pricing_implications": [],
+    "data_limitations": [
+      "公開標價不一定等於實際成交價。",
+      "單一平台的銷量、排名、評價與促銷不代表全市場。",
+      "運費、會員折扣、回饋金、組合價、稅金與第三方賣家可能造成價格差異。",
+      "未掌握真實成本、毛利、通路抽成與價格彈性時，不可推論最佳價格。",
+      "定價建議需以試賣、問卷、A/B test、Gabor-Granger、Van Westendorp 或實際銷售資料驗證。"
+    ]
+  },
+  "social_trends": [
+    {
+      "id": "social-protein-matcha",
+      "platforms": [
+        "Beverage Industry",
+        "品牌新品媒體"
+      ],
+      "name": "蛋白抹茶",
+      "category": "社群／搜尋／媒體",
+      "summary": "美國出現每罐 20 g 蛋白質的罐裝抹茶拿鐵。",
+      "momentum_score": 58,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "source_count": 1,
+      "verification_status": "pending",
+      "next_step": "追蹤其他品牌、零售通路及台灣社群是否出現持續承接。",
+      "source_urls": [
+        "https://www.bevindustry.com/articles/topic/5045-news"
+      ]
+    },
+    {
+      "id": "social-prebiotic-sparkling-protein",
+      "platforms": [
+        "Amazon",
+        "Target",
+        "PR Newswire"
+      ],
+      "name": "益生元纖維蛋白氣泡飲",
+      "category": "社群／搜尋／媒體",
+      "summary": "Protein Pop Balance 以 15 g 蛋白質、5 g 纖維及益生元切入氣泡飲。",
+      "momentum_score": 64,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "source_count": 3,
+      "verification_status": "pending",
+      "next_step": "確認是否有第二、第三個品牌及台灣零售上架。",
+      "source_urls": [
+        "https://www.morningstar.com/news/pr-newswire/20260903la38475/protein-pop-launches-protein-pop-balance-a-clear-prebiotic-soda-with-15-grams-of-protein-and-5-grams-of-fiber"
+      ]
+    }
+  ],
+  "research_reports": [
+    {
+      "id": "report-global-rtd-tea-2026",
+      "organization": "Wissen Research",
+      "title": "Ready-to-Drink RTD Tea Market to Reach US$66.7B by 2031",
+      "category": "市場研究",
+      "published_or_found_date": "2026-09-09",
+      "summary": "公開摘要估計全球 RTD 茶市場由 2026 年 450 億美元成長至 2031 年 667 億美元。",
+      "implication_for_taiwan": "台灣需追蹤低糖、纖維、補水及植物萃取是否被本地品牌承接。",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/ready-to-drink-rtd-tea-market-to-reach-us-66-7-bn-by-2031--growing-at-8-2-cagr-new-report-by-wissen-research-302874151.html"
+      ]
+    },
+    {
+      "id": "report-functional-tea-360i",
+      "organization": "360iResearch",
+      "title": "Functional Tea Market Size & Share 2026-2032",
+      "category": "市場研究",
+      "published_or_found_date": "2026-09-05",
+      "summary": "公開摘要提供全球功能性茶市場規模與成長預測。",
+      "implication_for_taiwan": "可作為方向參考，但需以台灣通路與消費者測試驗證。",
+      "source_urls": [
+        "https://www.360iresearch.com/library/intelligence/functional-tea"
+      ]
+    }
+  ],
+  "supply_chain_risks": [
+    {
+      "id": "supply-botanical-authentication",
+      "name": "植物原料錯誤鑑別與摻偽",
+      "category": "供應鏈／原料／跨境合規",
+      "risk_level": "high",
+      "summary": "FDA 發現部分 tejocote 產品含有毒黃夾竹桃。",
+      "potential_impact": "可能造成食安事件、召回、品牌信任損失及跨境通路下架。",
+      "recommended_action": "執行供應商資格審查、物種鑑別、批次檢驗與留樣。",
+      "source_urls": [
+        "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander"
+      ]
+    },
+    {
+      "id": "supply-undeclared-pharmaceuticals",
+      "name": "補充品摻入未標示藥物成分",
+      "category": "供應鏈／原料／跨境合規",
+      "risk_level": "high",
+      "summary": "FDA 公布液體膳食補充品含未標示 sildenafil 與 tadalafil。",
+      "potential_impact": "可能產生嚴重交互作用、召回及通路信任風險。",
+      "recommended_action": "對高風險補充品進行第三方廣篩檢測。",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ap-creations-llc-issues-nationwide-recall-biq-fel-due-undeclared-sildenafil-and-tadalafil"
+      ]
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opportunity-flavor-forward-fiber-tea",
+      "title": "風味導向高纖茶",
+      "consumer_need": "希望補充纖維但不想接受厚重粉飲或藥感。",
+      "competitor_landscape": "台灣高纖即飲茶以綠茶、麥茶為主，手搖市場持續使用水果與茶凍。",
+      "product_direction": "低糖莓果、柚香或百香果高纖茶。",
+      "target_context": "上班族下午茶、手搖飲替代。",
+      "competitive_advantage": "以好喝與風味體驗降低功能飲品距離。",
+      "pricing_or_packaging_opportunity": "4 入體驗組、12 入主力包；價格需測試。",
+      "risk_or_validation": "需驗證口感、沉澱、穩定性及宣稱。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://www.beauty321.com/post/73236",
+        "https://24h.pchome.com.tw/store/LZPRJL"
+      ]
+    },
+    {
+      "id": "opportunity-protein-matcha-breakfast",
+      "title": "蛋白質抹茶早餐飲",
+      "consumer_need": "快速早餐與蛋白質補充。",
+      "competitor_landscape": "美國已有 20 g 蛋白質罐裝抹茶新品，台灣同型態資料不足。",
+      "product_direction": "低糖蛋白抹茶 RTD 或粉包。",
+      "target_context": "上班族早餐、運動後。",
+      "competitive_advantage": "茶風味可區隔傳統奶昔。",
+      "pricing_or_packaging_opportunity": "單罐試飲、4 入體驗、12 入回購。",
+      "risk_or_validation": "需驗證茶澀、乳感、蛋白腥味與穩定性。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://www.bevindustry.com/articles/topic/5045-news"
+      ]
+    },
+    {
+      "id": "opportunity-clear-prebiotic-sparkling",
+      "title": "高纖透明氣泡飲",
+      "consumer_need": "想要汽水口感但希望有低糖、纖維或蛋白質功能。",
+      "competitor_landscape": "Protein Pop Balance 已出現蛋白質、纖維與益生元氣泡型態。",
+      "product_direction": "低糖茶果氣泡飲，搭配 3–5 g 纖維。",
+      "target_context": "年輕族群、社交、下午茶。",
+      "competitive_advantage": "兼具氣泡體驗、風味及功能訴求。",
+      "pricing_or_packaging_opportunity": "單罐、4 入及 12 入。",
+      "risk_or_validation": "需測試纖維耐受、氣泡穩定、沉澱及宣稱。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://www.morningstar.com/news/pr-newswire/20260903la38475/protein-pop-launches-protein-pop-balance-a-clear-prebiotic-soda-with-15-grams-of-protein-and-5-grams-of-fiber"
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alert-fda-yellow-oleander",
+      "title": "植物原料錯誤鑑別與有毒黃夾竹桃警示",
+      "category": "食安／供應鏈",
+      "priority": "high",
+      "summary": "FDA 於 9 月新增含有毒黃夾竹桃的 tejocote 相關產品警示。",
+      "recommended_action": "對植物原料進行物種鑑別、供應商稽核及批次檢驗。",
+      "source_urls": [
+        "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander"
+      ]
+    },
+    {
+      "id": "alert-fda-biq-fel",
+      "title": "液體補充品含未標示藥物成分",
+      "category": "回收／食安",
+      "priority": "high",
+      "summary": "biQ-FEL 被 FDA 發現含未標示 sildenafil 與 tadalafil。",
+      "recommended_action": "高風險進口補充品導入上市前第三方廣篩檢測。",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ap-creations-llc-issues-nationwide-recall-biq-fel-due-undeclared-sildenafil-and-tadalafil"
+      ]
+    }
+  ],
+  "confirmed_signals": [],
+  "pending_signals": [
+    {
+      "id": "pending-protein-matcha",
+      "name": "蛋白抹茶",
+      "category": "產品型態／消費需求",
+      "momentum_score": 58,
+      "summary": "美國出現每罐 20 g 蛋白質的罐裝抹茶拿鐵。",
+      "source_count": 1,
+      "evidence_gap": "缺少第二個品牌、台灣零售上架或跨平台持續訊號。",
+      "next_step": "下月追蹤新品複製、零售通路及台灣市場反應。",
+      "verification_status": "pending",
+      "source_urls": [
+        "https://www.bevindustry.com/articles/topic/5045-news"
+      ]
+    },
+    {
+      "id": "pending-prebiotic-protein-sparkling",
+      "name": "益生元纖維蛋白氣泡飲",
+      "category": "產品型態／功能性成分",
+      "momentum_score": 64,
+      "summary": "Protein Pop Balance 將蛋白質、纖維、益生元與氣泡飲整合。",
+      "source_count": 1,
+      "evidence_gap": "目前主要為單一品牌訊號，缺少台灣市場與多品牌長期資料。",
+      "next_step": "追蹤其他品牌及台灣零售上架。",
+      "verification_status": "pending",
+      "source_urls": [
+        "https://www.morningstar.com/news/pr-newswire/20260903la38475/protein-pop-launches-protein-pop-balance-a-clear-prebiotic-soda-with-15-grams-of-protein-and-5-grams-of-fiber"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "watch-tfda-food-safety",
+      "name": "TFDA 食品安全、回收與標示公告",
+      "category": "法規／食安",
+      "reason": "機能飲品及補充品的標示與原料安全風險持續存在。",
+      "priority": "high",
+      "next_step": "每週檢查 TFDA 公告及地方衛生局食安新聞。",
+      "source_urls": [
+        "https://www.fda.gov.tw/tc/csmnews.aspx"
+      ]
+    },
+    {
+      "id": "watch-taiwan-high-fiber-tea",
+      "name": "台灣高纖即飲茶價格與規格",
+      "category": "零售／價格",
+      "reason": "公開市場已形成 4 入、24 入與雙箱促銷結構。",
+      "priority": "high",
+      "next_step": "每週記錄 PChome、momo、蝦皮、Coupang、全聯及家樂福價格。",
+      "source_urls": [
+        "https://24h.pchome.com.tw/store/LZPRJL"
+      ]
+    },
+    {
+      "id": "watch-protein-matcha",
+      "name": "蛋白抹茶與蛋白茶",
+      "category": "競品／新品／成分",
+      "reason": "美國已出現 20 g 蛋白質罐裝抹茶新品。",
+      "priority": "medium",
+      "next_step": "追蹤多品牌新品、台灣上架與消費者口味回饋。",
+      "source_urls": [
+        "https://www.bevindustry.com/articles/topic/5045-news"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "TFDA 國內衛生局新聞",
+      "url": "https://www.fda.gov.tw/tc/csmnews.aspx",
+      "source_type": "official",
+      "market": "Taiwan"
+    },
+    {
+      "title": "FDA Yellow Oleander Warning",
+      "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-certain-products-containing-toxic-yellow-oleander",
+      "source_type": "official",
+      "market": "United States"
+    },
+    {
+      "title": "PChome 每朝健康雙纖綠茶",
+      "url": "https://24h.pchome.com.tw/store/LZPRJL",
+      "source_type": "retail",
+      "market": "Taiwan"
+    },
+    {
+      "title": "PChome 愛之味雙纖麥茶",
+      "url": "https://24h.pchome.com.tw/prod/DBAB0D-A900JTH7E",
+      "source_type": "retail",
+      "market": "Taiwan"
+    },
+    {
+      "title": "Protein Pop Balance",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260903la38475/protein-pop-launches-protein-pop-balance-a-clear-prebiotic-soda-with-15-grams-of-protein-and-5-grams-of-fiber",
+      "source_type": "brand_news",
+      "market": "United States"
+    },
+    {
+      "title": "September Taiwanese Tea New Products",
+      "url": "https://www.beauty321.com/post/73236",
+      "source_type": "media",
+      "market": "Taiwan"
+    }
+  ]
+}
