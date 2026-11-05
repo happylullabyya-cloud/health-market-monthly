@@ -1,0 +1,2306 @@
+{
+  "meta": {
+    "report_type": "monthly",
+    "report_label": "每月市場脈動報告",
+    "report_date": "2026-11-05",
+    "report_period": {
+      "start": "2026-10-01",
+      "end": "2026-10-31"
+    },
+    "previous_report_period": {
+      "start": "2026-09-01",
+      "end": "2026-09-30"
+    },
+    "timezone": "Asia/Taipei",
+    "generated_at": "2026-11-05T11:18:00+08:00",
+    "last_updated_at": "2026-11-05T11:18:00+08:00",
+    "scope": "Monthly market monitoring for health, weight management, tea, functional food and functional beverage markets",
+    "markets": [
+      "Taiwan",
+      "United States",
+      "Japan",
+      "South Korea",
+      "European Union",
+      "Global"
+    ],
+    "methodology_note": "Publicly accessible sources only. Confirmed emerging trends require at least three independent sources, including one official, retail, regulatory, credible media, or research source.",
+    "data_limitations": "本報告僅使用公開可驗證資料；社群訊號反映公開討論熱度，不代表因果關係、全體消費者行為、市場規模或實際總銷量。單一平台銷售、評價、價格或排名僅代表該平台可見訊號。"
+  },
+  "kpis": {
+    "total_signals": 32,
+    "ingredient_signals": 9,
+    "benefit_signals": 10,
+    "product_format_signals": 10,
+    "regulatory_events": 5,
+    "food_safety_events": 2,
+    "new_products": 7,
+    "retail_channel_events": 5,
+    "social_trends": 1,
+    "research_reports": 4,
+    "opportunity_gaps": 6,
+    "confirmed_emerging_signals": 1,
+    "pending_validation_signals": 8,
+    "supply_chain_risks": 3,
+    "priced_competitors": 0,
+    "promotion_or_price_change_events": 0
+  },
+  "summary": {
+    "headline": "10 月最關鍵訊號是台灣無糖茶進入機能化階段：義美以無糖高纖油切茶結合台灣茶、苦瓜與膳食纖維，並以便利商店與量販雙規格切入外食與家庭補水情境；國際市場則持續將蛋白質、益生元纖維、電解質與綠茶萃取組合化。",
+    "month_over_month_assessment": "首次建立基線，無法進行月度比較。",
+    "key_takeaways": [
+      {
+        "priority": "high",
+        "title": "台灣無糖茶進入高纖機能化階段",
+        "why_it_matters": "義美無糖高纖油切茶以 100% 台灣茶葉、台灣苦瓜與膳食纖維切入外食與餐後解膩情境。",
+        "recommended_action": "將「無糖＋高纖＋在地茶＋餐後解膩」列為台灣即飲茶主要開發方向。",
+        "source_urls": [
+          "https://pinnews.com.tw/archives/96066"
+        ]
+      },
+      {
+        "priority": "high",
+        "title": "便利商店與量販雙規格成為即飲茶通路策略",
+        "why_it_matters": "義美以 570 ml 對應便利商店，946 ml 對應量販與家庭補水。",
+        "recommended_action": "新品開發應預設便利規格與量販規格的雙通路包裝架構。",
+        "source_urls": [
+          "https://pinnews.com.tw/archives/96066"
+        ]
+      },
+      {
+        "priority": "high",
+        "title": "蛋白質、纖維與電解質組合持續成為國際機能飲品主軸",
+        "why_it_matters": "Propel Clear Protein、Starbucks Coffee & Protein 與 BODYARMOR FIT 分別組合蛋白質、益生元纖維、電解質、咖啡因與綠茶萃取。",
+        "recommended_action": "測試蛋白質＋纖維＋低糖茶，以及電解質＋綠茶萃取＋零糖氣泡飲。",
+        "source_urls": [
+          "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+        ]
+      },
+      {
+        "priority": "high",
+        "title": "適應原與草本補充品安全風險升高",
+        "why_it_matters": "FDA 10 月公布適應原沙門氏菌污染回收及草本產品含 dexamethasone 警示函。",
+        "recommended_action": "建立高風險植物與適應原原料的物種鑑別、微生物、農藥、重金屬及藥物殘留檢驗。",
+        "source_urls": [
+          "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential",
+          "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-737576-10262026"
+        ]
+      },
+      {
+        "priority": "medium",
+        "title": "機能飲品差異化重心轉向可驗證含量",
+        "why_it_matters": "市場研究指出電解質、纖維與蛋白質含量是品牌競爭差異重點。",
+        "recommended_action": "建立每份含量、法規可宣稱、口感與成本對照表。",
+        "source_urls": [
+          "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+        ]
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "id": "ingredient-dietary-fiber",
+      "name": "膳食纖維",
+      "category": "腸道高纖",
+      "summary": "義美無糖高纖油切茶將膳食纖維導入無糖即飲茶，國際產品亦將纖維與蛋白質、電解質組合。",
+      "momentum_score": 82,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "腸道健康",
+        "順暢",
+        "飲控",
+        "餐後管理"
+      ],
+      "product_formats": [
+        "無糖即飲茶",
+        "粉包",
+        "蛋白咖啡",
+        "代餐"
+      ],
+      "geography": [
+        "Taiwan",
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需標示每份含量，並確認食品宣稱界線。",
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration",
+        "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+      ]
+    },
+    {
+      "id": "ingredient-protein",
+      "name": "蛋白質",
+      "category": "能量專注",
+      "summary": "國際機能飲品持續將蛋白質與纖維、電解質、咖啡及燕麥結合。",
+      "momentum_score": 78,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "早餐營養",
+        "飽足",
+        "運動後補給"
+      ],
+      "product_formats": [
+        "蛋白咖啡",
+        "RTD",
+        "粉包",
+        "即飲燕麥飲"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需確認蛋白質來源、含量與營養標示。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration",
+        "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+      ]
+    },
+    {
+      "id": "ingredient-prebiotic-fiber",
+      "name": "益生元纖維",
+      "category": "腸道高纖",
+      "summary": "Starbucks Coffee & Protein 等國際產品將益生元纖維與蛋白質及咖啡結合。",
+      "momentum_score": 74,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "腸道健康",
+        "消化",
+        "飽足"
+      ],
+      "product_formats": [
+        "蛋白咖啡",
+        "RTD",
+        "粉包"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需確認原料、添加量、營養標示及可使用宣稱。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "ingredient-electrolytes",
+      "name": "電解質",
+      "category": "能量專注",
+      "summary": "Propel Clear Protein 與 BODYARMOR FIT 將電解質與蛋白質、纖維、咖啡因或綠茶萃取組合。",
+      "momentum_score": 70,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "補水",
+        "運動支持",
+        "能量"
+      ],
+      "product_formats": [
+        "運動飲",
+        "粉包",
+        "機能氣泡飲"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需注意鈉含量、營養標示與運動宣稱。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "ingredient-egcg",
+      "name": "EGCG／綠茶萃取",
+      "category": "茶類抗氧化",
+      "summary": "BODYARMOR FIT 將綠茶萃取與電解質、咖啡因及膽鹼結合，成為運動機能氣泡飲配方。",
+      "momentum_score": 66,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "茶飲",
+        "抗氧化",
+        "能量",
+        "運動支持"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "運動飲",
+        "機能氣泡飲"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "萃取物劑量與一般茶飲不可混同，咖啡因含量需標示。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "ingredient-bitter-gourd",
+      "name": "苦瓜",
+      "category": "茶類抗氧化",
+      "summary": "義美無糖高纖油切茶以台灣苦瓜搭配台灣茶葉，主打無糖、高纖與清爽解膩。",
+      "momentum_score": 62,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "無糖茶飲",
+        "餐後解膩",
+        "日常保養"
+      ],
+      "product_formats": [
+        "無糖高纖即飲茶"
+      ],
+      "geography": [
+        "Taiwan"
+      ],
+      "regulatory_note": "不宜直接宣稱控糖、降血糖或治療效果。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "ingredient-l-theanine",
+      "name": "L-茶胺酸",
+      "category": "舒壓睡眠",
+      "summary": "本月未查得足夠台灣零售與品牌新品資料，列為功能茶與睡眠飲基線成分。",
+      "momentum_score": 54,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "放鬆",
+        "專注"
+      ],
+      "product_formats": [
+        "茶飲",
+        "膠囊"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "regulatory_note": "台灣食品宣稱與原料使用需個別確認。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-probiotics",
+      "name": "益生菌",
+      "category": "腸道高纖",
+      "summary": "市場資訊指出 Yakult 更新益生菌產品線，並強調宣稱與證據管理。",
+      "momentum_score": 52,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "腸道健康",
+        "女性保養"
+      ],
+      "product_formats": [
+        "粉包",
+        "飲品",
+        "膠囊"
+      ],
+      "geography": [
+        "Taiwan",
+        "Japan",
+        "Global"
+      ],
+      "regulatory_note": "菌株、活菌數、保存條件與健康宣稱需分開驗證。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "ingredient-collagen",
+      "name": "膠原蛋白",
+      "category": "美容女性",
+      "summary": "本月未查得指定台灣品牌重大新品，但膠原飲仍是功能性食品基線監測成分。",
+      "momentum_score": 49,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "美容",
+        "女性保養"
+      ],
+      "product_formats": [
+        "飲品",
+        "粉包"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "regulatory_note": "不得直接宣稱醫療效果或保證美容結果。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-magnesium",
+      "name": "鎂",
+      "category": "舒壓睡眠",
+      "summary": "本月未查得與茶飲直接相關的重大新品，列為晚間機能飲基線成分。",
+      "momentum_score": 46,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "營養補充",
+        "晚間保養"
+      ],
+      "product_formats": [
+        "粉包",
+        "膠囊",
+        "飲品"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "regulatory_note": "需確認劑量與營養宣稱限制。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-gaba",
+      "name": "GABA",
+      "category": "舒壓睡眠",
+      "summary": "本月未查得足夠台灣零售與可信媒體證據，列為睡眠飲早期訊號。",
+      "momentum_score": 42,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "放鬆",
+        "睡眠支持"
+      ],
+      "product_formats": [
+        "睡眠飲",
+        "粉包"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "regulatory_note": "不宜直接宣稱治療失眠或疾病。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-ashwagandha",
+      "name": "南非醉茄",
+      "category": "舒壓睡眠",
+      "summary": "FDA 於 10 月公告一款 365 Whole Foods Market Ashwagandha Capsules 因潛在沙門氏菌污染回收。",
+      "momentum_score": 39,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "cooling",
+      "health_benefits": [
+        "壓力支持",
+        "適應原"
+      ],
+      "product_formats": [
+        "膠囊",
+        "粉包"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需強化微生物、農藥、重金屬與真偽鑑別檢驗。",
+      "evidence_level": "medium",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-10-30",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    },
+    {
+      "id": "ingredient-choline",
+      "name": "膽鹼",
+      "category": "能量專注",
+      "summary": "BODYARMOR FIT 將膽鹼與電解質、咖啡因及綠茶萃取結合。",
+      "momentum_score": 38,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "專注",
+        "運動支持"
+      ],
+      "product_formats": [
+        "機能氣泡飲",
+        "運動飲"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "宣稱與添加量需個別確認。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "ingredient-caffeine",
+      "name": "咖啡因",
+      "category": "能量專注",
+      "summary": "BODYARMOR FIT 含 60 mg 咖啡因，並與電解質及綠茶萃取組合。",
+      "momentum_score": 37,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "能量",
+        "專注"
+      ],
+      "product_formats": [
+        "RTD 咖啡",
+        "運動飲",
+        "機能氣泡飲"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需標示含量與適用族群提醒。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "ingredient-resistant-starch",
+      "name": "抗性澱粉",
+      "category": "腸道高纖",
+      "summary": "本月未查得重大新品，列為飲控與腸道產品基線成分。",
+      "momentum_score": 35,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "飽足",
+        "腸道健康"
+      ],
+      "product_formats": [
+        "粉包",
+        "代餐"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "regulatory_note": "需確認產品實際含量、口感與食品宣稱。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-psyllium",
+      "name": "洋車前子",
+      "category": "腸道高纖",
+      "summary": "本月未查得重大新品，列為高纖粉末與膠囊基線成分。",
+      "momentum_score": 33,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "膳食纖維",
+        "飽足"
+      ],
+      "product_formats": [
+        "粉包",
+        "膠囊"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "regulatory_note": "需提供飲水與食用注意事項。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-berberine",
+      "name": "小檗鹼",
+      "category": "代謝飲控",
+      "summary": "本月未查得指定市場的可靠新品與零售連續訊號。",
+      "momentum_score": 30,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "代謝",
+        "控糖"
+      ],
+      "product_formats": [
+        "膠囊",
+        "粉末"
+      ],
+      "geography": [
+        "Global"
+      ],
+      "regulatory_note": "控糖與代謝宣稱風險高，需避免藥品化敘事。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-glp1-support",
+      "name": "GLP-1 使用者營養支持",
+      "category": "代謝飲控",
+      "summary": "本月未取得足夠台灣產品與零售資料，列為蛋白質、纖維及營養密度的早期觀察主題。",
+      "momentum_score": 29,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "蛋白質補充",
+        "纖維補充",
+        "營養支持"
+      ],
+      "product_formats": [
+        "代餐飲",
+        "粉包"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "不應暗示治療或替代醫療。",
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "ingredient-fiber-electrolyte-combo",
+      "name": "膳食纖維＋電解質組合",
+      "category": "腸道高纖",
+      "summary": "國際機能飲品將纖維與電解質組合，作為補水、腸道與運動支持定位。",
+      "momentum_score": 68,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "補水",
+        "腸道健康",
+        "運動支持"
+      ],
+      "product_formats": [
+        "RTD",
+        "粉包",
+        "運動飲"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需確認複合配方標示與宣稱。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "ingredient-protein-prebiotic-combo",
+      "name": "蛋白質＋益生元組合",
+      "category": "能量專注",
+      "summary": "Starbucks Coffee & Protein 提供 22 g 蛋白質與 5 g 益生元纖維。",
+      "momentum_score": 72,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "飽足",
+        "腸道健康",
+        "早餐營養"
+      ],
+      "product_formats": [
+        "蛋白咖啡",
+        "RTD",
+        "粉包"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "regulatory_note": "需確認複合配方標示與宣稱。",
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "id": "benefit-gut-health",
+      "name": "腸道健康與順暢",
+      "category": "消費者健康需求",
+      "summary": "義美無糖高纖油切茶、國際蛋白纖維產品及市場研究皆支持腸道需求持續上升。",
+      "momentum_score": 80,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "膳食纖維",
+        "益生元纖維",
+        "益生菌"
+      ],
+      "product_formats": [
+        "無糖即飲茶",
+        "粉包",
+        "蛋白咖啡"
+      ],
+      "consumer_contexts": [
+        "早餐",
+        "餐後",
+        "日常補水"
+      ],
+      "geography": [
+        "Taiwan",
+        "United States",
+        "Global"
+      ],
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration",
+        "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+      ]
+    },
+    {
+      "id": "benefit-weight-management",
+      "name": "體重管理與飲控",
+      "category": "消費者健康需求",
+      "summary": "無糖高纖茶、蛋白飲與低糖運動飲形成飲控相關需求訊號。",
+      "momentum_score": 70,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "related_ingredients": [
+        "膳食纖維",
+        "蛋白質",
+        "茶萃取"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "代餐飲",
+        "粉包"
+      ],
+      "consumer_contexts": [
+        "下午茶",
+        "餐間",
+        "早餐"
+      ],
+      "geography": [
+        "Taiwan",
+        "United States",
+        "Global"
+      ],
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+      ]
+    },
+    {
+      "id": "benefit-low-sugar",
+      "name": "低糖與無糖替代",
+      "category": "消費者健康需求",
+      "summary": "義美無糖高纖油切茶與 BODYARMOR FIT 零糖運動飲均顯示低糖需求持續。",
+      "momentum_score": 79,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "茶萃取",
+        "膳食纖維",
+        "電解質"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "機能氣泡飲",
+        "運動飲"
+      ],
+      "consumer_contexts": [
+        "餐後",
+        "下午茶",
+        "手搖飲替代"
+      ],
+      "geography": [
+        "Taiwan",
+        "United States",
+        "Global"
+      ],
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "benefit-post-meal-relief",
+      "name": "餐後解膩與日常搭配",
+      "category": "消費者健康需求",
+      "summary": "義美新品明確將無糖高纖茶定位於便當、炸物、火鍋與燒肉後飲用。",
+      "momentum_score": 74,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "台灣茶",
+        "苦瓜",
+        "膳食纖維"
+      ],
+      "product_formats": [
+        "無糖即飲茶"
+      ],
+      "consumer_contexts": [
+        "午餐",
+        "晚餐",
+        "聚餐"
+      ],
+      "geography": [
+        "Taiwan"
+      ],
+      "evidence_level": "high",
+      "verification_status": "confirmed",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "benefit-protein-nutrition",
+      "name": "蛋白質與早餐營養",
+      "category": "消費者健康需求",
+      "summary": "蛋白咖啡、蛋白水與可攜燕麥飲持續將蛋白質與纖維、全穀結合。",
+      "momentum_score": 72,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "蛋白質",
+        "益生元纖維",
+        "燕麥"
+      ],
+      "product_formats": [
+        "蛋白咖啡",
+        "RTD",
+        "即飲燕麥飲"
+      ],
+      "consumer_contexts": [
+        "早餐",
+        "運動後",
+        "工作中"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "benefit-sports-hydration",
+      "name": "運動補水",
+      "category": "消費者健康需求",
+      "summary": "BODYARMOR FIT 與 Propel Clear Protein 顯示電解質、蛋白質、纖維及綠茶萃取的複合運動飲方向。",
+      "momentum_score": 68,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "related_ingredients": [
+        "電解質",
+        "蛋白質",
+        "綠茶萃取"
+      ],
+      "product_formats": [
+        "罐裝運動飲",
+        "粉包",
+        "機能氣泡飲"
+      ],
+      "consumer_contexts": [
+        "運動前後",
+        "戶外",
+        "工作中"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "benefit-digestive-health",
+      "name": "消化與餐後管理",
+      "category": "消費者健康需求",
+      "summary": "高纖茶、無糖茶與蛋白纖維組合持續對應餐後與消化情境。",
+      "momentum_score": 65,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "related_ingredients": [
+        "膳食纖維",
+        "益生元纖維"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "粉包"
+      ],
+      "consumer_contexts": [
+        "餐後",
+        "上班",
+        "日常補水"
+      ],
+      "geography": [
+        "Taiwan",
+        "Global"
+      ],
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "benefit-handshake-replacement",
+      "name": "手搖飲替代",
+      "category": "消費者健康需求",
+      "summary": "無糖機能茶、低糖茶與氣泡飲可承接手搖飲替代需求。",
+      "momentum_score": 73,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "related_ingredients": [
+        "茶萃取",
+        "膳食纖維",
+        "電解質"
+      ],
+      "product_formats": [
+        "即飲茶",
+        "氣泡飲"
+      ],
+      "consumer_contexts": [
+        "下午茶",
+        "外食",
+        "社交"
+      ],
+      "geography": [
+        "Taiwan"
+      ],
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "benefit-energy-focus",
+      "name": "能量與專注",
+      "category": "消費者健康需求",
+      "summary": "蛋白咖啡、綠茶萃取、咖啡因與膽鹼組合為國際機能飲的持續訊號。",
+      "momentum_score": 55,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "related_ingredients": [
+        "咖啡因",
+        "綠茶萃取",
+        "膽鹼"
+      ],
+      "product_formats": [
+        "RTD 咖啡",
+        "運動飲",
+        "機能氣泡飲"
+      ],
+      "consumer_contexts": [
+        "工作中",
+        "早餐",
+        "運動前"
+      ],
+      "geography": [
+        "United States",
+        "Global"
+      ],
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "benefit-evening-low-burden",
+      "name": "晚間低負擔飲品",
+      "category": "消費者健康需求",
+      "summary": "無咖啡因茶與草本茶仍是晚間低負擔飲品的基礎方向。",
+      "momentum_score": 45,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "related_ingredients": [
+        "無咖啡因茶",
+        "膳食纖維"
+      ],
+      "product_formats": [
+        "無咖啡因麥茶",
+        "草本茶"
+      ],
+      "consumer_contexts": [
+        "晚餐後",
+        "睡前前段"
+      ],
+      "geography": [
+        "Taiwan"
+      ],
+      "evidence_level": "medium",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-11-05",
+      "source_urls": []
+    },
+    {
+      "id": "benefit-sleep-calm",
+      "name": "舒壓與睡眠支持",
+      "category": "消費者健康需求",
+      "summary": "本月適應原產品出現安全事件，睡眠與舒壓需求仍存在，但品管與宣稱風險升高。",
+      "momentum_score": 42,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "related_ingredients": [
+        "GABA",
+        "鎂",
+        "南非醉茄"
+      ],
+      "product_formats": [
+        "睡眠飲",
+        "粉包",
+        "膠囊"
+      ],
+      "consumer_contexts": [
+        "晚間",
+        "睡前"
+      ],
+      "geography": [
+        "Global"
+      ],
+      "evidence_level": "low",
+      "verification_status": "pending",
+      "published_or_found_date": "2026-10-30",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    }
+  ],
+  "product_formats": [
+    {
+      "id": "format-ready-to-drink-tea",
+      "name": "無糖即飲茶",
+      "category": "產品型態／使用情境",
+      "summary": "義美無糖高纖油切茶將無糖茶延伸至高纖與餐後解膩情境。",
+      "momentum_score": 84,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "無糖",
+        "補水",
+        "餐後解膩",
+        "高纖"
+      ],
+      "representative_brands": [
+        "義美",
+        "每朝健康",
+        "愛之味"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "format-high-fiber-drink",
+      "name": "高纖飲",
+      "category": "產品型態／使用情境",
+      "summary": "膳食纖維正從粉包延伸至無糖即飲茶與蛋白飲。",
+      "momentum_score": 82,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "腸道健康",
+        "順暢",
+        "飲控"
+      ],
+      "representative_brands": [
+        "義美",
+        "每朝健康",
+        "愛之味"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "format-powdered-drink",
+      "name": "粉包沖泡飲",
+      "category": "產品型態／使用情境",
+      "summary": "高纖、早餐與營養補充產品常見型態，具攜帶性但需處理溶解與口感。",
+      "momentum_score": 66,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "高纖",
+        "早餐營養",
+        "飲控"
+      ],
+      "representative_brands": [
+        "米森",
+        "BHK’s",
+        "大研生醫"
+      ],
+      "competition_level": "high",
+      "source_urls": []
+    },
+    {
+      "id": "format-protein-coffee",
+      "name": "蛋白咖啡",
+      "category": "產品型態／使用情境",
+      "summary": "Starbucks Coffee & Protein 將 22 g 蛋白質與 5 g 益生元纖維結合於咖啡型態。",
+      "momentum_score": 72,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "蛋白質",
+        "飽足",
+        "早餐營養"
+      ],
+      "representative_brands": [
+        "Starbucks",
+        "PepsiCo"
+      ],
+      "competition_level": "medium",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "format-functional-sparkling-drink",
+      "name": "機能氣泡飲",
+      "category": "產品型態／使用情境",
+      "summary": "BODYARMOR FIT 以零糖、電解質、咖啡因、膽鹼與綠茶萃取切入罐裝運動飲。",
+      "momentum_score": 63,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "汽水替代",
+        "運動補水",
+        "低糖"
+      ],
+      "representative_brands": [
+        "BODYARMOR"
+      ],
+      "competition_level": "medium",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "format-tea-jelly-drink",
+      "name": "茶凍飲",
+      "category": "產品型態／使用情境",
+      "summary": "本月未查得重大新品，維持手搖替代與口感體驗的觀察型態。",
+      "momentum_score": 60,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "手搖飲替代",
+        "風味體驗"
+      ],
+      "representative_brands": [],
+      "competition_level": "high",
+      "source_urls": []
+    },
+    {
+      "id": "format-sleep-drink",
+      "name": "睡眠飲",
+      "category": "產品型態／使用情境",
+      "summary": "本月未查得台灣重大新品，但適應原產品安全事件提高品管要求。",
+      "momentum_score": 42,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "舒壓",
+        "睡眠支持"
+      ],
+      "representative_brands": [],
+      "competition_level": "medium",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    },
+    {
+      "id": "format-breakfast-drink",
+      "name": "早餐飲",
+      "category": "產品型態／使用情境",
+      "summary": "Quaker Oat Shake & Go 將蛋白質、纖維與全穀燕麥結合於可攜早餐飲。",
+      "momentum_score": 70,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "蛋白質",
+        "飽足",
+        "全穀營養"
+      ],
+      "representative_brands": [
+        "Quaker"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "format-afternoon-tea-replacement",
+      "name": "下午茶替代",
+      "category": "產品型態／使用情境",
+      "summary": "無糖高纖茶與低糖風味飲可承接下午茶與餐後解膩需求。",
+      "momentum_score": 66,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "health_benefits": [
+        "低糖",
+        "風味滿足",
+        "手搖飲替代"
+      ],
+      "representative_brands": [
+        "義美",
+        "曼寧"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "format-handshake-replacement",
+      "name": "手搖飲替代",
+      "category": "產品型態／使用情境",
+      "summary": "無糖高纖茶可承接外食、聚餐與手搖飲替代情境。",
+      "momentum_score": 73,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "低糖",
+        "無糖",
+        "便利"
+      ],
+      "representative_brands": [
+        "義美",
+        "每朝健康",
+        "愛之味"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "format-meal-replacement",
+      "name": "代餐與控卡飲",
+      "category": "產品型態／使用情境",
+      "summary": "蛋白質、纖維與早餐營養是代餐型態的主要觀察方向。",
+      "momentum_score": 55,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "stable",
+      "health_benefits": [
+        "低卡",
+        "蛋白質",
+        "飽足"
+      ],
+      "representative_brands": [
+        "桂格"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "format-low-sugar-drink",
+      "name": "無糖或低糖飲品",
+      "category": "產品型態／使用情境",
+      "summary": "無糖高纖茶與零糖運動飲顯示低糖已是機能飲品基礎門檻。",
+      "momentum_score": 85,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "health_benefits": [
+        "飲控",
+        "手搖飲替代",
+        "日常補水"
+      ],
+      "representative_brands": [
+        "義美",
+        "每朝健康",
+        "BODYARMOR"
+      ],
+      "competition_level": "high",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    }
+  ],
+  "regulations": [
+    {
+      "id": "recall-fda-ultimate-forza",
+      "agency": "FDA",
+      "title": "Ultimate Forza Male Supplement 因含未標示藥物成分回收",
+      "category": "回收",
+      "related_ingredients": [
+        "Sildenafil",
+        "Tadalafil",
+        "Dapoxetine"
+      ],
+      "affected_products": [
+        "Ultimate Forza Male Supplement"
+      ],
+      "risk_level": "high",
+      "summary": "FDA 於 2026-10-24 公布產品含未標示 sildenafil、tadalafil 與 dapoxetine，並啟動消費者層級回收。",
+      "recommended_action": "對男性機能、減重及高功效補充品建立第三方成分廣篩、供應商稽核與召回流程。",
+      "published_or_found_date": "2026-10-24",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared",
+        "https://www.fda.gov/consumers/health-fraud-scams/recalls-health-fraud"
+      ]
+    },
+    {
+      "id": "recall-fda-ashwagandha-salmonella",
+      "agency": "FDA",
+      "title": "365 Whole Foods Market Ashwagandha Capsules 因潛在沙門氏菌污染回收",
+      "category": "食安",
+      "related_ingredients": [
+        "南非醉茄"
+      ],
+      "affected_products": [
+        "365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count"
+      ],
+      "risk_level": "high",
+      "summary": "FDA 於 2026-10-30 公布一款南非醉茄膠囊因潛在沙門氏菌污染回收。",
+      "recommended_action": "建立適應原原料微生物、農藥、重金屬與真偽鑑別檢驗。",
+      "published_or_found_date": "2026-10-30",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    },
+    {
+      "id": "warning-fda-new-green-nutrition",
+      "agency": "FDA",
+      "title": "New Green Nutrition 警示函：產品檢出 dexamethasone",
+      "category": "警示函",
+      "related_ingredients": [
+        "Dexamethasone",
+        "草本原料"
+      ],
+      "affected_products": [
+        "Qu Feng Huo Luo Dan",
+        "Pearl Eye Drops",
+        "Japan Reishi Mushroom Powder",
+        "Shu Jin Huo Xue Wan"
+      ],
+      "risk_level": "high",
+      "summary": "FDA 於 2026-10-26 發出警示函，指出實驗室檢出 Qu Feng Huo Luo Dan 含 dexamethasone，並認定多項產品屬未核准藥品。",
+      "recommended_action": "草本與傳統配方產品應建立成分鑑別、藥物殘留篩檢及廣告宣稱審查。",
+      "published_or_found_date": "2026-10-26",
+      "source_urls": [
+        "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-737576-10262026"
+      ]
+    },
+    {
+      "id": "recall-fda-rapture-preworkout",
+      "agency": "FDA",
+      "title": "RAPTURE Preworkout 因含 DMAA 回收",
+      "category": "回收",
+      "related_ingredients": [
+        "1,3-Dimethylamylamine (DMAA)"
+      ],
+      "affected_products": [
+        "RAPTURE Preworkout"
+      ],
+      "risk_level": "high",
+      "summary": "FDA 公布 RAPTURE Preworkout 一個批次因含 DMAA 而回收。",
+      "recommended_action": "對運動前補充品建立禁用成分清單與原料來源審查。",
+      "published_or_found_date": "2026-10-06",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/leader-formulas-llc-issues-voluntary-nationwide-recall-rapture-preworkout-due-presence-13"
+      ]
+    },
+    {
+      "id": "recall-fda-baby-sleep-gripe-water",
+      "agency": "FDA",
+      "title": "Babies’ Magic Tea Baby Sleep Gripe Water 回收",
+      "category": "食安",
+      "related_ingredients": [
+        "嬰幼兒補充品"
+      ],
+      "affected_products": [
+        "Babies’ Magic Tea brand Baby Sleep Gripe Water"
+      ],
+      "risk_level": "high",
+      "summary": "FDA 於 2026-10-07 公布 Pacific Health Sciences 自願回收一款嬰幼兒睡眠相關補充品。",
+      "recommended_action": "若開發嬰幼兒或特殊族群產品，應採最嚴格品管與法規路徑。",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://www.fda.gov/science-research/pediatrics/fda-pediatric-safety-communications"
+      ]
+    }
+  ],
+  "new_products": [
+    {
+      "id": "product-imai-sugar-free-high-fiber-tea",
+      "title": "無糖高纖油切茶",
+      "brand": "義美",
+      "market": "Taiwan",
+      "retailer_or_channel": "全家、義美門市；全聯、大全聯、萬家福、樂家康、愛買",
+      "product_format": "無糖高纖即飲茶",
+      "ingredients": [
+        "100% 台灣茶葉",
+        "台灣苦瓜",
+        "膳食纖維"
+      ],
+      "health_benefits": [
+        "高纖",
+        "無糖",
+        "清爽解膩"
+      ],
+      "price_or_packaging": "570 ml；946 ml；價格未查得",
+      "summary": "義美以無糖高纖茶切入外食、餐後與家庭補水情境，並採便利商店與量販雙規格策略。",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "product-propel-clear-protein",
+      "title": "Propel Clear Protein",
+      "brand": "PepsiCo",
+      "market": "United States",
+      "retailer_or_channel": "Walmart.com、Amazon、Gatorade.com、TikTok Shop",
+      "product_format": "即溶蛋白補給粉",
+      "ingredients": [
+        "乳清蛋白",
+        "纖維",
+        "電解質"
+      ],
+      "health_benefits": [
+        "蛋白質補給",
+        "補水",
+        "腸道支持"
+      ],
+      "price_or_packaging": "每份 20 g 蛋白質、3 g 纖維；價格未查得",
+      "summary": "將蛋白質、纖維與電解質組合為即溶補給粉。",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "product-starbucks-coffee-protein",
+      "title": "RTD Coffee & Protein",
+      "brand": "PepsiCo x Starbucks",
+      "market": "United States",
+      "retailer_or_channel": "食品、便利與線上零售",
+      "product_format": "蛋白咖啡 RTD",
+      "ingredients": [
+        "咖啡",
+        "完整蛋白質",
+        "益生元纖維",
+        "維生素與礦物質"
+      ],
+      "health_benefits": [
+        "蛋白質補給",
+        "腸道支持",
+        "早餐營養"
+      ],
+      "price_or_packaging": "每份 22 g 蛋白質、5 g 益生元纖維；價格未查得",
+      "summary": "將咖啡、蛋白質與益生元纖維組合為即飲早餐或運動補給產品。",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "product-bodyarmor-fit",
+      "title": "BODYARMOR FIT",
+      "brand": "Coca-Cola／BODYARMOR",
+      "market": "United States",
+      "retailer_or_channel": "未查得",
+      "product_format": "零糖機能氣泡運動飲",
+      "ingredients": [
+        "電解質",
+        "咖啡因",
+        "膽鹼",
+        "綠茶萃取"
+      ],
+      "health_benefits": [
+        "運動補水",
+        "能量",
+        "專注"
+      ],
+      "price_or_packaging": "290 mg 電解質、60 mg 咖啡因；價格未查得",
+      "summary": "首款罐裝 BODYARMOR 運動飲，將零糖、電解質與綠茶萃取結合。",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "product-quaker-oat-shake-go",
+      "title": "Oat Shake & Go",
+      "brand": "Quaker",
+      "market": "United States",
+      "retailer_or_channel": "未查得",
+      "product_format": "可攜即飲燕麥飲",
+      "ingredients": [
+        "全穀燕麥",
+        "蛋白質",
+        "纖維"
+      ],
+      "health_benefits": [
+        "早餐營養",
+        "飽足",
+        "蛋白質補給"
+      ],
+      "price_or_packaging": "每份 15 g 蛋白質、3 g 纖維；價格未查得",
+      "summary": "將可攜燕麥飲與蛋白質、纖維及全穀結合。",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    }
+  ],
+  "retail_signals": [
+    {
+      "id": "retail-familymart-imai-570",
+      "retailer": "全家便利商店",
+      "market": "Taiwan",
+      "category": "無糖高纖即飲茶",
+      "title": "義美無糖高纖油切茶 570 ml 上架",
+      "price_range": "未查得",
+      "summary": "便利商店規格對應即時飲用與外食情境。",
+      "data_limitation": "單一平台／通路可見訊號，不代表全市場銷售表現。",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "retail-taiwan-mass-imai-946",
+      "retailer": "全聯、大全聯、萬家福、樂家康、愛買",
+      "market": "Taiwan",
+      "category": "無糖高纖即飲茶",
+      "title": "義美無糖高纖油切茶 946 ml 上架",
+      "price_range": "未查得",
+      "summary": "大容量規格對應家庭、聚餐與量販補水需求。",
+      "data_limitation": "單一通路可見訊號，不代表全市場銷售表現。",
+      "published_or_found_date": "2026-10-07",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "retail-us-protein-hydration",
+      "retailer": "Walmart.com、Amazon、Gatorade.com、TikTok Shop",
+      "market": "United States",
+      "category": "蛋白質、纖維與電解質補給",
+      "title": "Propel Clear Protein 通路布局",
+      "price_range": "未查得",
+      "summary": "蛋白質、纖維與電解質組合透過電商、品牌官網與社群商務銷售。",
+      "data_limitation": "單一平台可見訊號，不代表全市場銷售表現。",
+      "published_or_found_date": "2026-10-28",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "retail-us-ashwagandha-recall",
+      "retailer": "Amazon、Whole Foods Market",
+      "market": "United States",
+      "category": "適應原補充品",
+      "title": "365 Whole Foods Market Ashwagandha Capsules 回收",
+      "price_range": "未查得",
+      "summary": "FDA 公布因潛在沙門氏菌污染而回收。",
+      "data_limitation": "官方回收資訊，非銷售表現。",
+      "published_or_found_date": "2026-10-30",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    }
+  ],
+  "pricing_analysis": {
+    "methodology_note": "價格依公開可見資訊整理，可能不反映實際成交價、通路抽成、運費、稅金、會員折扣、訂閱折扣、回饋金、私下補貼或促銷成本。",
+    "primary_currency": "TWD",
+    "exchange_rate_note": "本月主要使用台灣資料；未進行跨國價格換算。",
+    "last_price_check_date": "2026-11-05",
+    "price_bands": [
+      {
+        "id": "price-band-sugar-free-high-fiber-tea-taiwan",
+        "category": "無糖高纖即飲茶",
+        "market": "Taiwan",
+        "comparison_unit": "每瓶價格 TWD",
+        "entry_price_range": "未查得",
+        "value_price_range": "未查得",
+        "mainstream_price_range": "未查得",
+        "premium_price_range": "未查得",
+        "observations": "義美推出 570 ml 便利規格與 946 ml 量販規格，但公開價格未查得，無法建立可比化價格帶。",
+        "source_urls": [
+          "https://pinnews.com.tw/archives/96066"
+        ]
+      },
+      {
+        "id": "price-band-protein-fiber-beverage-global",
+        "category": "蛋白質＋纖維機能飲",
+        "market": "United States",
+        "comparison_unit": "每份價格 USD",
+        "entry_price_range": "未查得",
+        "value_price_range": "未查得",
+        "mainstream_price_range": "未查得",
+        "premium_price_range": "未查得",
+        "observations": "Propel Clear Protein、Starbucks Coffee & Protein 與 Quaker Oat Shake & Go 顯示蛋白質與纖維組合，但價格未查得。",
+        "source_urls": [
+          "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+        ]
+      }
+    ],
+    "competitor_pricing": [
+      {
+        "id": "pricing-imai-sugar-free-high-fiber-tea-570",
+        "brand": "義美",
+        "product_name": "無糖高纖油切茶",
+        "market": "Taiwan",
+        "product_category": "無糖高纖即飲茶",
+        "product_format": "即飲茶",
+        "core_benefits": [
+          "高纖",
+          "無糖",
+          "清爽解膩"
+        ],
+        "key_ingredients": [
+          "100% 台灣茶葉",
+          "台灣苦瓜",
+          "膳食纖維"
+        ],
+        "package_description": "570 ml",
+        "total_servings": 1,
+        "total_weight_g": null,
+        "total_volume_ml": 570,
+        "fiber_per_serving_g": null,
+        "active_ingredient_per_serving_g": null,
+        "recommended_servings_per_day": null,
+        "msrp_or_regular_price": null,
+        "current_selling_price": null,
+        "promotion_price": null,
+        "coupon_or_subscription_discount": null,
+        "mandatory_shipping_or_fees": null,
+        "estimated_effective_price": null,
+        "price_per_serving": null,
+        "daily_cost": null,
+        "price_per_100g": null,
+        "price_per_100ml": null,
+        "price_per_g_fiber": null,
+        "price_per_g_active": null,
+        "promotion_depth_percent": null,
+        "price_check_date": "2026-11-05",
+        "channel": "全家、義美門市",
+        "price_positioning": "未查得",
+        "inferred_pricing_strategy": "依公開價格、規格、促銷與通路訊號推定：便利即飲定位，但價格資料不足",
+        "strategy_rationale": "570 ml 進入便利商店與品牌門市，適合即時飲用與外食情境。",
+        "data_limitation": "公開價格未查得，無法計算可比化單位。",
+        "source_urls": [
+          "https://pinnews.com.tw/archives/96066"
+        ]
+      },
+      {
+        "id": "pricing-imai-sugar-free-high-fiber-tea-946",
+        "brand": "義美",
+        "product_name": "無糖高纖油切茶",
+        "market": "Taiwan",
+        "product_category": "無糖高纖即飲茶",
+        "product_format": "即飲茶",
+        "core_benefits": [
+          "高纖",
+          "無糖",
+          "清爽解膩"
+        ],
+        "key_ingredients": [
+          "100% 台灣茶葉",
+          "台灣苦瓜",
+          "膳食纖維"
+        ],
+        "package_description": "946 ml",
+        "total_servings": 1,
+        "total_weight_g": null,
+        "total_volume_ml": 946,
+        "fiber_per_serving_g": null,
+        "active_ingredient_per_serving_g": null,
+        "recommended_servings_per_day": null,
+        "msrp_or_regular_price": null,
+        "current_selling_price": null,
+        "promotion_price": null,
+        "coupon_or_subscription_discount": null,
+        "mandatory_shipping_or_fees": null,
+        "estimated_effective_price": null,
+        "price_per_serving": null,
+        "daily_cost": null,
+        "price_per_100g": null,
+        "price_per_100ml": null,
+        "price_per_g_fiber": null,
+        "price_per_g_active": null,
+        "promotion_depth_percent": null,
+        "price_check_date": "2026-11-05",
+        "channel": "全聯、大全聯、萬家福、樂家康、愛買",
+        "price_positioning": "未查得",
+        "inferred_pricing_strategy": "依公開價格、規格、促銷與通路訊號推定：大容量量販定位，但價格資料不足",
+        "strategy_rationale": "946 ml 進入量販通路，適合家庭、聚餐與大容量補水。",
+        "data_limitation": "公開價格未查得，無法計算可比化單位。",
+        "source_urls": [
+          "https://pinnews.com.tw/archives/96066"
+        ]
+      }
+    ],
+    "price_pack_architecture": [
+      {
+        "id": "ppa-sugar-free-high-fiber-tea-taiwan",
+        "category": "無糖高纖即飲茶",
+        "market": "Taiwan",
+        "occasion": "餐後／外食／家庭補水",
+        "entry_pack": "570 ml 單瓶",
+        "entry_price_point": null,
+        "core_pack": "未查得",
+        "core_price_point": null,
+        "stock_up_pack": "946 ml 大容量",
+        "stock_up_price_point": null,
+        "premium_pack": "未查得",
+        "premium_price_point": null,
+        "price_ladder_observation": "義美已建立便利與量販雙規格，但公開價格未查得，無法確認價格階梯。",
+        "channel_consideration": "便利商店、量販與電商需分別管理價格與促銷，避免價格衝突。",
+        "source_urls": [
+          "https://pinnews.com.tw/archives/96066"
+        ]
+      },
+      {
+        "id": "ppa-protein-fiber-beverage",
+        "category": "蛋白質＋纖維機能飲",
+        "market": "United States",
+        "occasion": "早餐／運動後／飲控",
+        "entry_pack": "未查得",
+        "entry_price_point": null,
+        "core_pack": "未查得",
+        "core_price_point": null,
+        "stock_up_pack": "未查得",
+        "stock_up_price_point": null,
+        "premium_pack": "高蛋白＋益生元纖維",
+        "premium_price_point": null,
+        "price_ladder_observation": "國際產品顯示蛋白質與益生元纖維組合，但價格與規格未查得。",
+        "channel_consideration": "需區分電商、便利與健身房通路的價格與包裝。",
+        "source_urls": [
+          "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+        ]
+      }
+    ],
+    "category_pricing_implications": [
+      {
+        "id": "pricing-implication-sugar-free-high-fiber-tea",
+        "category": "無糖高纖即飲茶",
+        "current_price_map": "義美推出 570 ml 與 946 ml，但公開價格未查得。",
+        "common_pricing_patterns": "便利規格對應即時飲用，量販規格對應家庭與聚餐。",
+        "overcrowded_price_points": "未查得",
+        "potential_white_space": "具有明確風味、無咖啡因、餐後解膩與可驗證纖維含量的規格。",
+        "premium_value_drivers": [
+          "台灣茶葉來源",
+          "無糖",
+          "可驗證纖維含量",
+          "餐後使用情境",
+          "大容量補水"
+        ],
+        "channel_conflict_risks": "便利商店、量販與電商價格差異可能造成品牌價值稀釋。",
+        "validation_needed": "以便利商店、量販與電商進行價格與包裝 A/B test。",
+        "source_urls": [
+          "https://pinnews.com.tw/archives/96066"
+        ]
+      }
+    ],
+    "data_limitations": [
+      "公開標價不一定等於實際成交價。",
+      "單一平台的銷量、排名、評價與促銷不代表全市場。",
+      "運費、會員折扣、回饋金、組合價、稅金與第三方賣家可能造成價格差異。",
+      "未掌握真實成本、毛利、通路抽成與價格彈性時，不可推論最佳價格。",
+      "定價建議需以試賣、問卷、A/B test、Gabor-Granger、Van Westendorp 或實際銷售資料驗證。"
+    ]
+  },
+  "social_trends": [
+    {
+      "id": "social-imai-sugar-free-high-fiber-tea",
+      "platforms": [
+        "台灣生活風格媒體",
+        "公開社群"
+      ],
+      "name": "義美無糖高纖油切茶",
+      "category": "社群／搜尋／媒體",
+      "summary": "媒體報導新品上市，社群出現風味、通路與大容量規格討論。",
+      "momentum_score": 74,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_confirmed",
+      "source_count": 3,
+      "verification_status": "confirmed",
+      "next_step": "追蹤門市與量販通路持續販售、價格與社群討論是否延續。",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://pinnews.com.tw/archives/97044"
+      ]
+    },
+    {
+      "id": "social-protein-fiber-hydration",
+      "platforms": [
+        "Beverage Industry",
+        "市場研究媒體"
+      ],
+      "name": "蛋白咖啡、蛋白水與益生元纖維",
+      "category": "社群／搜尋／媒體",
+      "summary": "Propel、Starbucks、Quaker 等產品將蛋白質、纖維與電解質組合。",
+      "momentum_score": 72,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "source_count": 2,
+      "verification_status": "pending",
+      "next_step": "追蹤台灣品牌、零售通路及社群是否出現持續承接。",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration",
+        "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+      ]
+    },
+    {
+      "id": "social-zero-sugar-sports-tea",
+      "platforms": [
+        "Beverage Industry",
+        "品牌資訊"
+      ],
+      "name": "零糖運動氣泡飲與綠茶萃取",
+      "category": "社群／搜尋／媒體",
+      "summary": "BODYARMOR FIT 結合電解質、咖啡因、膽鹼與綠茶萃取。",
+      "momentum_score": 63,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "emerging_pending",
+      "source_count": 1,
+      "verification_status": "pending",
+      "next_step": "確認是否有其他品牌及台灣零售上架。",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "social-taiwan-tea-global",
+      "platforms": [
+        "SIAL Paris",
+        "工商時報"
+      ],
+      "name": "Taiwan Tea 台灣茶國際推廣",
+      "category": "社群／搜尋／媒體",
+      "summary": "台灣茶於 SIAL Paris 2026 進行海外推廣。",
+      "momentum_score": 58,
+      "previous_momentum_score": null,
+      "monthly_change": null,
+      "trend_status": "rising",
+      "source_count": 2,
+      "verification_status": "pending",
+      "next_step": "追蹤台灣茶在海外機能飲品與茶飲品牌的採用。",
+      "source_urls": [
+        "https://www.ctee.com.tw/search/%E5%8F%B0%E7%81%A3%E8%8C%B6"
+      ]
+    }
+  ],
+  "research_reports": [
+    {
+      "id": "report-functional-beverage-gii-2026",
+      "organization": "GII Research",
+      "title": "Functional Beverage Market Report: Trends, Forecast and Competitive Analysis to 2035",
+      "category": "市場研究",
+      "published_or_found_date": "2026-10-26",
+      "summary": "研究指出品牌將以電解質、纖維與蛋白質含量作為競爭差異；蛋白、能量、腸道與低糖型態為成長方向。",
+      "implication_for_taiwan": "台灣產品應以每份含量、口感與通路情境建立差異，而非只靠「機能」標籤。",
+      "source_urls": [
+        "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+      ]
+    },
+    {
+      "id": "report-functional-foods-future",
+      "organization": "FoodNavigator",
+      "title": "How functional became food’s future",
+      "category": "市場研究",
+      "published_or_found_date": "2026-10-23",
+      "summary": "報導指出全球功能性食品與飲品市場在過去五年顯著擴大。",
+      "implication_for_taiwan": "功能性已成為長期方向，但台灣仍需以通路、價格與消費者測試驗證。",
+      "source_urls": [
+        "https://www.foodnavigator.com/Article/2026/10/23/how-functional-became-foods-future/"
+      ]
+    },
+    {
+      "id": "report-functional-foods-drinks-2026",
+      "organization": "Research and Markets",
+      "title": "Functional Foods and Drinks - Global Strategic Business Report",
+      "category": "市場研究",
+      "published_or_found_date": "2026-10-01",
+      "summary": "報告估計全球功能性食品與飲品市場 2024 年約 2,788 億美元，2030 年約 4,285 億美元，並強調蛋白強化產品需求。",
+      "implication_for_taiwan": "蛋白質、益生元、益生菌與抗氧化成分仍是全球機能食品重要方向。",
+      "source_urls": [
+        "https://www.researchandmarkets.com/reports/344056/functional_foods_and_drinks_global_strategic"
+      ]
+    },
+    {
+      "id": "report-functional-beverage-pivot-2026",
+      "organization": "DataM Intelligence",
+      "title": "Functional Beverages’ 2026 Pivot: Protein Coffee, Hydration Mixes and Probiotic Claims Redefine the Category",
+      "category": "市場研究",
+      "published_or_found_date": "2026-10-28",
+      "summary": "公開摘要指出蛋白咖啡、補水混合飲與益生菌宣稱正在重塑機能飲品，並列出 PepsiCo、Coca-Cola 與 Yakult 的產品動態。",
+      "implication_for_taiwan": "台灣可測試蛋白質＋纖維＋低糖茶，以及電解質＋綠茶萃取＋零糖氣泡飲。",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    }
+  ],
+  "supply_chain_risks": [
+    {
+      "id": "supply-undeclared-pharmaceuticals",
+      "name": "補充品摻入未標示藥物成分",
+      "category": "供應鏈／原料／跨境合規",
+      "risk_level": "high",
+      "summary": "FDA 10 月公布 Ultimate Forza Male Supplement 含未標示 sildenafil、tadalafil 與 dapoxetine。",
+      "potential_impact": "可能造成嚴重交互作用、召回、進口合規與通路信任風險。",
+      "recommended_action": "對高風險補充品進行第三方廣篩檢測，並建立進口批次放行標準。",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared"
+      ]
+    },
+    {
+      "id": "supply-ashwagandha-microbiology",
+      "name": "適應原原料微生物污染",
+      "category": "供應鏈／原料／產品品質",
+      "risk_level": "high",
+      "summary": "FDA 公布一款 365 Whole Foods Market Ashwagandha Capsules 因潛在沙門氏菌污染回收。",
+      "potential_impact": "可能造成食安事件、召回與品牌信任損失。",
+      "recommended_action": "建立適應原原料微生物、農藥、重金屬與真偽鑑別檢驗。",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    },
+    {
+      "id": "supply-herbal-adulteration",
+      "name": "草本與傳統配方摻偽",
+      "category": "供應鏈／原料／跨境合規",
+      "risk_level": "high",
+      "summary": "FDA 對 New Green Nutrition 發出警示函，實驗室檢出 Qu Feng Huo Luo Dan 含 dexamethasone。",
+      "potential_impact": "可能造成藥物交互作用、召回、進口合規與品牌信任風險。",
+      "recommended_action": "建立草本配方藥物殘留篩檢、成分鑑別與廣告審查。",
+      "source_urls": [
+        "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-737576-10262026"
+      ]
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opportunity-post-meal-high-fiber-tea",
+      "title": "餐後解膩高纖茶",
+      "consumer_need": "外食、便當、炸物或火鍋後想喝無糖飲品。",
+      "competitor_landscape": "義美已推出無糖高纖油切茶，並進入便利與量販通路。",
+      "product_direction": "台灣茶＋苦瓜／柚香／洛神高纖無糖茶。",
+      "target_context": "外食族、上班族、家庭。",
+      "competitive_advantage": "在地茶、無糖、纖維、餐後情境。",
+      "pricing_or_packaging_opportunity": "570 ml 便利規格＋946 ml 量販規格。",
+      "risk_or_validation": "需測試苦瓜苦味、纖維沉澱與通路價格。",
+      "evidence_level": "high",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "opportunity-protein-prebiotic-tea",
+      "title": "蛋白質＋益生元纖維茶飲",
+      "consumer_need": "早餐、運動後與飲控族需要蛋白與腸道支持。",
+      "competitor_landscape": "國際已有蛋白咖啡與蛋白纖維產品。",
+      "product_direction": "低糖蛋白綠茶、抹茶或烏龍飲。",
+      "target_context": "上班族、健身者、早餐族。",
+      "competitive_advantage": "茶風味可區隔奶昔型蛋白飲。",
+      "pricing_or_packaging_opportunity": "單罐試飲＋4 入組。",
+      "risk_or_validation": "茶乳分離、蛋白腥味、成本與冷鏈。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "opportunity-electrolyte-green-tea-sports",
+      "title": "電解質＋綠茶萃取運動飲",
+      "consumer_need": "運動補水、專注與低糖需求。",
+      "competitor_landscape": "BODYARMOR FIT 結合電解質、咖啡因、膽鹼與綠茶萃取。",
+      "product_direction": "零糖綠茶電解質氣泡飲。",
+      "target_context": "健身者、戶外活動者、上班族。",
+      "competitive_advantage": "茶萃取提供風味與機能敘事。",
+      "pricing_or_packaging_opportunity": "單罐、4 入、12 入。",
+      "risk_or_validation": "咖啡因標示、運動宣稱與電解質含量。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "opportunity-family-size-fiber-tea",
+      "title": "無糖高纖大容量家庭包",
+      "consumer_need": "家庭聚餐、火鍋與烤肉後想喝無糖茶。",
+      "competitor_landscape": "義美 946 ml 已進入量販通路。",
+      "product_direction": "946 ml 無糖高纖茶、家庭 4 入組。",
+      "target_context": "家庭、聚餐、量販購買者。",
+      "competitive_advantage": "大容量、無糖、纖維、在地茶。",
+      "pricing_or_packaging_opportunity": "大容量瓶＋4 入組。",
+      "risk_or_validation": "需確認大容量包裝、運費與通路毛利。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "opportunity-portable-protein-oat",
+      "title": "可攜蛋白燕麥飲",
+      "consumer_need": "早餐快速營養與飽足。",
+      "competitor_landscape": "Quaker Oat Shake & Go 已結合蛋白質、纖維與全穀燕麥。",
+      "product_direction": "台灣風味燕麥蛋白飲。",
+      "target_context": "上班族、學生、健身者。",
+      "competitive_advantage": "可攜、飽足、全穀與蛋白質。",
+      "pricing_or_packaging_opportunity": "單瓶、4 入、12 入。",
+      "risk_or_validation": "口感、甜度、蛋白來源與冷鏈。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "opportunity-low-risk-adaptogen-tea",
+      "title": "低風險適應原茶飲",
+      "consumer_need": "想要舒壓但重視安全與成分透明。",
+      "competitor_landscape": "適應原產品存在，但本月出現微生物污染回收。",
+      "product_direction": "無咖啡因南非醉茄或草本茶，並公開檢驗資訊。",
+      "target_context": "上班族、晚間使用者。",
+      "competitive_advantage": "品質透明與安全檢驗。",
+      "pricing_or_packaging_opportunity": "單包、7 日包、28 日包。",
+      "risk_or_validation": "宣稱風險、原料真偽與微生物管理。",
+      "evidence_level": "medium",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alert-fda-ultimate-forza",
+      "title": "男性機能補充品含未標示藥物成分",
+      "category": "回收／食安",
+      "priority": "high",
+      "summary": "FDA 於 10 月 24 日公布 Ultimate Forza Male Supplement 含未標示 sildenafil、tadalafil 與 dapoxetine。",
+      "recommended_action": "對高風險進口補充品建立第三方成分廣篩與召回流程。",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared"
+      ]
+    },
+    {
+      "id": "alert-fda-ashwagandha-salmonella",
+      "title": "適應原補充品潛在沙門氏菌污染",
+      "category": "食安／供應鏈",
+      "priority": "high",
+      "summary": "FDA 於 10 月 30 日公布 365 Whole Foods Market Ashwagandha Capsules 因潛在沙門氏菌污染回收。",
+      "recommended_action": "建立適應原原料微生物、農藥、重金屬與真偽鑑別檢驗。",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential"
+      ]
+    },
+    {
+      "id": "alert-fda-herbal-steroid",
+      "title": "草本產品檢出 dexamethasone",
+      "category": "警示函／食安",
+      "priority": "high",
+      "summary": "FDA 對 New Green Nutrition 發出警示函，實驗室檢出 Qu Feng Huo Luo Dan 含 dexamethasone。",
+      "recommended_action": "建立草本配方藥物殘留篩檢、成分鑑別與廣告審查。",
+      "source_urls": [
+        "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-737576-10262026"
+      ]
+    }
+  ],
+  "confirmed_signals": [
+    {
+      "id": "confirmed-imai-sugar-free-high-fiber-tea",
+      "name": "台灣無糖高纖即飲茶",
+      "category": "產品型態／消費需求／零售趨勢",
+      "momentum_score": 74,
+      "summary": "義美無糖高纖油切茶結合台灣茶、苦瓜與膳食纖維，並以 570 ml 便利規格與 946 ml 量販規格進入多通路。",
+      "source_count": 3,
+      "source_types": [
+        "品牌新品",
+        "可信媒體",
+        "零售通路"
+      ],
+      "verification_status": "confirmed",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066",
+        "https://pinnews.com.tw/archives/97044"
+      ]
+    }
+  ],
+  "pending_signals": [
+    {
+      "id": "pending-protein-fiber-hydration",
+      "name": "蛋白質＋纖維＋電解質複合機能飲",
+      "category": "產品型態／消費需求",
+      "momentum_score": 72,
+      "summary": "Propel Clear Protein、Starbucks Coffee & Protein 與 Quaker Oat Shake & Go 將蛋白質、纖維與電解質組合。",
+      "source_count": 2,
+      "evidence_gap": "缺少台灣品牌、零售上架或跨平台持續訊號。",
+      "next_step": "下月追蹤台灣品牌、零售通路及消費者口味反應。",
+      "verification_status": "pending",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration",
+        "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html"
+      ]
+    },
+    {
+      "id": "pending-zero-sugar-sports-tea",
+      "name": "零糖運動氣泡飲與綠茶萃取",
+      "category": "產品型態／功能性成分",
+      "momentum_score": 63,
+      "summary": "BODYARMOR FIT 將零糖、電解質、咖啡因、膽鹼與綠茶萃取結合。",
+      "source_count": 1,
+      "evidence_gap": "缺少第二個品牌、台灣零售上架或跨平台持續訊號。",
+      "next_step": "追蹤其他品牌及台灣零售上架。",
+      "verification_status": "pending",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "pending-taiwan-tea-global",
+      "name": "台灣茶國際機能化",
+      "category": "國際商業／產品型態",
+      "momentum_score": 58,
+      "summary": "台灣茶於 SIAL Paris 2026 進行海外推廣。",
+      "source_count": 2,
+      "evidence_gap": "缺少海外機能飲品牌採用及銷售證據。",
+      "next_step": "追蹤台灣茶在海外機能飲品與茶飲品牌的採用。",
+      "verification_status": "pending",
+      "source_urls": [
+        "https://www.ctee.com.tw/search/%E5%8F%B0%E7%81%A3%E8%8C%B6"
+      ]
+    },
+    {
+      "id": "pending-glp1-nutrition-support",
+      "name": "GLP-1 使用者營養支持",
+      "category": "消費需求／代謝飲控",
+      "momentum_score": 29,
+      "summary": "蛋白質、纖維與營養密度可作為 GLP-1 使用者支持產品的觀察方向。",
+      "source_count": 0,
+      "evidence_gap": "本月未取得足夠台灣產品、官方指引或零售訊號。",
+      "next_step": "下月追蹤美國營養品牌、臨床研究及台灣通路。",
+      "verification_status": "pending",
+      "source_urls": []
+    },
+    {
+      "id": "pending-sleep-drink-taiwan",
+      "name": "睡眠與舒壓飲",
+      "category": "健康需求／產品型態",
+      "momentum_score": 42,
+      "summary": "本月未查得足夠台灣新品與零售證據，但仍為功能飲品基線監測主題。",
+      "source_count": 0,
+      "evidence_gap": "缺少官方、零售及多品牌支持。",
+      "next_step": "追蹤 GABA、L-茶胺酸、鎂及草本晚間飲新品。",
+      "verification_status": "pending",
+      "source_urls": []
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "watch-tfda-food-safety",
+      "name": "TFDA 食品安全、回收與標示公告",
+      "category": "法規／食安",
+      "reason": "機能飲品及補充品的標示與原料安全風險持續存在。",
+      "priority": "high",
+      "next_step": "每週檢查 TFDA 公告及地方衛生局食安新聞。",
+      "source_urls": [
+        "https://www.fda.gov.tw/tc/csmnews.aspx"
+      ]
+    },
+    {
+      "id": "watch-imai-sugar-free-high-fiber-tea",
+      "name": "義美無糖高纖油切茶",
+      "category": "競品／零售／價格",
+      "reason": "義美 10 月推出無糖高纖油切茶，並進入便利與量販通路。",
+      "priority": "high",
+      "next_step": "每週記錄全家、全聯、momo、PChome、蝦皮與品牌官網價格。",
+      "source_urls": [
+        "https://pinnews.com.tw/archives/96066"
+      ]
+    },
+    {
+      "id": "watch-protein-fiber-hydration",
+      "name": "蛋白質＋纖維＋電解質複合機能飲",
+      "category": "競品／新品／成分",
+      "reason": "國際產品持續將蛋白質、纖維與電解質組合。",
+      "priority": "medium",
+      "next_step": "追蹤多品牌新品、台灣上架與消費者口味回饋。",
+      "source_urls": [
+        "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration"
+      ]
+    },
+    {
+      "id": "watch-adaptogen-safety",
+      "name": "適應原與草本產品安全",
+      "category": "法規／食安／供應鏈",
+      "reason": "FDA 10 月公布適應原沙門氏菌污染回收及草本產品含 dexamethasone 警示函。",
+      "priority": "high",
+      "next_step": "建立高風險原料清單、供應商稽核及批次檢驗。",
+      "source_urls": [
+        "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential",
+        "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-737576-10262026"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "義美無糖高纖油切茶上市報導",
+      "url": "https://pinnews.com.tw/archives/96066",
+      "source_type": "media",
+      "market": "Taiwan"
+    },
+    {
+      "title": "Functional Beverages’ 2026 Pivot",
+      "url": "https://www.openpr.com/news/4675275/functional-beverages-2026-pivot-protein-coffee-hydration",
+      "source_type": "market_research",
+      "market": "Global"
+    },
+    {
+      "title": "Functional Beverage Market Report",
+      "url": "https://www.giiresearch.com/report/luci2163081-functional-beverage-market-report-trends-forecast.html",
+      "source_type": "market_research",
+      "market": "Global"
+    },
+    {
+      "title": "FDA Ultimate Forza Recall",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared",
+      "source_type": "official",
+      "market": "United States"
+    },
+    {
+      "title": "FDA Ashwagandha Recall",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential",
+      "source_type": "official",
+      "market": "United States"
+    },
+    {
+      "title": "FDA New Green Nutrition Warning Letter",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-737576-10262026",
+      "source_type": "official",
+      "market": "United States"
+    },
+    {
+      "title": "Taiwan Tea at SIAL Paris 2026",
+      "url": "https://www.ctee.com.tw/search/%E5%8F%B0%E7%81%A3%E8%8C%B6",
+      "source_type": "media",
+      "market": "Taiwan"
+    }
+  ]
+}
